@@ -23,6 +23,7 @@
 
 	<!-- Main Stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="images/logo1.png">
 
 </head>
 
@@ -52,14 +53,14 @@
 			</div>
 		</section>
 
-	<!--Main Part-->
+		<!--Main Part-->
 
-	<section class="section service border-top bg-gray">
-		<div class="container">
-			<div class="row">
+		<section class="section service border-top bg-gray">
+			<div class="container">
+				<div class="row">
 
 
-				<h2>Loan Boarding Services</h2>
+					<h2>Loan Boarding Services</h2>
 
 
 				<p>Our servicing system has successfully enabled lenders across the world to manage daily boarding and purchase boarding of mortgage loans. Our expertise in handling purchase loan boarding along with daily transactions using innovative and streamlined workflows has made us the trusted service partner of some of the biggest players in the mortgage industry. As a premium mortgage loan boarding services company we evaluate all loan portfolios prior to purchase to ensure that there are no errors or missing information in your data.</p>
@@ -148,8 +149,7 @@
 						<img src="images\lbs.png" class="col-12 pl-0">
 					</div>
 				</div>
-			</div>
-	</section>
+		</section>
 	</div>
 	</section>
 

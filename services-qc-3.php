@@ -23,6 +23,7 @@
 
 	<!-- Main Stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="images/logo1.png">
 
 </head>
 
@@ -31,7 +32,7 @@
 	<?php include('header.php'); ?>
 
 	<div class="main-wrapper ">
-		<section class="page-title bg-services-1">
+		<section class="page-title bg-qc-3">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">

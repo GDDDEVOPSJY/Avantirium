@@ -23,6 +23,7 @@
 
 	<!-- Main Stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="images/logo1.png">
 
 </head>
 
@@ -69,7 +70,7 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-desktop"></i>
+							<i class=""><img src="images/icons/loan-setup.png" style="height: 65px"></i>
 							<h4 class="mb-3">LOAN SETUP</h4>
 							<p>We organize the documents and index them into the appropriate folders for easy management.Then we complete the 1003 and other forms in LOS.</p>
 						</div>
@@ -77,7 +78,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-layers"></i>
+							<i class="ti-layers text-color3"></i>
 							<h4 class="mb-3">LOAN PROCESSING SUPPORT</h4>
 							<p>We review the loan packet for quality control, perform an initial credit check and pre-approval. Third-party documents (Title, VOE & HOI) are ordered and received. </p>
 						</div>
@@ -85,7 +86,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-bar-chart"></i>
+							<i class="ti-pencil-alt text-color3"></i>
 							<h4 class="mb-3">UNDERWRITING SUPPORT</h4>
 							<p>Appraisal review and request revisions, if needed. Review the Income, Asset and Title report.Look over AUS findings and clear conditions.Final sign-off; approval for funding.</p>
 						</div>
@@ -93,7 +94,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-vector"></i>
+							<i class="ti-vector text-color3"></i>
 							<h4 class="mb-3">CLOSING SUPPORT</h4>
 							<p>Prepare closing documents and perform final review. Clear conditions for closing and send the closing instructions. A Prelim document is prepared and the final document reviewed.Schedule and coordinate closing</p>
 						</div>
@@ -101,7 +102,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-android"></i>
+							<i class="ti-car text-color3"></i>
 							<h4 class="mb-3">SHIPPING/LOAN DELIVERY</h4>
 							<p>We’ll prepare and review final loan packages.The documents are uploaded to the Investor’s portals.Submit the package after completing the loan delivery form.</p>
 						</div>
@@ -109,7 +110,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-pencil-alt"></i>
+							<i class="ti-user text-color3"></i>
 							<h4 class="mb-3">POST CLOSING SUPPORT</h4>
 							<p>Retrieve all trailing documents.Perform a post-closing compliance audit.Ensure continuous improvement by performing a quality control audit.</p>
 						</div>

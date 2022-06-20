@@ -23,6 +23,7 @@
 
 	<!-- Main Stylesheet -->
 	<link rel="stylesheet" href="css/style.css">
+	<link rel="shortcut icon" href="images/logo1.png">
 
 </head>
 
@@ -31,12 +32,12 @@
 	<?php include('header.php'); ?>
 
 	<div class="main-wrapper ">
-		<section class="page-title bg-services-1">
+		<section class="page-title bg-qc-2">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="block text-center">
-							<h1 class="text-capitalize mb-4 text-lg">Mortgage QC Services</h1>
+							<h1 class="text-capitalize mb-4 text-lg">Mortgage Prefund QC Audit Services</h1>
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
 								<li class="list-inline-item"><span class="text-white">/</span></li>

@@ -592,6 +592,26 @@ ul.dropdown-menu li {
   background: url("../images/bg/services/4.jpeg");
   background-size: cover;
 }
+.bg-services-5 {
+  background: url("../images/bg/services/5.jpg");
+  background-size: cover;
+}
+.bg-services-6 {
+  background: url("../images/bg/services/6.jpg");
+  background-size: cover;
+}
+.bg-qc-1 {
+  background: url("../images/bg/services/qc-1.jpg");
+  background-size: cover;
+}
+.bg-qc-2 {
+  background: url("../images/bg/services/qc-2.jpg");
+  background-size: cover;
+}
+.bg-qc-3 {
+  background: url("../images/bg/services/qc-3.jpg");
+  background-size: cover;
+}
 .bg-more-services-1 {
   background: url("../images/bg/services/more-1.jpg");
   background-size: cover;
@@ -608,7 +628,6 @@ ul.dropdown-menu li {
   background: url("../images/bg/services/more-4.jpg");
   background-size: cover;
 }
-
 
 .slider {
   background: url("../images/bg/home-1.jpg") no-repeat;
