@@ -592,6 +592,14 @@ ul.dropdown-menu li {
   background: url("../images/bg/services/4.jpeg");
   background-size: cover;
 }
+.bg-services-5 {
+  background: url("../images/bg/services/5.jpg");
+  background-size: cover;
+}
+.bg-services-6 {
+  background: url("../images/bg/services/6.jpg");
+  background-size: cover;
+}
 .bg-qc-1 {
   background: url("../images/bg/services/qc-1.jpg");
   background-size: cover;
