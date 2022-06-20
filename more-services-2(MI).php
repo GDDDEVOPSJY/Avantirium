@@ -31,7 +31,7 @@
 	<?php include('header.php'); ?>
 
 	<div class="main-wrapper ">
-		<section class="page-title bg-services-1">
+		<section class="page-title bg-more-services-2">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12">
@@ -42,7 +42,7 @@
 								<li class="list-inline-item"><span class="text-white">/</span></li>
 								<li class="list-inline-item"><a href="services.php" class="text-white">Services</a></li>
 								<li class="list-inline-item"><span class="text-white">/</span></li>
-								<li class="list-inline-item"><a href="services.php" class="text-white">More Services</a></li>
+								<li class="list-inline-item"><a href="services.php#More Services" class="text-white">More Services</a></li>
 								<li class="list-inline-item"><span class="text-white">/</span></li>
 								<li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Indexing Services</a></li>
 							</ul>
@@ -51,16 +51,6 @@
 				</div>
 			</div>
 		</section>
-
-		<section class="section blog-wrap bg-gray">
-			<div class="container">
-				<div class="row">
-
-				</div>
-			</div>
-		</section>
-	</div>
-
 
 	<!--Main Part-->
 

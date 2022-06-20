@@ -42,7 +42,7 @@
 								<li class="list-inline-item"><span class="text-white">/</span></li>
 								<li class="list-inline-item"><a href="services.php" class="text-white">Services</a></li>
 								<li class="list-inline-item"><span class="text-white">/</span></li>
-								<li class="list-inline-item"><a href="services.php" class="text-white">Mortgage QC Services</a></li>
+								<li class="list-inline-item"><a href="services.php#QC Services" class="text-white">QC Services</a></li>
 								<li class="list-inline-item"><span class="text-white">/</span></li>
 								<li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Underwriting QC Services</a></li>
 							</ul>

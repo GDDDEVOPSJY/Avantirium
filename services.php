@@ -24,7 +24,7 @@
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="css/style.css">
 
-  <link rel="shortcut icon" href="images/logo.png">
+  <link rel="shortcut icon" href="images/logo1.png">
 
 </head>
 
@@ -171,45 +171,45 @@
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-qc-4.php"><img src="images/services/more-services-1.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="more-services-1(LB).php"><img src="images/services/more-services-1.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">Loan Boarding Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="more-services-1(LB).php">Loan Boarding Services</a></h4>
                 <p class="mb-3">Our servicing system has successfully enabled lenders across the world to manage daily boarding and purchase boarding of mortgage loans.</p>
-                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full" style="margin-top: 30px">Learn More</a>
+                <a href="more-services-1(LB).php" class=" btn btn-small btn-main btn-round-full" style="margin-top: 30px">Learn More</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-qc-4.php"><img src="images/services/more-services-2.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="more-services-2(MI).php"><img src="images/services/more-services-2.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">Mortgage Indexing Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="more-services-2(MI).php">Mortgage Indexing Services</a></h4>
                 <p class="mb-3">We have more than a decade of experience in providing mortgage document indexing and data extraction services for Mortgage Lenders.</p>
-                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+                <a href="more-services-2(MI).php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-qc-4.php"><img src="images/services/more-services-3.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="more-services-3(REO).php"><img src="images/services/more-services-3.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">REO Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="more-services-3(REO).php">REO Services</a></h4>
                 <p class="mb-3">We have wide experience in delivering a range of REO services to lenders and credit unions which we leverage and blend a with
                   equally wide range of technologies.</p>
-                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+                <a href="more-services-3(REO).php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-qc-4.php"><img src="images/services/more-services-4.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="more-services-4(TS).php"><img src="images/services/more-services-4.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">Title Support Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="more-services-4(TS).php">Title Support Services</a></h4>
                 <p class="mb-3">Mortgage title issues can be significant enough to cost a lender his business.</p>
-                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+                <a href="more-services-4(TS).php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
