@@ -62,6 +62,17 @@
         <h2>Title Support Services</h2>
 
 
+<<<<<<< HEAD
+<section class="section service border-top bg-gray">
+	<div class="container">
+		<div class="row">
+		
+		
+		<h2 class="text-center">Title Support Services</h2>
+							
+		
+=======
+>>>>>>> 14e1561d384c1770188d46baebcd0f3d8b06f25c
         <p>Mortgage title issues can be significant enough to cost a lender his business. So, a lender’s understanding of title issues is of paramount importance to their business. However, it’s not easy for lenders to have a good grasp of all the aspects of title reports as it requires some intricate understanding of several complexities. Expert Mortgage Assistance, one of the most renowned title search companies in USA, can provide you with specialized mortgage title support services to insulate you from many potential hidden and expensive legal problems.</p>
         <p>As a mortgage title support company, we have wide experience in checking the accuracy of important title details, noting down exceptions, and readying lenders for the required actions (to remedy title exclusions) before the closing date. We have been assisting large financial institutions, credit unions, and private bankers with their real estate title and settlement needs for nearly a decade. Leveraging this vast experience and combining it with a smooth process, we will help you complete all needs for mortgage title services with minimal delays and maximal accuracy.</p>
 

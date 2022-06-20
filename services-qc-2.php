@@ -30,6 +30,29 @@
 
 	<?php include('header.php'); ?>
 
+<<<<<<< HEAD
+<div class="main-wrapper ">
+    <section class="page-title bg-services-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="block text-center">
+                        <h1 class="text-capitalize mb-4 text-lg">Mortgage Prefund QC Audit Services</h1>
+                        <ul class="list-inline">
+                            <li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
+                            <li class="list-inline-item"><span class="text-white">/</span></li>
+                            <li class="list-inline-item"><a href="services.php" class="text-white">Services</a></li>
+                            <li class="list-inline-item"><span class="text-white">/</span></li>
+                            <li class="list-inline-item"><a href="services.php" class="text-white">QC Services</a></li>
+                            <li class="list-inline-item"><span class="text-white">/</span></li>
+                            <li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Prefund QC Audit Services</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+=======
 	<div class="main-wrapper ">
 		<section class="page-title bg-services-1">
 			<div class="container">
@@ -51,6 +74,7 @@
 				</div>
 			</div>
 		</section>
+>>>>>>> 14e1561d384c1770188d46baebcd0f3d8b06f25c
 
 		<section class="section blog-wrap bg-gray">
 			<div class="container">
