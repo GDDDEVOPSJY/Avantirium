@@ -30,7 +30,7 @@
 <?php include('header.php'); ?>
 
 <div class="main-wrapper ">
-    <section class="page-title bg-services-1">
+    <section class="page-title bg-services-6">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
