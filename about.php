@@ -77,19 +77,19 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="about-info-item mb-4 mb-lg-0">
-					<h3 class="mb-3"><span class="text-color mr-2 text-md ">01.</span>Our Mission</h3>
+					<h3 class="mb-3"><span class="text-color3 mr-2 text-md ">01.</span>Our Mission</h3>
 					<p>We engineer meaningful technology solutions to help businesses and societies flourish</p>
 				</div>		
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="about-info-item mb-4 mb-lg-0">
-					<h3 class="mb-3"><span class="text-color mr-2 text-md">02.</span>Vision</h3>
+					<h3 class="mb-3"><span class="text-color3 mr-2 text-md">02.</span>Vision</h3>
 					<p>Our vision is to be earth's most customer centric company; to build a company that people can trust for refining their business process.</p>
 				</div>		
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="about-info-item mb-4 mb-lg-0">
-					<h3 class="mb-3"><span class="text-color mr-2 text-md">03.</span>Our Approach</h3>
+					<h3 class="mb-3"><span class="text-color3 mr-2 text-md">03.</span>Our Approach</h3>
 					<p>Our approach works in the following steps: Assess, Design, Implementation & Operations.</p>
 				</div>		
 			</div>

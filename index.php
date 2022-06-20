@@ -61,21 +61,21 @@
 		<div class="row justify-content-center">
 			<div class="col-lg-4 col-md-6 col-12">
 				<div class="intro-item mb-5 mb-lg-0"> 
-					<i class="ti-desktop color-one"></i>
+					<i class="ti-desktop color-three"></i>
 					<h4 class="mt-4 mb-3">Best in Class</h4>
 					<p>Avantirium is a global outsourcing services enterprise ready to provide you with the best in Class services for every aspect of your Mortgage business.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="intro-item mb-5 mb-lg-0">
-					<i class="ti-medall color-one"></i> 
+					<i class="ti-medall color-three"></i> 
 					<h4 class="mt-4 mb-3">Innovation</h4>
 					<p>Because we have multiple decades of experience delivering outsourced solutions, we pass that advantage to you. As your ideal outsourcing business partner, we provide innovative ways to maximize profitability by increasing productivity.</p>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6">
 				<div class="intro-item">
-					<i class="ti-layers-alt color-one"></i>
+					<i class="ti-layers-alt color-three"></i>
 					<h4 class="mt-4 mb-3">Global Difference</h4>
 					<p>We recognize that different countries in different regions have strengths in particular technologies and services. We utilize the entire globe to find best in class services wherever they may be.</p>
 				</div>
@@ -93,14 +93,15 @@
 		<div class="row">
 			<div class="col-lg-6 offset-lg-6 offset-md-0">
 				<div class="about-item ">
-					
 					<h2 class="mt-3 mb-4 position-relative content-title">What We Are</h2>
 					<div class="about-content">
 						<h4 class="mb-3 position-relative"></h4>
-						<p class="mb-5">A company formed by professionals with decades of experience in the mortgage industry, commits itself to making mortgage process outsourcing faster, easier, better and more economical than ever before. 
-						We have experience in providing mortgage processing support services to blue-chip financial institutions in the areas of mortgage processing, underwriting, closing, post-closing and title services.</p>
-<br/>
-						<a href="about.php" class="btn btn-main btn-round-full">Get started</a>
+						<p class="mb-5">A company formed by professionals with decades of experience in the mortgage industry, 
+						commits itself to making mortgage process outsourcing faster, easier, better and more economical than ever before. 
+						We have experience in providing mortgage processing support services to blue-chip financial institutions 
+						in the areas of mortgage processing, underwriting, closing, post-closing and title services.</p>
+						<br/>
+						<a href="about.php" class="btn btn-main btn-round-full bg-color-2">Get started</a>
 					</div>
 				</div>
 			</div>
@@ -184,7 +185,7 @@
 				<div class="cta-item  bg-white p-5 rounded">
 					<h2 class="mt-2 mb-4">Mortgage Processing Support Services</h2>
 					<p class="lead mb-4">Profit margin compression is one of the biggest challenges faced by the mortgage industry clients. Also, the industry constantly faces issues with data quality, limited analytics, increased risks, limited capabilities to detect fraud, inferior pricing, etc. </p>
-					<a href="services.php" class="btn btn-main btn-round-full">Read More</a>
+					<a href="services.php" class="btn btn-main btn-round-full bg-color-3">Read More</a>
 				</div>
 			</div>
 		</div>
@@ -271,7 +272,7 @@
 				<h2 class="mt-2 mb-4 mb-lg-0"><span style="color:white">Entrust Your Project to Our Best Team of Professionals</span></h2>
 			</div>
 			<div class="col-lg-4">
-				<a href="contact.php" class="btn btn-main btn-round-full float-lg-right ">Contact Us</a>
+				<a href="contact.php" class="btn btn-main btn-round-full float-lg-right bg-color-1">Contact Us</a>
 			</div>
 		</div>
 	</div>

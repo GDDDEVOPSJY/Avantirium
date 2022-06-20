@@ -307,11 +307,11 @@ input[type="tel"]:focus {
 }
 
 .text-color2 {
-  color: #c54041;
+  color: #095064;
 }
 
-.text-color2 {
-  color: #b99769;
+.text-color3 {
+  color: #0f7c9a;
 }
 
 .text-sm {
@@ -630,24 +630,34 @@ ul.dropdown-menu li {
 }
 
 .color-two {
-  color: #00d747;
+  color: #095064;
 }
 
 .color-three {
-  color: #9262ff;
+  color: #0f7c9a;
 }
 
 .color-four {
   color: #088ed3;
 }
+.bg-color-1 {
+  background-color: #f75757;
+}
+.bg-color-2 {
+  background-color: #095064;
+}
+.bg-color-3 {
+  background-color: #0f7c9a;
+}
 
 .bg-about {
   position: absolute;
+  overflow: hidden;
   content: "";
   left: 0px;
   top: 0px;
   width: 45%;
-  min-height: 650px;
+  min-height: 560px;
   background: url("../images/about/home-8.jpg") no-repeat;
   background-size: cover;
 }
