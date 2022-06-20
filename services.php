@@ -106,9 +106,9 @@
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="services-5.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-4.php">Mortgage Closing Support Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="services-5.php">Mortgage Closing Support Services</a></h4>
                 <p class="mb-3">We specialize in providing back-office support services to lenders to close mortgages in an efficient, error-free, and compliant manner.</p>
                 <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
@@ -117,11 +117,11 @@
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="services-6.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-4.php">Mortgage Loan Modification And Origination Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="services-6.php">Mortgage Loan Modification And Origination Services</a></h4>
                 <p class="mb-3">We carry out the complete back-office support needs of the lender to process loan modification requirements.</p>
-                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+                <a href="services-6.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
@@ -131,33 +131,82 @@
         <div class="row">
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="services-qc-1.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
                 <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Post Closing Audit Services</a></h4>
                 <p class="mb-3">We have more than a decade of experience in providing lenders with robust back office support for post-closing mortgage audits.</p>
-                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+                <a href="services-qc-1.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="services-qc-2.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Prefund QC Audit Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="services-qc-2.php">Mortgage Prefund QC Audit Services</a></h4>
                 <p class="mb-3">We have more than a decade of experience in assisting lenders to identify discrepancies in the loan documentation.</p>
-                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+                <a href="services-qc-2.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
-              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <a href="services-qc-3.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Underwriting QC Services</a></h4>
-                <p class="mb-3">We have more than a decade of experience in assisting lenders to identify discrepancies in the loan documentation.</p>
-                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+                <h4 class="mt-3 mb-3"><a href="services-qc-3.php">Mortgage Underwriting QC Services</a></h4>
+                <p class="mb-3">Aventirium has over a decade of experience in providing robust back office support for lenders with Underwriting QC services.</p>
+                <a href="services-qc-3.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <h1 class="section-title" style="padding-top: 50px">More Services</h1>
+        <div class="row">
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-qc-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">Loan Boarding Services</a></h4>
+                <p class="mb-3">Our servicing system has successfully enabled lenders across the world to manage daily boarding and purchase boarding of mortgage loans.</p>
+                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full" style="margin-top: 30px">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-qc-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">Mortgage Indexing Services</a></h4>
+                <p class="mb-3">We have more than a decade of experience in providing mortgage document indexing and data extraction services for Mortgage Lenders.</p>
+                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-qc-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">REO Services</a></h4>
+                <p class="mb-3">We have wide experience in delivering a range of REO services to lenders and credit unions which we leverage and blend a with
+                  equally wide range of technologies.</p>
+                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-qc-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-qc-4.php">Title Support Services</a></h4>
+                <p class="mb-3">Mortgage title issues can be significant enough to cost a lender his business.</p>
+                <a href="services-qc-4.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
