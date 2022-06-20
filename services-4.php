@@ -30,43 +30,6 @@
 
 	<?php include('header.php'); ?>
 
-<<<<<<< HEAD
-<div class="main-wrapper ">
-<section class="page-title bg-services-4">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block text-center">
-          <h1 class="text-capitalize mb-4 text-lg" style="text-shadow: 1px 1px;">Mortgage Underwriting Services</h1>
-          <ul class="list-inline">
-            <li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
-            <li class="list-inline-item"><span class="text-white">/</span></li>
-            <li class="list-inline-item"><a href="services.php" class="text-white">Services</a></li>
-            <li class="list-inline-item"><span class="text-white">/</span></li>
-			<li class="list-inline-item"><a href="services.php" class="text-white">Mortgage Services</a></li>
-            <li class="list-inline-item"><span class="text-white">/</span></li>
-            <li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Underwriting Services</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-</div>
-
-<!--  Section Services Start -->
-<section class="section service border-top bg-gray">
-	<div class="container">
-		<div class="row">
-		
-		
-		<h2 style="text-align:center;">Our Comprehensive Mortgage Loan Underwriting Services</h2>
-							
-		<p class="col-12 text-justify">As one of the leading mortgage underwriting companies, we have worked with lenders 
-			of all shapes and sizes and have helped them meet their loan underwriting needs in different ways. 
-			As an expert mortgage underwriting company, once you choose to outsource mortgage underwriting services, 
-			we provide back-office support to the following requirements:</p>
-=======
 	<div class="main-wrapper ">
 		<section class="page-title bg-services-4">
 			<div class="container">
@@ -100,7 +63,6 @@
 					of all shapes and sizes and have helped them meet their loan underwriting needs in different ways.
 					As an expert mortgage underwriting company, once you choose to outsource mortgage underwriting services,
 					we provide back-office support to the following requirements:</p>
->>>>>>> 14e1561d384c1770188d46baebcd0f3d8b06f25c
 				<div class="panel-group col-12">
 
 					<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">

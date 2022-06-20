@@ -30,23 +30,6 @@
 
 	<?php include('header.php'); ?>
 
-<<<<<<< HEAD
-<div class="main-wrapper ">
-    <section class="page-title bg-services-1">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="block text-center">
-                        <h1 class="text-capitalize mb-4 text-lg">Mortgage Post Closing Audit Services</h1>
-                        <ul class="list-inline">
-                            <li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
-                            <li class="list-inline-item"><span class="text-white">/</span></li>
-                            <li class="list-inline-item"><a href="services.php" class="text-white">Services</a></li>
-                            <li class="list-inline-item"><span class="text-white">/</span></li>
-                            <li class="list-inline-item"><a href="services.php" class="text-white-50">Mortgage QC Services</a></li>
-                            <li class="list-inline-item"><span class="text-white">/</span></li>
-                            <li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Post Closing Audit Services</a></li>
-=======
 	<div class="main-wrapper ">
 		<section class="page-title bg-services-1">
 			<div class="container">
@@ -62,7 +45,6 @@
 								<li class="list-inline-item"><a href="services.php#QC Services" class="text-white">QC Services</a></li>
 								<li class="list-inline-item"><span class="text-white">/</span></li>
 								<li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Post Closing Audit Services</a></li>
->>>>>>> 14e1561d384c1770188d46baebcd0f3d8b06f25c
 
 							</ul>
 						</div>
