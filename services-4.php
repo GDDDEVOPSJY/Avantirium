@@ -35,11 +35,13 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block text-center">
-          <h1 class="text-capitalize mb-4 text-lg">Mortgage Underwriting Services</h1>
+          <h1 class="text-capitalize mb-4 text-lg" style="text-shadow: 1px 1px;">Mortgage Underwriting Services</h1>
           <ul class="list-inline">
             <li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
             <li class="list-inline-item"><span class="text-white">/</span></li>
             <li class="list-inline-item"><a href="services.php" class="text-white">Services</a></li>
+            <li class="list-inline-item"><span class="text-white">/</span></li>
+			<li class="list-inline-item"><a href="services.php" class="text-white">Mortgage Services</a></li>
             <li class="list-inline-item"><span class="text-white">/</span></li>
             <li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Underwriting Services</a></li>
           </ul>
@@ -56,7 +58,7 @@
 		<div class="row">
 		
 		
-		<h2 class="col-12">Our Comprehensive Mortgage Loan Underwriting Services</h2>
+		<h2 style="text-align:center;">Our Comprehensive Mortgage Loan Underwriting Services</h2>
 							
 		<p class="col-12 text-justify">As one of the leading mortgage underwriting companies, we have worked with lenders 
 			of all shapes and sizes and have helped them meet their loan underwriting needs in different ways. 

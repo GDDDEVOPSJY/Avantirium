@@ -69,7 +69,7 @@
 		<div class="row">
 		
 		
-		<h2>Title Support Services</h2>
+		<h2 class="text-center">Title Support Services</h2>
 							
 		
         <p>Mortgage title issues can be significant enough to cost a lender his business. So, a lender’s understanding of title issues is of paramount importance to their business. However, it’s not easy for lenders to have a good grasp of all the aspects of title reports as it requires some intricate understanding of several complexities. Expert Mortgage Assistance, one of the most renowned title search companies in USA, can provide you with specialized mortgage title support services to insulate you from many potential hidden and expensive legal problems.</p>
