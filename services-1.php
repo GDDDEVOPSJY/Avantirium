@@ -176,27 +176,30 @@
 
 
           <h2 style="padding: 45px 0px 20px 10px;">Why Outsource Mortgage Loan Servicing to Aventirium?</h2>
-          <p class="text-justify col-12 col-lg-9">We have wide experience in helping lenders collect principal, interest and escrow payments from their portfolio of
+          <p class="text-justify col-12">We have wide experience in helping lenders collect principal, interest and escrow payments from their portfolio of
             borrowers in a highly efficient manner and with complete accountability. We bank on technology and well-established
             procedures to handle the complexities of mortgage loan servicing. We assume the responsibility of maintaining your
             accounts receivables by keeping track of the principal amount and the interest paid on a mortgage loan. With a
             modernized approach to handling your loan servicing needs, you empower your business with industry standard best
             practices and modern day ERP technology to promote excellence in your mortgage loan servicing process.</p>
-          <div class="col-3">
+
+          <p class="col-lg-12"><b>The following are some of the benefits that you get by employing our
+              services as a Mortgage Loan Servicing company:</b>
+          <div class="col-12 col-lg-8">
+            <ul>
+              <li>Access to a team of 1000+ mortgage experts well versed with loan servicing best practices</li>
+              <li>Over 10+ years of experience in mortgage loan servicing</li>
+              <li>Specialized team to focus on the quality of loan servicing</li>
+              <li>Expert team to for looking into compliance issues</li>
+              <li>High levels of data security and backup support</li>
+              <li>Highly scalable operations by up to 50%</li>
+              <li>Reduction in operations costs by up to 30%</li>
+              <li>24x7 operations from global delivery centers</li>
+            </ul>
+          </div>
+          <div class="col-4">
             <img src="images/services/img01-2.jpg" alt="" class="col-12 pl-0w">
           </div>
-          <p class="col-lg-12 pt-3"><b>The following are some of the benefits that you get by employing our
-              services as a Mortgage Loan Servicing company:</b>
-          <ul>
-            <li>Access to a team of 1000+ mortgage experts well versed with loan servicing best practices</li>
-            <li>Over 10+ years of experience in mortgage loan servicing</li>
-            <li>Specialized team to focus on the quality of loan servicing</li>
-            <li>Expert team to for looking into compliance issues</li>
-            <li>High levels of data security and backup support</li>
-            <li>Highly scalable operations by up to 50%</li>
-            <li>Reduction in operations costs by up to 30%</li>
-            <li>24x7 operations from global delivery centers</li>
-          </ul>
           </p>
         </div>
       </div>

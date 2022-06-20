@@ -5,7 +5,7 @@
 	<!-- Required meta tags -->
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="megakit,business,company,agency,multipurpose,modern,bootstrap4">
+	<meta name="description" content="business,company,agency,multipurpose,modern">
 
 	<meta name="author" content="">
 
@@ -37,7 +37,6 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="block text-center">
-
 							<h1 class="text-capitalize mb-4 text-lg">How We Work</h1>
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="index.php" class="text-white">Home</a></li>
@@ -50,17 +49,14 @@
 			</div>
 		</section>
 
-
 		<!--  Section Services Start -->
 		<section class="section service border-top">
 			<div class="container">
 				<div class="row justify-content-center">
 					<div class="col-lg-7 text-center">
 						<div class="section-title">
-
 							<h2 class="mt-3 content-title ">How We Work</h2>
 						</div>
-
 					</div>
 					<p>When you outsource mortgage processing, you want to make sure of a number of things. One, you want to know that the team is thorough with each dotted I and crossed T.
 						Two, you MUST be confident that each loan is fully compliant to protect your business and your customer. Finally, three, you simply want every step to be completed without a hitch.

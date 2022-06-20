@@ -52,48 +52,35 @@
         </div>
       </div>
     </section>
-
-    <section class="section blog-wrap bg-gray">
-      <div class="container">
-        <div class="row">
-
-        </div>
-      </div>
-    </section>
   </div>
 
   <!--Main Part-->
   <section class="section service border-top bg-gray">
     <div class="container">
       <div class="row">
-
-
         <h2 style="text-align:center;">Mortgage Closing Support Services</h2>
 
-        <br /><br />
-        <p>Aventirium specializes in providing back-office support services to lenders to close mortgages in an efficient, error-free, and compliant manner. As an expert mortgage loan closing company, we cover all the stages of the mortgage loan closing process including ordering title reviews, readying closing statements, liaising with agents, revising the terms, etc.</p>
-        <p>Mortgage closing is an intricate process. It involves providing a closing disclosure document. This document details the entire transaction, including a breakdown of the closing costs and fees. The two things that lenders or credit unions need to be careful about at this stage is to ensure accuracy. They must ensure delivering it three days prior to the day of signing of the mortgage. The rigidity of the new rules and the steep costs imposed on violators, calls for a more careful approach in discharging their duties.</p>
-        <p>It is quite an uphill task for lenders to assess data integrity and document quality control activities during the loan closing stage. Therefore lenders must outsource mortgage closing requirements to a Freddie Mac compliant third-party. The third-party agents can assist them make closing more accurate and save on effort, time, and costs.</p><br /><br />
+        <p class="text-justify">Aventirium specializes in providing back-office support services to lenders to close mortgages in an efficient, error-free, and compliant manner. As an expert mortgage loan closing company, we cover all the stages of the mortgage loan closing process including ordering title reviews, readying closing statements, liaising with agents, revising the terms, etc.</p>
+        <p class="text-justify">Mortgage closing is an intricate process. It involves providing a closing disclosure document. This document details the entire transaction, including a breakdown of the closing costs and fees. The two things that lenders or credit unions need to be careful about at this stage is to ensure accuracy. They must ensure delivering it three days prior to the day of signing of the mortgage. The rigidity of the new rules and the steep costs imposed on violators, calls for a more careful approach in discharging their duties.</p>
+        <p class="text-justify">It is quite an uphill task for lenders to assess data integrity and document quality control activities during the loan closing stage. Therefore lenders must outsource mortgage closing requirements to a Freddie Mac compliant third-party. The third-party agents can assist them make closing more accurate and save on effort, time, and costs.</p><br /><br />
 
-        <h3 style="text-align: center;">Quality Is The Byword For Our Mortgage Closing Process</h3>
-        <b>We are rated among the best mortgage closing services companies because our closing process comes with assured quality. The steps we follow includes:</b>
-
+        <h3>Quality Is The Byword For Our Mortgage Closing Process</h3>
+        <p class="text-justify"><b>We are rated among the best mortgage closing services companies because our closing process comes with assured quality. The steps we follow includes:</b>
+        </p>
         <div class="panel-group col-12">
 
           <div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
             <div class="panel-heading">
               <h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse1">
-                  >Collect Necessary Mortgage Closing Documents</a></h4>
+                  > Collect Necessary Mortgage Closing Documents</a></h4>
             </div>
             <div id="collapse1" class="collapse">
               <div class="panel-body">
                 <p class="text-justify">We help you gather all documents needed for the mortgage loan closing process. These include Loan Estimates and Closing disclosure forms, title search documents, homeowner's and mortgage insurance, appraisal and inspection reports, etc. Besides that, we also collect other documents that may be needed because of the property’s location. These include flood certificates, termite inspection certification, and water and sewer certification.
-
-                </p><br>
+                </p>
                 <ul>
                   <li>Collect all important documents required for successful mortgage closing (inspection reports, appraisals, title documents, CD forms, Loan Estimates, title search documents, etc.)</li>
                   <li>Collect documents related to the property’s location (water and sewer certification, flood certificates, etc.)</li>
-
                 </ul>
               </div>
             </div>
@@ -106,16 +93,14 @@
             <div id="collapse2" class="collapse">
               <div class="panel-body">
                 <p class="text-justify">Our closing back-office services include one last review of the recorded legal rights of the property. We have a detailed look at the lawsuits, taxes, judgments, and liens involved. This process also involves evaluating the property’s chain of title, Title insurance policy, and plat. This is to determine if there are any listed exclusions or easements that need to be considered. After the review, we arrange the files in the right sequence to make the mortgage closing process seamless.
-                </p><br>
-
+                </p>
                 <ul>
                   <li>Arrange the required files in the right order to facilitate easy processing</li>
                   <li>Final evaluation of recorded legal rights</li>
                   <li>Detailed look at the property’s chain of title</li>
                   <li>Review of the Title insurance policy with its listed exclusions</li>
                   <li>Review of the plat, which indicates the legal property boundaries and any records of encroachments or easements</li>
-                </ul><br />
-
+                </ul>
               </div>
             </div>
           </div>
@@ -127,12 +112,11 @@
             <div id="collapse3" class="collapse">
               <div class="panel-body">
                 <p class="text-justify">Following title review, the loan application is reviewed for one last time for inconsistencies. As we approach the mortgage closing timeline, our experts prepare the closing instructions statement and send it to the funding department along with the Bank Note, E&O Insurance and Wiring Instructions, etc.
-                </p><br>
+                </p>
                 <ul>
                   <li>Final review of the loan application for errors, which includes appraisal reports, flood certificates, inspection reports, homeowner’s insurance, etc.</li>
                   <li>Prepare the closing instructions statement</li>
                   <li>Deliver the closing instructions statement to the funding department, along with bank notes, wiring instructions, and E&O insurance</li>
-
                 </ul>
               </div>
             </div>
@@ -152,7 +136,7 @@
                   <li>Send lender instructions to the settlement agent</li>
                   <li>Determine how funds will be distributed at closing</li>
                 </ul>
-                </p><br>
+                </p>
               </div>
             </div>
           </div>
@@ -169,7 +153,7 @@
                   <li>Ensure 100% compliance with federal regulations</li>
                   <li>Follow up with settlement companies in closing the mortgage loan</li>
                 </ul>
-                <p>Our Closing Service Steps:</p>
+                <p><b>Our Closing Service Steps:</b></p>
                 <ul>
                   <li>Closing document preparation and review</li>
                   <li>Add closing and funding conditions as required</li>

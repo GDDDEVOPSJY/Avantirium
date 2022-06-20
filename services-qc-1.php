@@ -53,14 +53,6 @@
 				</div>
 			</div>
 		</section>
-
-		<section class="section blog-wrap bg-gray">
-			<div class="container">
-				<div class="row">
-
-				</div>
-			</div>
-		</section>
 	</div>
 
 
@@ -74,13 +66,12 @@
 				<h2>Mortgage Post Closing Audit Services</h2>
 
 
-				<p>We have more than a decade of experience in providing lenders with robust back office support for post-closing mortgage audits. Our services comprise of meticulous quality analysis and review processes that ensure that your mortgage loan approval process adheres to all the regulatory requirements of government-sponsored enterprises. As a premium Mortgage quality control company, our mortgage audit after closing services enables you perform vital tasks like loan default reviews, mortgage file review and denied loan reviews and compile an in-depth oversight of the client files</p>
-				<p>Our services comprise industry standard procedures that conduct an extensive audit based on a predetermined mortgage post-closing audit checklist. Our systematic approach to post-closing audits enables us to identify discrepancies with the loan information and flag it at the right time as well as initiate a re-underwriting process, if need be. Our clients prefer to outsource post-closing quality control services because of our established process and diverse experience in discharging this critical function.
+				<p class="text-justify">We have more than a decade of experience in providing lenders with robust back office support for post-closing mortgage audits. Our services comprise of meticulous quality analysis and review processes that ensure that your mortgage loan approval process adheres to all the regulatory requirements of government-sponsored enterprises. As a premium Mortgage quality control company, our mortgage audit after closing services enables you perform vital tasks like loan default reviews, mortgage file review and denied loan reviews and compile an in-depth oversight of the client files
 				</p>
-
-				<h3>Our Comprehensive Post-Closing Mortgage Audit Services</h3><br /><br />
-				<div class="panel-group col-12">
-
+				<p class="text-justify">Our services comprise industry standard procedures that conduct an extensive audit based on a predetermined mortgage post-closing audit checklist. Our systematic approach to post-closing audits enables us to identify discrepancies with the loan information and flag it at the right time as well as initiate a re-underwriting process, if need be. Our clients prefer to outsource post-closing quality control services because of our established process and diverse experience in discharging this critical function.
+				</p>
+				<h3>Our Comprehensive Post-Closing Mortgage Audit Services</h3>
+				<div class="panel-group">
 					<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
 						<div class="panel-heading">
 							<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse1">
@@ -88,8 +79,7 @@
 						</div>
 						<div id="collapse1" class="collapse">
 							<div class="panel-body">
-								<p class="text-justify">We adopt a checklist-based approach to review all the loan documents. These include documents such as, property information, appraisal information and the underwriting report etc. Our experts scan these documents to uncover misrepresentations and errors. With a meticulous level of review we aim to ease your workload and help you focus on other specific revenue generating tasks. Besides guaranteeing accuracy and efficiency, we also help you reduce the operational costs involved with the post-closing QC audit process.</p></br>
-
+								<p class="text-justify">We adopt a checklist-based approach to review all the loan documents. These include documents such as, property information, appraisal information and the underwriting report etc. Our experts scan these documents to uncover misrepresentations and errors. With a meticulous level of review we aim to ease your workload and help you focus on other specific revenue generating tasks. Besides guaranteeing accuracy and efficiency, we also help you reduce the operational costs involved with the post-closing QC audit process.</p>
 							</div>
 						</div>
 					</div>
@@ -111,7 +101,8 @@
 						</div>
 						<div id="collapse3" class="collapse">
 							<div class="panel-body">
-								<p class="text-justify">As a premium mortgage company, we keep ourselves abreast of all the latest regulatory changes introduced by the compliance bodies. We make it a point to optimize our services according to these changes. It is because of this strict adherence that our post-closing mortgage audits are always in line with updated regulatory changes. This will ensure you always remain on the right side of compliance requirements.</p></br>
+								<p class="text-justify">As a premium mortgage company, we keep ourselves abreast of all the latest regulatory changes introduced by the compliance bodies. We make it a point to optimize our services according to these changes. It is because of this strict adherence that our post-closing mortgage audits are always in line with updated regulatory changes. This will ensure you always remain on the right side of compliance requirements.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -122,7 +113,8 @@
 						</div>
 						<div id="collapse4" class="collapse">
 							<div class="panel-body">
-								<p class="text-justify">We document and generate reports on the individual profile of the client after a thorough assessment of their creditworthiness. Our approach to credit analysis greatly brings down your risk associated with the mortgage loan approval. The accuracy of our analysis will eliminate the chances of on-boarding a bad loan.</p></br>
+								<p class="text-justify">We document and generate reports on the individual profile of the client after a thorough assessment of their creditworthiness. Our approach to credit analysis greatly brings down your risk associated with the mortgage loan approval. The accuracy of our analysis will eliminate the chances of on-boarding a bad loan.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -133,7 +125,8 @@
 						</div>
 						<div id="collapse5" class="collapse">
 							<div class="panel-body">
-								<p class="text-justify">We verify the value of the collateral in detail to ensure that the loan amount that is being funded is not more than the value of the asset. We undertake the review of all taxes filed on the property to ensure that you do not have to bear the costs of any outstanding taxes on the asset. Our detailed approach to mortgage post-closing quality audit protects you from incurring unnecessary costs with the loan approval process.</p></br>
+								<p class="text-justify">We verify the value of the collateral in detail to ensure that the loan amount that is being funded is not more than the value of the asset. We undertake the review of all taxes filed on the property to ensure that you do not have to bear the costs of any outstanding taxes on the asset. Our detailed approach to mortgage post-closing quality audit protects you from incurring unnecessary costs with the loan approval process.
+								</p>
 							</div>
 						</div>
 					</div>

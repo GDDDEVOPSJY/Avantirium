@@ -177,8 +177,8 @@
             choosing us as your support partner you can be certain that your pre-processing steps will be handled with minute levels
             of details on information accuracy and delivered to you in assured turnaround times.</p>
 
-
-          <div class="col-12 col-lg-8"><b>The following are some of the many benefits that you can unlock with our services:</b>
+          <p class="col-12"><b>The following are some of the many benefits that you can unlock with our services:</b></p>
+          <div class="col-12 col-lg-7">
             <ul>
               <li>1000+ highly trained mortgage professionals working fulltime</li>
               <li>Over 10 years of experience in handling mortgage pre-processing requirements</li>
@@ -192,7 +192,7 @@
               <li>Faster delivery, leveraging 24/7 work environment</li>
             </ul>
           </div>
-          <div class="col-8 col-lg-4">
+          <div class="col-8 col-lg-5">
             <img src="images/services/img02-2.webp" alt="" class="col-12 pl-0">
           </div>
         </div>

@@ -52,14 +52,6 @@
         </div>
       </div>
     </section>
-
-    <section class="section blog-wrap bg-gray">
-      <div class="container">
-        <div class="row">
-
-        </div>
-      </div>
-    </section>
   </div>
 
 
@@ -67,20 +59,11 @@
   <section class="section service border-top bg-gray">
     <div class="container">
       <div class="row">
-
-
         <h2 class="text-center">Mortgage Loan Modification Company</h2>
-
-
         <p>Aventirium is a reputed mortgage loan modification company with years of experience in providing back office support for all kinds of mortgage loan portfolios. We help you make the most of modifying loan programs by helping you accurately evaluate and determine which borrowers have the financial capacity to meet their debt obligations. At the same time, we enable lenders to meet underwriting requirements accurately so that they can meet regulatory compliance and mitigate operational risks for best returns on origination investments.</p>
         <p>When you outsource mortgage loan modification requirements to us, we help you assess borrower creditworthiness accurately and take an informed final decision. Our loan modification services for lenders and credit unions is handled by experts with years of experience in mortgage modification and underwriting processes.</p>
-        <br /><br />
 
-
-        <!-- <br/><br/> -->
-
-
-        <div class="panel-group col-12">
+        <div class="panel-group">
 
           <div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
             <div class="panel-heading">
@@ -90,7 +73,6 @@
             <div id="collapse1" class="collapse">
               <div class="panel-body">
                 <p class="text-justify"><b>We carry out the complete back-office support needs of the lender to process loan modification requirements. Some of these tasks include:</b>
-
                 </p>
                 <ul>
                   <li>Pre-review and recommend program eligibility to borrowers on behalf of lenders.</li>
@@ -107,22 +89,19 @@
             </div>
             <div id="collapse2" class="collapse">
               <div class="panel-body">
-                <p class="text-justify">
-                </p><br>
-
-                <ul>
-                  <li>Scrutinize borrower credit report to establish his credit & repayment history</li>
-                  <li>Scrutinize borrower income documents to validate income</li>
-                  <li>Scan forms to spot fraudulent claims</li>
-                  <li>Modify loan tenure, interest rates, monthly mortgage payments</li>
-
-                  <li>Tailor customized modification solutions to suit homeowner</li>
-                  <li>Check eligibility for HAMP modification program</li>
-                  <li>Review & re-underwrite loans based on borrower financial hardship, commitment and repayment capability</li>
-                  <li>Compute and provide mortgaged property appraisal report</li>
-                  <li>Reduce default levels by modifying delinquent loans</li>
-                  <li>Match Fannie Mae and Freddie Mac guidelines with asset attributes to ensure modification is appropriate</li>
-                </ul><br />
+                  <ul>
+                    <li>Scrutinize borrower credit report to establish his credit & repayment history</li>
+                    <li>Scrutinize borrower income documents to validate income</li>
+                    <li>Scan forms to spot fraudulent claims</li>
+                    <li>Modify loan tenure, interest rates, monthly mortgage payments</li>
+                    
+                    <li>Tailor customized modification solutions to suit homeowner</li>
+                    <li>Check eligibility for HAMP modification program</li>
+                    <li>Review & re-underwrite loans based on borrower financial hardship, commitment and repayment capability</li>
+                    <li>Compute and provide mortgaged property appraisal report</li>
+                    <li>Reduce default levels by modifying delinquent loans</li>
+                    <li>Match Fannie Mae and Freddie Mac guidelines with asset attributes to ensure modification is appropriate</li>
+                  </ul>
                 <p>Our mortgage modification underwriting services takes care of the back-office needs of the following modification services:</p>
                 <ul>
                   <li>Deed- in- Lieu Reinstatement</li>
@@ -141,12 +120,11 @@
             <div id="collapse3" class="collapse">
               <div class="panel-body">
                 <p class="text-justify">Following title review, the loan application is reviewed for one last time for inconsistencies. As we approach the mortgage closing timeline, our experts prepare the closing instructions statement and send it to the funding department along with the Bank Note, E&O Insurance and Wiring Instructions, etc.
-                </p><br>
+                </p>
                 <ul>
                   <li>Final review of the loan application for errors, which includes appraisal reports, flood certificates, inspection reports, homeowner’s insurance, etc.</li>
                   <li>Prepare the closing instructions statement</li>
                   <li>Deliver the closing instructions statement to the funding department, along with bank notes, wiring instructions, and E&O insurance</li>
-
                 </ul>
               </div>
             </div>
@@ -158,7 +136,6 @@
             </div>
             <div id="collapse4" class="collapse">
               <div class="panel-body">
-                <p class="text-justify">
                 <ul>
                   <li>Pre-qualify a borrower, as per FICO requirements and present financial conditions</li>
                   <li>Review and verify loan application and seek additional documents</li>
@@ -169,9 +146,7 @@
                   <li>Review title, mortgage note and public records in credit report</li>
                   <li>Convey final loan decision and provide valid reasons for rejection</li>
                   <li>Pre-fund QC once loans are approved</li>
-
                 </ul>
-                </p><br>
               </div>
             </div>
           </div>
@@ -183,7 +158,6 @@
             <div id="collapse5" class="collapse">
               <div class="panel-body">
                 <p class="text-justify">Mortgage modification program is an important process for lenders and need the touch of experience to overcome the complicacies. This is more important at a time when there is increase in the number of distressed borrowers looking for loan modification, and lenders are burdened with the extra work to modify loans in order to avert losses. As an experienced mortgage modification and origination underwriting company, we have the expertise needed to provide reliable support to meet modification underwriting requirements and customer expectations cost effectively.
-                  <br />
                   We help our clients:
                 <ul>
                   <li>Get professional support from experienced professionals in providing quick modification and underwriting support. This has helped them reduce application bottleneck and expedite the mortgage modification process</li>
@@ -192,15 +166,9 @@
                   <li>Check losses by closing higher number of loans with quick modification approval</li>
                   <li>Get modifications done in assured turnaround times because of our 24/7 work environment</li>
                 </ul>
-
-
               </div>
             </div>
           </div>
-
-
-
-
 
           <div class="col-0 col-lg-2"></div>
           <div class="col-12 col-lg-8">

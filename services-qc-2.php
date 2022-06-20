@@ -52,14 +52,6 @@
 				</div>
 			</div>
 		</section>
-
-		<section class="section blog-wrap bg-gray">
-			<div class="container">
-				<div class="row">
-
-				</div>
-			</div>
-		</section>
 	</div>
 
 
@@ -68,17 +60,13 @@
 	<section class="section service border-top bg-gray">
 		<div class="container">
 			<div class="row">
-
-
 				<h2>Mortgage Prefund QC Audit Services</h2>
+				<p class="text-justify">We have more than a decade of experience in assisting lenders to identify discrepancies in the loan documentation to ensure that they match current GSE regulatory requirements. Our extensive back office support with pre-fund QC audit services enables lenders to resolve underlying issues in a pending loan transaction before the closing process begins. As a global pre-fund mortgage quality control audit company our services scale up to the level of expediency needed to meet ideal pre fund audit requirements.</p>
+				<p class="text-justify">We conduct the analysis of income and liabilities of a borrower to ensure that the information included in the pay stubs and W-2 forms of the borrower are accurate. We conduct an in-depth review of the underwriting process and the property appraisal process before the file enters loan closing. Our clients prefer to outsource pre-fund QC audit services to us because we guarantee them accuracy and consistency of highest level.
+				</p>
 
-
-				<p>We have more than a decade of experience in assisting lenders to identify discrepancies in the loan documentation to ensure that they match current GSE regulatory requirements. Our extensive back office support with pre-fund QC audit services enables lenders to resolve underlying issues in a pending loan transaction before the closing process begins. As a global pre-fund mortgage quality control audit company our services scale up to the level of expediency needed to meet ideal pre fund audit requirements.</p>
-				<p>e conduct the analysis of income and liabilities of a borrower to ensure that the information included in the pay stubs and W-2 forms of the borrower are accurate. We conduct an in-depth review of the underwriting process and the property appraisal process before the file enters loan closing. Our clients prefer to outsource pre-fund QC audit services to us because we guarantee them accuracy and consistency of highest level.
-				</p><br /><br /><br />
-
-				<h3>Our Extensive Pre-Fund QC Audit Services</h3><br /><br />
-				<div class="panel-group col-12">
+				<h3 class="col-12 p-0 pb-3 pt-3">Our Extensive Pre-Fund QC Audit Services</h3>
+				<div class="panel-group">
 
 					<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
 						<div class="panel-heading">
@@ -88,20 +76,18 @@
 						<div id="collapse1" class="collapse">
 							<div class="panel-body">
 								<p class="text-justify">We perform an in-depth review of the information provided in the loan application documents by the borrower. We follow a checklist-based approach for verifying information such as name, employment history, the current status of employment, details of past mortgage loans etc. Every inconsistency in declaration is flagged and meticulously brought to the attention of the lender.
-								</p><br />
-
+								</p>
 							</div>
 						</div>
 					</div>
 					<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
 						<div class="panel-heading">
 							<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse2">
-									>Income and Liabilities Assessment</a></h4>
+									> Income and Liabilities Assessment</a></h4>
 						</div>
 						<div id="collapse2" class="collapse">
 							<div class="panel-body">
 								<p class="text-justify">We verify all supporting documents submitted by the borrower such as W-2 forms, pay stubs and bank statements with our liabilities assessment step. We provide you with a good understanding of the liabilities of the customer by creating reports during every step of the audit process. We bank on online systems like MERS to make accurate assessments of borrower creditworthiness.</p>
-
 							</div>
 						</div>
 					</div>
@@ -113,7 +99,6 @@
 						<div id="collapse3" class="collapse">
 							<div class="panel-body">
 								<p class="text-justify">Our pre-fund services enable you to identify all the sources of risk associated with a customer file and address them before the loan is dispatched to closing. The review of the loan underwriting process is a vital aspect of risk assessment. We employ the use of multi-tier document verification steps to ensure all the information provided to the underwriter was accurate and the loan approval decision made by the underwriter was in keeping with all mandated requirements.</p>
-
 							</div>
 						</div>
 					</div>
@@ -137,14 +122,8 @@
 							<div class="panel-body">
 								<p class="text-justify">We customize our compliance services according to the type of loan financed to the borrower. Our team of mortgage experts keep track of change in guidelines and regulatory requirements and optimize the service accordingly. We ensure that the pre fund QC audit process takes place according to the latest GSE guidelines at all times. As a result, you will be able to finance only those loans that stand a sure chance of being accepted by GSEs.
 								</p>
-
 							</div>
 						</div>
-					</div>
-
-					<div class="col-0 col-lg-2"></div>
-					<div class="col-12 col-lg-8">
-						<img class="col-12 pl-0" src="#" alt="">
 					</div>
 				</div>
 			</div>

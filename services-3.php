@@ -62,10 +62,11 @@
 
 				<h2>We Offer End-To-End Mortgage Processing Support Services</h2>
 
-				<p><b>Review Document Compliance</b></p>
-				<p>Meeting document compliance is mandatory for meeting growing requirements of proof for regulatory compliance. To ensure this, lenders’ today need a more inclusive approach to document compliance. Good document compliance can help them pass the test of regulatory analysis, identify competing regulations, institute tight operational process controls, have better control over data quality, and help them to develop better operational strategies.</p>
-				<p>As a reputed mortgage processing company, Aventirium receives documents and review document compliance—the first stage in loan processing. For example, Form 1003 is used to record the financial information of potential borrowers when they apply for a conventional mortgage. We review this form and all other documents such as W2s, pay stubs, GFE, TIL, Form 1008, borrower's authorization etc., to ensure that all the information necessary for processing the application is provided. After the review process is over, we generate the Loan Estimate (LE) to the consumer within 3 business days after having received the application.</p>
-				<p>As among the prominent third-party mortgage loan processing companies, we dedicate professionals with expertise specific to this domain. Our document review process is very meticulous and intensive. We carry it out to ensure that you are always in a position to provide evidence of the activities and data required by the rule.</p>
+				<p class="text-justify"><b>Review Document Compliance</b>
+					<br>Meeting document compliance is mandatory for meeting growing requirements of proof for regulatory compliance. To ensure this, lenders’ today need a more inclusive approach to document compliance. Good document compliance can help them pass the test of regulatory analysis, identify competing regulations, institute tight operational process controls, have better control over data quality, and help them to develop better operational strategies.
+				</p>
+				<p class="text-justify">As a reputed mortgage processing company, Aventirium receives documents and review document compliance—the first stage in loan processing. For example, Form 1003 is used to record the financial information of potential borrowers when they apply for a conventional mortgage. We review this form and all other documents such as W2s, pay stubs, GFE, TIL, Form 1008, borrower's authorization etc., to ensure that all the information necessary for processing the application is provided. After the review process is over, we generate the Loan Estimate (LE) to the consumer within 3 business days after having received the application.</p>
+				<p class="text-justify">As among the prominent third-party mortgage loan processing companies, we dedicate professionals with expertise specific to this domain. Our document review process is very meticulous and intensive. We carry it out to ensure that you are always in a position to provide evidence of the activities and data required by the rule.</p>
 				<ul>
 					<li>Tax Returns</li>
 					<li>Copies of recent Pay Stubs</li>
@@ -87,10 +88,15 @@
 						</div>
 						<div id="collapse1" class="collapse">
 							<div class="panel-body">
-								<p class="text-justify">It falls upon the lender to investigate all major indications of derogatory credit of an applicant. The objective is to determine whether the information provided by the applicant is accurate, and whether the explanation provided to justify an exception is acceptable. Lenders should exercise more caution when evaluating the reports of applicants with non-traditional credit histories. By outsourcingmortgage loan processing services to us you get all the back-office support needed to assist lenders execute credit check for both traditional and non-traditional loans in a flawless manner. We are among the front running mortgage processing companies. We have your back with professionals who have spend substantial time in this industry to understand the associated complexities with this process.
-								<p>We conduct a complete credit check of prospective borrowers to ascertain their credit worthiness. This includes pre-screening of credentials, obtaining and checking credit reports, credit history, FHA authorizations, Social Security status, and more. We also check for existing loans with MERS, payment defaults, tax returns and transcripts, etc.</p>
-
-								</p><br />
+								<p class="text-justify">It falls upon the lender to investigate all major indications of derogatory credit of an applicant.
+									The objective is to determine whether the information provided by the applicant is accurate, and whether the explanation
+									provided to justify an exception is acceptable. Lenders should exercise more caution when evaluating the reports of applicants
+									with non-traditional credit histories. By outsourcingmortgage loan processing services to us you get all the back-office support
+									needed to assist lenders execute credit check for both traditional and non-traditional loans in a flawless manner. We are among
+									the front running mortgage processing companies. We have your back with professionals who have spend substantial time in this
+									industry to understand the associated complexities with this process.
+								</p>
+								<p class="text-justify"> We conduct a complete credit check of prospective borrowers to ascertain their credit worthiness. This includes pre-screening of credentials, obtaining and checking credit reports, credit history, FHA authorizations, Social Security status, and more. We also check for existing loans with MERS, payment defaults, tax returns and transcripts, etc.</p>
 								<ul>
 									<li>Bank Statements</li>
 									<li>FICO score statements</li>
@@ -107,8 +113,8 @@
 						<div id="collapse2" class="collapse">
 							<div class="panel-body">
 								<p class="text-justify">As per new regulations, lenders need to do everything at their end to reduce risk with 3rd party entities. These 3rd party may include appraisers, mortgage brokers, correspondents, or other business or individual. As an experienced mortgage loan processing company, Expert Mortgage Assistance has great expertise in reviewing 3rd party application information with real-time license checks.
-								<p>We review third party documents like Appraisal, Title, HOI, 4506T (Tax Transcripts) etc. as loan application references and details of the property by authorized appraisers. As among the experienced third-party mortgage loan processing companies, we also check payment receipts for appropriate appraisal fees and check property titles.</p>
-								<p>On completion of the review, we provide you a detailed report with a clear focus on contradictory information, incompatible findings, and data that cannot be validated. The report will help you identify potential noteworthy issues that you need to be aware of in order to be compliant with regulations. So, by outsourcing mortgage processing 3rd party document review requirement to us you get the peace of mind needed to focus on the core aspects of your business.</p>
+								<p class="text-justify">We review third party documents like Appraisal, Title, HOI, 4506T (Tax Transcripts) etc. as loan application references and details of the property by authorized appraisers. As among the experienced third-party mortgage loan processing companies, we also check payment receipts for appropriate appraisal fees and check property titles.</p>
+								<p class="text-justify">On completion of the review, we provide you a detailed report with a clear focus on contradictory information, incompatible findings, and data that cannot be validated. The report will help you identify potential noteworthy issues that you need to be aware of in order to be compliant with regulations. So, by outsourcing mortgage processing 3rd party document review requirement to us you get the peace of mind needed to focus on the core aspects of your business.</p>
 								</p>
 								<ul>
 									<li>Appraisal report</li>
@@ -140,8 +146,9 @@
 									<li>Verification of appraiser signature and registration</li>
 									<li>Verification of property location</li>
 								</ul>
-
-								We conduct verification checks against all information provided by the prospective borrowers. This includes verification of disclosures for accuracy, VoE (Verification of Employment), VoD (Verification of Deposit), VoM (Verification of Mortgage), verification of property sale history, location maps, the appraiser's signature and license, registration, etc. Trust your verification requirements to an expert mortgage process outsourcing company to ensure flawless outcomes.
+								<p class="text-justify">
+									We conduct verification checks against all information provided by the prospective borrowers. This includes verification of disclosures for accuracy, VoE (Verification of Employment), VoD (Verification of Deposit), VoM (Verification of Mortgage), verification of property sale history, location maps, the appraiser's signature and license, registration, etc. Trust your verification requirements to an expert mortgage process outsourcing company to ensure flawless outcomes.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -155,7 +162,6 @@
 								<p class="text-justify">The buyers applying for an FHA or VA loan are assigned an FHA or VA case number. Lenders need to fill a form to obtain the number. We help you order the number online by filling the form on your behalf. As incomplete requests may lead to a delay in generating the number, we execute this task meticulously to ensure there is no delay whatsoever</p>
 								<ul>
 									<li>Online form filling for generating FHA or VA case number</li>
-
 								</ul>
 
 							</div>
@@ -189,13 +195,16 @@
 
 					<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
 						<div class="panel-heading">
-							<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse7">
-									> Loan Submission & Condition Clearing</a></h4>
+							<h4 class="panel-title">
+								<a data-toggle="collapse" data-parent="#parnt" href="#collapse7">
+									> Loan Submission & Condition Clearing
+								</a>
+							</h4>
 						</div>
 						<div id="collapse7" class="collapse">
 							<div class="panel-body">
 								<p class="text-justify">This is the final stage of mortgage processing in which we submit your application to an underwriter for crosschecking your eligibility and validating the documents submitted. If the underwriter feels there are conditions to clear such as explanation of late payments or employment gaps, we help you speed up the condition clearing process.
-								<p>The process of condition clearing is fraught with delays, with the most common ones being errors on the loan applicants credit report or the need to get few additional credit supplements. These can take any time between days to weeks thus leading to a delay in condition clearing to close a loan. In such scenarios, we take all the necessary steps to expedite condition clearing. We are among the client-focused third-party mortgage loan processing companies. This is why we dedicate a team of professionals with expertise in this domain who accelerate the process of condition clearing with more efficiency.</p>
+								<p class="text-justify">The process of condition clearing is fraught with delays, with the most common ones being errors on the loan applicants credit report or the need to get few additional credit supplements. These can take any time between days to weeks thus leading to a delay in condition clearing to close a loan. In such scenarios, we take all the necessary steps to expedite condition clearing. We are among the client-focused third-party mortgage loan processing companies. This is why we dedicate a team of professionals with expertise in this domain who accelerate the process of condition clearing with more efficiency.</p>
 								</p>
 							</div>
 						</div>
