@@ -52,8 +52,8 @@
 
     <section class="section blog-wrap bg-gray">
       <div class="container">
-        
-      <h1 class="section-title" id="Mortgage Services" style="padding-top: 20px;">Mortgage Services</h1>
+
+        <h1 class="section-title" id="Mortgage Services" style="padding-top: 20px;">Mortgage Services</h1>
         <div class="row">
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
