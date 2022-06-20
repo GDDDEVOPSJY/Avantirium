@@ -41,7 +41,9 @@
                             <li class="list-inline-item"><span class="text-white">/</span></li>
                             <li class="list-inline-item"><a href="services.php" class="text-white">Services</a></li>
                             <li class="list-inline-item"><span class="text-white">/</span></li>
-                            <li class="list-inline-item"><a href="#" class="text-white-50">Mortgage Loan Services</a></li>
+                            <li class="list-inline-item"><a href="services.php" class="text-white">More Services</a></li>
+                            <li class="list-inline-item"><span class="text-white">/</span></li>
+                            <li class="list-inline-item"><a href="#" class="text-white-50">REO Services</a></li>
                         </ul>
                     </div>
                 </div>
@@ -57,6 +59,97 @@
         </div>
     </section>
 </div>
+
+
+
+<!--Main Part-->
+
+<section class="section service border-top bg-gray">
+	<div class="container">
+		<div class="row">
+		
+		
+		<h2>REO Services</h2>
+							
+		
+        <p>Aventirium wide experience in delivering a range of REO services to lenders and credit unions which we leverage and blend a with equally wide range of technologies to ensure efficient handling of REO reimbursement services. Our REO bill processing services is designed to reduce expense recovery times and insulate lenders from being overcharged or wrongly charged. As a global REO solutions company we enable you to get complete control over your expenditure and reimbursements.</p>
+        <p>Our stringent quality standards in the processing and submission of bills, document management and the delivery of service packages that includes tax and title review of the property, is optimized to make your services more cost-effective. We facilitate the smooth commencement of foreclosure sales and ensure the liquidation of the assets to enable you recover the mortgage loan amount with complete success. It is precisely because of these comprehensive services that our clients prefer to outsource REO solutions to us.</p>
+
+        <!-- <br/><br/> -->
+        <h3>Our Robust REO Solutions</h3><br/><br/>
+				<div class="panel-group col-12">
+		
+						<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
+							<div class="panel-heading">
+								<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse1"> 
+								  > REO Reimbursement Servicesg</a></h4>
+							</div>
+							<div id="collapse1" class="collapse">
+								<div class="panel-body"><p class="text-justify">From the collection of bids to the tracking of invoices, completion of reimbursement forms and submission, we take charge of your entire reimbursement process. We have a multi-step verification process which ensures complete accuracy of the information provided in all the critical documents. We handle the resource-intensive nature of reimbursement effectively to streamline the process for faster completion times. This includes careful review of paperwork and work orders and meticulous check of your accounts receivables.</p><br>
+									
+								</div>
+							</div>
+						</div>
+						<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
+						  <div class="panel-heading">
+							<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse2"> 
+							  > REO Valuation Services</a></h4>
+						  </div>
+						  <div id="collapse2" class="collapse">
+							<div class="panel-body">
+							  <p class="text-justify">We specialize in the evaluation of the property and provide you with the necessary level of support in determining its sale price. We enable you to develop and implement an effective marketing strategy to facilitate the sale of the property in the shortest possible time. We create periodic marketing reports that give you an idea of trending property rates so that you can sell the property at the right market price. We process details like third-party fees and provide assistance with Broker Price Opinions. We augment our REO solutions by providing top-notch escrow closing services.</p><br>
+							</div>
+						  </div>
+						</div>
+						<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
+						  <div class="panel-heading">
+							<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse3"> 
+							  > REO Administrative Services</a></h4>
+						  </div>
+						  <div id="collapse3" class="collapse">
+							<div class="panel-body">
+							  <p class="text-justify">Our all-inclusive approach to REO services provides you with back office support right from foreclosure to liquidation. Our team of mortgage experts are proficient with the management of REO administrative functions and we work with the intent of maximizing the performance of your REO administration process. As a premier REO service company, we provide assistance with lead management, development and implementation of marketing strategies, real estate listing, management of property details such as the cost of renovations and utility connections and more. Our end to end support structure with REO administrative services boots your operational efficiency facilitating faster recovery times and reduction of losses.</p><br>
+							</div>
+						  </div>
+						</div>
+						<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
+						  <div class="panel-heading">
+							<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse4"> 
+							  > Bank Registration Services</a></h4>
+						  </div>
+						  <div id="collapse4" class="collapse">
+							<div class="panel-body">
+							  <p class="text-justify">We provide back-office support with registering your REO business with banks and financial institutions. Our diligent registration services handles the bulk of the registration process saving you valuable time. With our service, you get access to major banks operating in the US. We leverage our multi-tier document verification steps to ensure there are no inaccuracies in the way to smooth completion of the registration process.
+                             
+                              </p><br>
+							</div>
+						  </div>
+						</div>
+						<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
+						  <div class="panel-heading">
+							<h4 class="panel-title"><a data-toggle="collapse" data-parent="#parnt" href="#collapse5"> 
+							  > Bespoke REO Solutions</a></h4>
+						  </div>
+						  <div id="collapse5" class="collapse">
+							<div class="panel-body">
+							  <p class="text-justify">As a global REO services company we understand the resource intensive nature of the process. We drive efficiency in the entire REO service structure by condensing business processes and streamlining them to suit your organizational work culture. Together with our team of mortgage experts, modern age cutting edge technology and process automation steps, we provide you with the required levels of support at all times. We understand your requirement and bank on our resources to deploy an efficient service structure that enables you to complete specific tasks related to your business process. We also ensure that there is no compromise in the level of quality that we provide with our custom REO solutions.
+                             </p><br>
+							</div>
+						  </div>
+						</div>
+
+                        
+						
+					<div class="col-0 col-lg-2"></div>
+					<div class="col-12 col-lg-8">
+						<img class="col-12 pl-0" src="#" alt="">
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+</section>
+
 
 <?php include('footer.php'); ?>
 
