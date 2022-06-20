@@ -119,10 +119,7 @@
 					</div>
 
 					<h3 class="pb-3">Why Outsource Mortgage Underwriting QC Services To Aventirium?</h3>
-					<div class="col-12 col-lg-3 p-0">
-						<img class="col-12 p-0" src="images/muqc.png" alt="">
-					</div>
-					<div class="col-12 col-lg-8 p-0">
+					<div class="col-lg-9 p-0">
 						<p class="text-justify">We are a global mortgage underwriting QC services company with vast and varied experience in performing validations,
 							document verifications and error reporting. Our services enable you to re-confirm the loan decision by verifying that the credit,
 							capacity, collateral and capital figures are accurately represented to deliver a fair and well-informed mortgage decision.
@@ -131,7 +128,7 @@
 							process, before finally making the decision to package the loan and dispatch it to closing.
 						</p>
 					</div>
-
+					<img class="col-lg-3 p-0" src="images/muqc.png" alt="">
 				</div>
 			</div>
 	</section>

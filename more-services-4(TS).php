@@ -60,26 +60,27 @@
         <div class="row">
 
 
-          <h2>Title Support Services</h2>
+          <h2 class="pb-2">Title Support Services</h2>
 
 
-          <p>Mortgage title issues can be significant enough to cost a lender his business. So, a lender’s understanding of title issues is of paramount importance to their business. However, it’s not easy for lenders to have a good grasp of all the aspects of title reports as it requires some intricate understanding of several complexities. Expert Mortgage Assistance, one of the most renowned title search companies in USA, can provide you with specialized mortgage title support services to insulate you from many potential hidden and expensive legal problems.</p>
-          <p>As a mortgage title support company, we have wide experience in checking the accuracy of important title details, noting down exceptions, and readying lenders for the required actions (to remedy title exclusions) before the closing date. We have been assisting large financial institutions, credit unions, and private bankers with their real estate title and settlement needs for nearly a decade. Leveraging this vast experience and combining it with a smooth process, we will help you complete all needs for mortgage title services with minimal delays and maximal accuracy.</p>
+          <p class="text-justify">Mortgage title issues can be significant enough to cost a lender his business. So, a lender’s understanding of title issues is of paramount importance to their business. However, it’s not easy for lenders to have a good grasp of all the aspects of title reports as it requires some intricate understanding of several complexities. Expert Mortgage Assistance, one of the most renowned title search companies in USA, can provide you with specialized mortgage title support services to insulate you from many potential hidden and expensive legal problems.</p>
+          <p class="text-justify">As a mortgage title support company, we have wide experience in checking the accuracy of important title details, noting down exceptions, and readying lenders for the required actions (to remedy title exclusions) before the closing date. We have been assisting large financial institutions, credit unions, and private bankers with their real estate title and settlement needs for nearly a decade. Leveraging this vast experience and combining it with a smooth process, we will help you complete all needs for mortgage title services with minimal delays and maximal accuracy.</p>
 
-          <!-- <br/><br/> -->
-          <h3>How We Are Assisting Lenders During In A Post-Covid-19 Era</h3><br /><br />
-          <p>With government offices partially open after the reeling impact of the pandemic, real estate transactions are struggling to get back to its old ways. It is this regard that we are assisting lenders by providing:</p>
-          <ul>
-            <li>Updates regarding remote online notarization (RON) and e-recording in the state where the property is located</li>
-            <li>Updates about the recording office; if is accepting documents for recording; and are permitted to e-record documents.</li>
-            <li>Updates about the search results, if it provides sufficient information for preparing a title insurance commitment.</li>
+          <!--  -->
+          <h3 class="pt-3 pb-3">How We Are Assisting Lenders During In A Post-Covid-19 Era</h3>
+          <div class="col-lg-8">
+            <p class="text-justify">With government offices partially open after the reeling impact of the pandemic, real estate transactions are struggling to get back to its old ways. It is this regard that we are assisting lenders by providing:</p>
+            <ul>
+              <li>Updates regarding remote online notarization (RON) and e-recording in the state where the property is located</li>
+              <li>Updates about the recording office; if is accepting documents for recording; and are permitted to e-record documents.</li>
+              <li>Updates about the search results, if it provides sufficient information for preparing a title insurance commitment.</li>
+            </ul>
+          </div>
+          <img src="images/ts.png" class="col-4">
 
-        </ul>
-        <img src="images/ts.png">
+          <h3 class="col-12 p-0 pt-3">Mortgage Title Services For Lenders: Helping You Uncover Hidden Issues</h3>
 
-          <h3>Mortgage Title Services For Lenders: Helping You Uncover Hidden Issues</h3>
-
-          <div class="panel-group col-12">
+          <div class="panel-group pt-4">
 
             <div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
               <div class="panel-heading">
@@ -88,11 +89,10 @@
               </div>
               <div id="collapse1" class="collapse">
                 <div class="panel-body">
-                  <p class="text-justify">As part of the process we get the details of the mortgage title or settlement company from the Loan Officer and order the Title for the property in consideration. Next, we follow up with the title company until we receive the Title and Title report.</p><br>
+                  <p class="text-justify">As part of the process we get the details of the mortgage title or settlement company from the Loan Officer and order the Title for the property in consideration. Next, we follow up with the title company until we receive the Title and Title report.</p>
                   <ul>
                     <li>Obtain and verify details about mortgage title or settlement company</li>
                     <li>Order and follow up to obtain initial and Final Title report</li>
-
                   </ul>
                 </div>
               </div>
@@ -105,17 +105,17 @@
               <div id="collapse2" class="collapse">
                 <div class="panel-body">
                   <p class="text-justify">When your title search process is done correctly, you as a lender, get accurate insights into the history of the homeowners, such as who bought the property, who sold the property, and when these transactions were carried out. The report provided by the title company is not always error-free and so it falls upon the lender to examine the report properly to unearth errors. When you outsource mortgage title services to us, you need not be worried about this aspect of your service to your customers.</p>
-                  <p>After acquiring the report, we conduct a thorough inspection of all the financial obligations associated with the property proposed to be acquired. This includes legal claims, lawsuits, taxes, judgments, and liens, as well as any other issues that could impact the property transaction. During the examination process we conduct a quality review to ensure the right sequence of file numbers, presence of all pages, and quality of all images. It is at this point that we verify the legal description of the property and assess the completeness of records.</p>
-                  <p>The one thing we are very mindful of while reviewing a title policy are the exceptions i.e. instances in which coverage cannot be offered, unless certain actions are fulfilled, such as paying the required taxes, removing a lien, resolving boundary issues, or clarifying ownership. We also identify any issues there might be such as inaccurate or contradictory information. This spares you the trouble of diverting your attention from your core business, while ensuring you don’t end up being on the wrong side of the law.
-                  </p><br>
-                  <p>Some Standard Exclusions for Title Commitments We Have Handled Over the Years Include:</p>
+                  <p class="text-justify">After acquiring the report, we conduct a thorough inspection of all the financial obligations associated with the property proposed to be acquired. This includes legal claims, lawsuits, taxes, judgments, and liens, as well as any other issues that could impact the property transaction. During the examination process we conduct a quality review to ensure the right sequence of file numbers, presence of all pages, and quality of all images. It is at this point that we verify the legal description of the property and assess the completeness of records.</p>
+                  <p class="text-justify">The one thing we are very mindful of while reviewing a title policy are the exceptions i.e. instances in which coverage cannot be offered, unless certain actions are fulfilled, such as paying the required taxes, removing a lien, resolving boundary issues, or clarifying ownership. We also identify any issues there might be such as inaccurate or contradictory information. This spares you the trouble of diverting your attention from your core business, while ensuring you don’t end up being on the wrong side of the law.
+                  </p>
+                  <p class="text-justify">Some Standard Exclusions for Title Commitments We Have Handled Over the Years Include:</p>
                   <ul>
                     <li>Boundary issues i.e. matters related to encroachment</li>
                     <li>Rights of tenants with continuing lease terms</li>
                     <li>Construction/workers’ compensation liens</li>
                     <li>Issues not registered in public records (easements)</li>
-                  </ul><br />
-                  <p>When reviewing title commitment exceptions, we review exceptions carefully and meticulously so that you can arrange any documents or take any actions necessary to remedy the problem in a timely manner and avoid closing delays. In complex cases, we draw your attention to issues that cannot be remedied by the seller.</p>
+                  </ul>
+                  <p class="text-justify">When reviewing title commitment exceptions, we review exceptions carefully and meticulously so that you can arrange any documents or take any actions necessary to remedy the problem in a timely manner and avoid closing delays. In complex cases, we draw your attention to issues that cannot be remedied by the seller.</p>
                   <ul>
                     <li>Review title reports and examine the chain of title to ensure no illegal deeds exist</li>
                     <li>Clear any disputes and defects attached to a property</li>
@@ -136,7 +136,7 @@
                 <div class="panel-body">
                   <p class="text-justify">Why should lenders master how to read a title commitment report? This is just to ensure that details about the property are properly reviewed, addressed, and corrected before the closing day. This plays an important role in maintaining good customer relationships and spreading good words about your business in the market. With our mortgage title services, lenders do not just end up having a comprehensive title search and review conducted. We also ensure that they can read, understand, and interpret title commitment in the right manner.</p>
                   <p>The title commitment report received from the title company states the conditions required for insurance of the property title. Any defects that are uncovered by the examination process can be cleared and the transaction closed jointly by the buyer, seller, and the lender. Our title commitment process includes the following: review and capture essential data for commitment easements, encumbrances, restrictions, tax status, and other conditions. This is followed by title commitment preparation as per the title report.
-                  </p><br>
+                  </p>
                   <ul>
                     <li>Provide a comprehensive title search and review</li>
                     <li>Assist lenders in reading the title commitment report easily</li>
@@ -160,7 +160,7 @@
                     <li>Final review of records to determine the true owner of the property before policy issuance</li>
                     <li>Forward the new title insurance policies to the new owner and lender</li>
                   </ul>
-                  </p><br>
+                  </p>
                 </div>
               </div>
             </div>
@@ -177,7 +177,7 @@
                     <li>Review the insurance document for building conditions, lien, deductibles, policy period, etc</li>
                     <li>Flag inconsistencies in the title insurance document and coordinate with carriers and underwriters to get them corrected</li>
                   </ul>
-                  </p><br>
+                  </p>
                 </div>
               </div>
             </div>
@@ -196,7 +196,7 @@
                     <li>Assist in the preparation of a HUD 1 statement</li>
                     <li>Assist in completing documents needed for recording services</li>
                   </ul>
-                  </p><br>
+                  </p>
                 </div>
               </div>
             </div>
@@ -221,7 +221,7 @@
                     <li>100% data confidentiality and privacy</li>
                     <li>Flexible hiring model</li>
                   </ul>
-                  </p><br>
+                  </p>
                 </div>
               </div>
             </div>

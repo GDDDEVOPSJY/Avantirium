@@ -130,11 +130,6 @@
 							</div>
 						</div>
 					</div>
-
-					<div class="col-0 col-lg-2"></div>
-					<div class="col-12 col-lg-8">
-						<img class="col-12 pl-0" src="#" alt="">
-					</div>
 				</div>
 			</div>
 	</section>
