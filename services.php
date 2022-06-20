@@ -155,7 +155,7 @@
             <div class="blog-item">
               <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-                <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Prefund QC Audit Services</a></h4>
+                <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Underwriting QC Services</a></h4>
                 <p class="mb-3">We have more than a decade of experience in assisting lenders to identify discrepancies in the loan documentation.</p>
                 <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>

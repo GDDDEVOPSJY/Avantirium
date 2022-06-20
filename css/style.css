@@ -1565,6 +1565,7 @@ h3.quote::before {
   color: white;
   transition: ease 0.2s;
 }
+
 .dropdown-content > .drop-left-1 > a {
   cursor: default;
 }
