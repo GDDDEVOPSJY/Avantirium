@@ -52,7 +52,7 @@
 
     <section class="section blog-wrap bg-gray">
       <div class="container">
-        <h1 class="section-title">Mortgage Services</h1>
+        <h1 class="section-title" style="padding-top: 20px;">Mortgage Services</h1>
         <div class="row">
           <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
@@ -88,33 +88,88 @@
                 <h4 class="mt-3 mb-3"><a href="services-3.php">Mortgage Processing Services</a></h4>
                 <p class="mb-3">Meeting document compliance is mandatory for meeting growing
                   requirements of proof for regulatory compliance.</p>
-
                 <a href="services-3.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-4 mb-3">
 
+          <div class="col-lg-4 col-md-4 mb-3">
             <div class="blog-item">
               <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
-
               <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
-
-
                 <h4 class="mt-3 mb-3"><a href="services-4.php">Mortgage Underwriting Services</a></h4>
                 <p class="mb-3">We leverage various automated underwriting systems to deliver real time underwriting decision about the customer to the lender.</p>
-
                 <a href="services-4.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
               </div>
             </div>
           </div>
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-4.php">Mortgage Closing Support Services</a></h4>
+                <p class="mb-3">We specialize in providing back-office support services to lenders to close mortgages in an efficient, error-free, and compliant manner.</p>
+                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-4.php">Mortgage Loan Modification And Origination Services</a></h4>
+                <p class="mb-3">We carry out the complete back-office support needs of the lender to process loan modification requirements.</p>
+                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
         </div>
+        <h1 class="section-title" style="padding-top: 50px">QC Services</h1>
+        <div class="row">
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Post Closing Audit Services</a></h4>
+                <p class="mb-3">We have more than a decade of experience in providing lenders with robust back office support for post-closing mortgage audits.</p>
+                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Prefund QC Audit Services</a></h4>
+                <p class="mb-3">We have more than a decade of experience in assisting lenders to identify discrepancies in the loan documentation.</p>
+                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-4 mb-3">
+            <div class="blog-item">
+              <a href="services-4.php"><img src="images/blog/4.jpg" alt="" class="img-fluid rounded"></a>
+              <div class="blog-item-content bg-white" style="padding: 10px 30px 30px 30px">
+                <h4 class="mt-3 mb-3"><a href="services-qc-1.php">Mortgage Prefund QC Audit Services</a></h4>
+                <p class="mb-3">We have more than a decade of experience in assisting lenders to identify discrepancies in the loan documentation.</p>
+                <a href="services-5.php" class="btn btn-small btn-main btn-round-full">Learn More</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
       </div>
     </section>
 
     <?php include('footer.php'); ?>
 
-<!-- 
+    <!-- 
 Essential Scripts
 =====================================-->
 

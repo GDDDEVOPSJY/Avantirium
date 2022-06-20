@@ -27,7 +27,7 @@
 			<button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="fa fa-bars"></span>
 			</button>
-			
+
 			<div class="collapse navbar-collapse text-center" id="navbarsExample09">
 				<ul class="navbar-nav ml-auto">
 					<li class="nav-item active">
@@ -39,13 +39,33 @@
 							<a href="services.php" class="nav-link"><strong>Services</strong></a>
 							<div class="dropdown-content" style="text-align:left;">
 								<div class="dropleft-1">
-									<a href="#">Mortgage Services&nbsp;&nbsp;></a>
+									<a href="#">Mortgage Services</a>
 									<div class="dropleft-content-1">
-										<a href="services.php">Test</a>
+										<a href="services-1.php">Loan Services</a>
+										<a href="services-2.php">Pre-proccessing Services</a>
+										<a href="services-3.php">Processing Services</a>
+										<a href="services-4.php">Underwriting Services</a>
+										<a href="services-5.php">Closing Support Services</a>
+										<a href="services-6.php">Loan Modification And Origination Services</a>
 									</div>
 								</div>
-								<a href="#">QC Services</a>
-								<a href="#">More Services</a>
+								<div class="dropleft-1">
+									<a href="#">QC Services</a>
+									<div class="dropleft-content-1">
+										<a href="services-qc-1.php">Post Closing Audit Services</a>
+										<a href="services-qc-1.php">Prefund QC Audit Services</a>
+										<a href="services-qc-1.php">Underwriting QC Audit Services</a>
+									</div>
+								</div>
+								<div class="dropleft-1">
+									<a href="#">More Services</a>
+									<div class="dropleft-content-1">
+										<a href="services.php">Loan Boarding Services</a>
+										<a href="services.php">Mortgage Indexing Services</a>
+										<a href="services.php">REO Services</a>
+										<a href="services.php">Title Support Services</a>
+									</div>
+								</div>
 							</div>
 						</div>
 					</li>
