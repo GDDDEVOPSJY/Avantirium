@@ -131,7 +131,7 @@
 
 					<div class="col-0 col-lg-2"></div>
 					<div class="col-12 col-lg-8">
-						<img class="col-12 pl-0" src="#" alt="">
+						<img class="col-12 pl-0" src="images/muqc.png" alt="">
 					</div>
 				</div>
 			</div>

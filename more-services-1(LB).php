@@ -138,13 +138,14 @@
 						</div>
 					</div>
 					<br />
-					<h3>Why Outsource Mortgage Loan Boarding Services To Aventirium?</h3><br />
-					<p>With a fine blend of mortgage experts and project management professionals, we are able to bank on innovative business processes to improve the quality and efficiency of your loan boarding process. We work closely with the client to understand their requirements, governance policies and operational budgets to deliver a bespoke service structure. We reduce the scope for missing or incorrectly indexing documents and thus in the process eliminate risks associated with compliance and information accuracy. We leverage software tools with advanced features like OCR to automate document identification and data extraction. These tools utilize our proprietary taxonomy workflows to successfully classify and label your loan documents during the loan boarding process. We adopt exhaustive data integrity review processes to achieve high success rates in data reconciliation audits. Our services ensure that your page data ecosystem is ready for MERS audits on demand.
-					</p>
-
-					<div class="col-0 col-lg-2"></div>
-					<div class="col-12 col-lg-8">
-						<img class="col-12 pl-0" src="#" alt="">
+					<h3>Why Outsource Mortgage Loan Boarding Services To Aventirium?</h3>
+					<div class="col-8">
+						<p class="text-justify">
+							With a fine blend of mortgage experts and project management professionals, we are able to bank on innovative business processes to improve the quality and efficiency of your loan boarding process. We work closely with the client to understand their requirements, governance policies and operational budgets to deliver a bespoke service structure. We reduce the scope for missing or incorrectly indexing documents and thus in the process eliminate risks associated with compliance and information accuracy. We leverage software tools with advanced features like OCR to automate document identification and data extraction. These tools utilize our proprietary taxonomy workflows to successfully classify and label your loan documents during the loan boarding process. We adopt exhaustive data integrity review processes to achieve high success rates in data reconciliation audits. Our services ensure that your page data ecosystem is ready for MERS audits on demand.
+						</p>
+					</div>
+					<div class="col-4">
+						<img src="images\lbs.png" class="col-12 pl-0">
 					</div>
 				</div>
 			</div>

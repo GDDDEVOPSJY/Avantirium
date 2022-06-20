@@ -74,6 +74,7 @@
           <li>Updates about the search results, if it provides sufficient information for preparing a title insurance commitment.</li>
 
         </ul>
+        <img src="images/ts.png">
 
         <h3>Mortgage Title Services For Lenders: Helping You Uncover Hidden Issues</h3>
 
