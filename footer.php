@@ -29,7 +29,7 @@
 					<div class="logo mb-4">
 						<h3>Avantirium<span> Business Solutions</span></h3>
 					</div>
-					<h6><a href="mailto:info@avantiriumsolutions.us" >info@avantiriumsolutions.us</a></h6>
+					<h6><a href="mailto:info@avantiriumsolutions.us">info@avantiriumsolutions.us</a></h6>
 					<a href="tel:+1 356-677-5555"><span class="text-color3 h4">+1 356-677-5555</span></a>
 				</div>
 			</div>

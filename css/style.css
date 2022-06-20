@@ -592,6 +592,23 @@ ul.dropdown-menu li {
   background: url("../images/bg/services/4.jpeg");
   background-size: cover;
 }
+.bg-more-services-1 {
+  background: url("../images/bg/services/more-1.jpg");
+  background-size: cover;
+}
+.bg-more-services-2 {
+  background: url("../images/bg/services/more-2.jpg");
+  background-size: cover;
+}
+.bg-more-services-3 {
+  background: url("../images/bg/services/more-3.jpg");
+  background-size: cover;
+}
+.bg-more-services-4 {
+  background: url("../images/bg/services/more-4.jpg");
+  background-size: cover;
+}
+
 
 .slider {
   background: url("../images/bg/home-1.jpg") no-repeat;
