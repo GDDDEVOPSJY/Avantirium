@@ -22,7 +22,9 @@
 
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="css/style.css">
-
+  
+  <link rel="shortcut icon" href="images/logo.png">
+  
 </head>
 
 <body>
