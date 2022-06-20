@@ -9,7 +9,7 @@
 
 	<meta name="mortgage processing" content="Avantirium">
 
-	<title>Avantirium| Business Solutions</title>
+	<title>Avantirium | Business Solutions</title>
 
 	<!-- bootstrap.min css -->
 	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
