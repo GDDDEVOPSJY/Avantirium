@@ -14,7 +14,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     $conn->select_db("AVANTIRIUM");
-    $conn->query("SELECT * FROM `USERS` WHERE `USER_EMAIL`=\'$email\'")
+    $conn->query("SELECT * FROM `USERS` WHERE `USER_EMAIL`=\'$email\'");
 
 
 
