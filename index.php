@@ -127,7 +127,7 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-desktop"></i>
+							<i class="icon"><img src="images/icons/mortgage-preprocessing.png"></i>
 							<h4 class="mb-3">Mortgage Pre Processing</h4>
 							<p>Our services are designed to eliminate process-related delays and repetition of work in the mortgage loan initiation process.</p>
 						</div>
@@ -135,7 +135,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-layers"></i>
+							<i class="icon"><img src="images/icons/mortgage-processing.png"></i>
 							<h4 class="mb-3">Mortgage Processing</h4>
 							<p>As a reputed mortgage processing company, Avanterium receives documents and review document compliance—the first stage in loan processing.</p>
 						</div>
@@ -143,7 +143,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-bar-chart"></i>
+							<i class="icon"><img src="images/icons/mortgage-underwriting.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Underwriting</h4>
 							<p>As one of the leading mortgage underwriting companies, we have worked with lenders of all shapes and sizes and have helped them meet their loan underwriting needs in different ways.</p>
 						</div>
@@ -151,7 +151,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5 mb-lg-0">
-							<i class="ti-vector"></i>
+							<i class="icon"><img src="images/icons/mortgage-loan.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Loan</h4>
 							<p>As a global mortgage loan servicing company, our end-to-end services has helped drive efficiency into the processes of several lenders and credit unions.</p>
 						</div>
@@ -159,7 +159,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5 mb-lg-0">
-							<i class="ti-android"></i>
+							<i class="icon"><img src="images/icons/mortgage-loan-modification.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Loan Modification</h4>
 							<p>We help you make the most of modifying loan programs by helping you accurately evaluate and determine which borrowers have the financial capacity to meet their debt obligations.</p>
 						</div>
@@ -167,7 +167,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5 mb-lg-0">
-							<i class="ti-pencil-alt"></i>
+							<i class="icon"><img src="images/icons/closing-support.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Closing Support</h4>
 							<p>As an expert mortgage loan closing company, we cover all the stages of the mortgage loan closing process including ordering title reviews, readying closing statements, liaising with agents, revising the terms, etc.</p>
 						</div>
@@ -192,77 +192,6 @@
 				</div>
 			</div>
 		</section>
-
-		<!--  Section Cta End-->
-
-		<!-- <section class="section latest-blog bg-2">
-	<div class="container">
-		<div class="row justify-content-center">
-			<div class="col-lg-7 text-center">
-				<div class="section-title">
-					<span class="h6 text-color">Latest News</span>
-					<h2 class="mt-3 content-title text-white">Latest articles to enrich knowledge</h2>
-				</div>
-			</div>
-		</div>
-
-		<div class="row justify-content-center">
-			<div class="col-lg-4 col-md-6 mb-5">
-				<div class="card bg-transparent border-0">
-					<img src="images/blog/1.jpg" alt="" class="img-fluid rounded">
-
-					<div class="card-body mt-2">
-						<div class="blog-item-meta">
-							<a href="#" class="text-white-50">Design<span class="ml-2 mr-2">/</span></a>
-							<a href="#"  class="text-white-50">Ui/Ux<span class="ml-2">/</span></a>
-							<a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>admin</a>
-						</div> 
-
-						<h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white ">How to improve design with typography?</a></h3>
-
-						<a href="blog-single.php" class="btn btn-small btn-solid-border btn-round-full text-white">Learn More</a>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-4 col-md-6 mb-5">
-				<div class="card border-0 bg-transparent">
-					<img src="images/blog/2.jpg" alt="" class="img-fluid rounded">
-
-					<div class="card-body mt-2">
-						<div class="blog-item-meta">
-							<a href="#" class="text-white-50">Design<span class="ml-2 mr-2">/</span></a>
-							<a href="#"  class="text-white-50">Ui/Ux<span class="ml-2">/</span></a>
-							<a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>admin</a>
-						</div>  
-
-						<h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white">Interactivity design may connect consumer</a></h3>
-
-						<a href="blog-single.php" class="btn btn-small btn-solid-border btn-round-full text-white">Learn More</a>
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-4 col-md-6 mb-5">
-				<div class="card border-0 bg-transparent">
-					<img src="images/blog/3.jpg" alt="" class="img-fluid rounded">
-
-					<div class="card-body mt-2">
-						<div class="blog-item-meta">
-							<a href="#" class="text-white-50">Design<span class="ml-2 mr-2">/</span></a>
-							<a href="#"  class="text-white-50">Ui/Ux<span class="ml-2">/</span></a>
-							<a href="#" class="text-white-50 ml-2"><i class="fa fa-user mr-2"></i>admin</a>
-						</div> 
-
-						<h3 class="mt-3 mb-5 lh-36"><a href="#" class="text-white">Marketing Strategy to bring more affect</a></h3>
-
-						<a href="blog-single.php" class="btn btn-small btn-solid-border btn-round-full text-white">Learn More</a>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>  -->
 
 		<section class="mt-70 position-relative">
 			<div class="container">
