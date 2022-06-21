@@ -41,14 +41,13 @@
 						<div class="block">
 							<!--<span class="d-block mb-3 text-white text-capitalize">Prepare for new future</span> -->
 							<h1 class="animated fadeInUp mb-5"><span style="font-size:50px">Mortgage Processing <br>Outsourcing Services <br>made</span> <span style="font-size:60px">Faster, Easier & Better</span></h1>
-							<a href="#1" class="btn btn-main animated fadeInUp btn-round-full">Get started<i class="btn-icon fa fa-angle-right ml-2"></i></a>
+							<a href="services.php#Mortgage%20Services" class="btn btn-main animated fadeInUp btn-round-full">Get started<i class="btn-icon fa fa-angle-right ml-2"></i></a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</section>
 		<!-- Section Intro Start -->
-		<div id="1"></div>
 		<section class="section intro">
 			<div class="container">
 				<div class="row ">
@@ -76,7 +75,7 @@
 					</div>
 					<div class="col-lg-4 col-md-6">
 						<div class="intro-item">
-							<i class="ti-layers-alt color-three"></i>
+							<i class="ti-world color-three"></i>
 							<h4 class="mt-4 mb-3">Global Difference</h4>
 							<p>We recognize that different countries in different regions have strengths in particular technologies and services. We utilize the entire globe to find best in class services wherever they may be.</p>
 						</div>
@@ -93,15 +92,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg-6 offset-lg-6 offset-md-0">
-						<div class="about-item ">
+						<div class="about-item">
 							<h2 class="mt-3 mb-4 position-relative content-title">What We Are</h2>
 							<div class="about-content">
-								<h4 class="mb-3 position-relative"></h4>
-								<p class="mb-5">A company formed by professionals with decades of experience in the mortgage industry,
+								<h4 class="mb-1 position-relative"></h4>
+								<p class="mb-5 text-justify">A company formed by professionals with decades of experience in the mortgage industry,
 									commits itself to making mortgage process outsourcing faster, easier, better and more economical than ever before.
 									We have experience in providing mortgage processing support services to blue-chip financial institutions
 									in the areas of mortgage processing, underwriting, closing, post-closing and title services.</p>
-								<br />
+								<br><br>
 								<a href="about.php" class="btn btn-main btn-round-full bg-color-2">Get started</a>
 							</div>
 						</div>
@@ -118,7 +117,6 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-7 text-center">
 						<div class="section-title">
-
 							<h2 class="mt-3 content-title ">We provide a wide range of services for Mortgage. </h2>
 						</div>
 					</div>
