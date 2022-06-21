@@ -1633,4 +1633,9 @@ h3.quote::before {
   color: #f75757;
 }*/
 
+i.icon img {
+  height: 100px;
+  
+}
+
 /*# sourceMappingURL=maps/style.css.map */

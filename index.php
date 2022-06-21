@@ -127,7 +127,7 @@
 				<div class="row justify-content-center">
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-desktop"></i>
+							<i class="icon"><img src="images/icons/mortgage-preprocessing.png"></i>
 							<h4 class="mb-3">Mortgage Pre Processing</h4>
 							<p>Our services are designed to eliminate process-related delays and repetition of work in the mortgage loan initiation process.</p>
 						</div>
@@ -135,7 +135,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-layers"></i>
+							<i class="icon"><img src="images/icons/mortgage-processing.png"></i>
 							<h4 class="mb-3">Mortgage Processing</h4>
 							<p>As a reputed mortgage processing company, Avanterium receives documents and review document compliance—the first stage in loan processing.</p>
 						</div>
@@ -143,7 +143,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5">
-							<i class="ti-bar-chart"></i>
+							<i class="icon"><img src="images/icons/mortgage-underwriting.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Underwriting</h4>
 							<p>As one of the leading mortgage underwriting companies, we have worked with lenders of all shapes and sizes and have helped them meet their loan underwriting needs in different ways.</p>
 						</div>
@@ -151,7 +151,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5 mb-lg-0">
-							<i class="ti-vector"></i>
+							<i class="icon"><img src="images/icons/mortgage-loan.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Loan</h4>
 							<p>As a global mortgage loan servicing company, our end-to-end services has helped drive efficiency into the processes of several lenders and credit unions.</p>
 						</div>
@@ -159,7 +159,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5 mb-lg-0">
-							<i class="ti-android"></i>
+							<i class="icon"><img src="images/icons/mortgage-loan-modification.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Loan Modification</h4>
 							<p>We help you make the most of modifying loan programs by helping you accurately evaluate and determine which borrowers have the financial capacity to meet their debt obligations.</p>
 						</div>
@@ -167,7 +167,7 @@
 
 					<div class="col-lg-4 col-md-6 col-sm-6">
 						<div class="service-item mb-5 mb-lg-0">
-							<i class="ti-pencil-alt"></i>
+							<i class="icon"><img src="images/icons/closing-support.png" alt=""></i>
 							<h4 class="mb-3">Mortgage Closing Support</h4>
 							<p>As an expert mortgage loan closing company, we cover all the stages of the mortgage loan closing process including ordering title reviews, readying closing statements, liaising with agents, revising the terms, etc.</p>
 						</div>
