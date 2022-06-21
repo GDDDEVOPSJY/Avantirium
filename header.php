@@ -4,8 +4,8 @@
 			<div class="row justify-content-between align-items-center">
 				<div class="col-lg-2 col-md-4">
 					<div class="header-top-socials text-center text-lg-left text-md-left">
-						<a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a>
-						<a href="https://twitter.com/" target="_blank"><i class="ti-twitter"></i></a>
+						<a href="#" target="_blank"><i class="ti-facebook"></i></a>
+						<a href="#" target="_blank"><i class="ti-twitter"></i></a>
 					</div>
 				</div>
 				<div class="col-lg-10 col-md-8 text-center text-lg-right text-md-right">
@@ -41,29 +41,29 @@
 								<div class="dropleft-1">
 									<a href="services.php#Mortgage Services">Mortgage Services</a>
 									<div class="dropleft-content-1">
-										<a href="services-1.php">Loan Services</a>
-										<a href="services-2.php">Pre-proccessing Services</a>
-										<a href="services-3.php">Processing Services</a>
-										<a href="services-4.php">Underwriting Services</a>
-										<a href="services-5.php">Closing Support Services</a>
-										<a href="services-6.php">Loan Modification And Origination Services</a>
+										<a href="mortgage-loan-services.php">Loan Services</a>
+										<a href="mortgage-preprocessing-services.php">Pre-proccessing Services</a>
+										<a href="mortgage-processing-services.php">Processing Services</a>
+										<a href="mortgage-underwriting-services.php">Underwriting Services</a>
+										<a href="mortgage-closing-support-services.php">Closing Support Services</a>
+										<a href="mortgage-loan-modification-and-origination-services.php">Loan Modification And Origination Services</a>
 									</div>
 								</div>
 								<div class="dropleft-1">
 									<a href="services.php#QC Services">QC Services</a>
 									<div class="dropleft-content-1">
-										<a href="services-qc-1.php">Post Closing Audit Services</a>
-										<a href="services-qc-2.php">Prefund QC Audit Services</a>
-										<a href="services-qc-3.php">Underwriting QC Audit Services</a>
+										<a href="post-closing-audit-services.php">Post Closing Audit Services</a>
+										<a href="prefund-qc-audit-services.php">Prefund QC Audit Services</a>
+										<a href="underwriting-qc-audit-services.php">Underwriting QC Audit Services</a>
 									</div>
 								</div>
 								<div class="dropleft-1">
 									<a href="services.php#More Services">More Services</a>
 									<div class="dropleft-content-1">
-										<a href="more-services-1(LB).php">Loan Boarding Services</a>
-										<a href="more-services-2(MI).php">Mortgage Indexing Services</a>
-										<a href="more-services-3(REO).php">REO Services</a>
-										<a href="more-services-4(TS).php">Title Support Services</a>
+										<a href="loan-boarding-services.php">Loan Boarding Services</a>
+										<a href="mortgage-indexing-services.php">Mortgage Indexing Services</a>
+										<a href="reo-services.php">REO Services</a>
+										<a href="mortgage-loan-services.php">Title Support Services</a>
 									</div>
 								</div>
 							</div>

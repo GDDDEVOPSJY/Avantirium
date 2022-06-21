@@ -22,6 +22,7 @@
 
     <!-- Main Stylesheet -->
     <link rel="stylesheet" href="css/style.css">
+    
     <link rel="shortcut icon" href="images/logo1.png">
 
 </head>
@@ -63,7 +64,7 @@
                                 </div>
                             </div>
                             <!-- end message -->
-                            <span class="text-color2">Send a message</span>
+                            <span class="text-color2">Drop us a line</span>
                             <h3 class="text-md mb-4">Contact Form</h3>
                             <div class="form-group">
                                 <input name="name" type="text" class="form-control" placeholder="Your Name">
@@ -80,8 +81,8 @@
 
                     <div class="col-lg-5 col-sm-12">
                         <div class="contact-content pl-lg-5 mt-5 mt-lg-0">
-                            <span class="text-color2">We are Professionals</span>
-                            <h2 class="mb-5 mt-2 text-color2">Don’t Hesitate to contact with us for any kind of information</h2>
+                            <span class="text-color2"></span>
+                            <h2 class="mb-5 mt-2 text-color2">Don’t Hesitate to contact us for any kind of information</h2>
 
                             <ul class="address-block list-unstyled">
                                 <li>
