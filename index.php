@@ -137,7 +137,7 @@
 						<div class="service-item mb-5">
 							<i class="ti-layers"></i>
 							<h4 class="mb-3">Mortgage Processing</h4>
-							<p>As a reputed mortgage processing company, Aventirium receives documents and review document compliance—the first stage in loan processing.</p>
+							<p>As a reputed mortgage processing company, Avanterium receives documents and review document compliance—the first stage in loan processing.</p>
 						</div>
 					</div>
 

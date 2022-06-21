@@ -4,8 +4,8 @@
 			<div class="row justify-content-between align-items-center">
 				<div class="col-lg-2 col-md-4">
 					<div class="header-top-socials text-center text-lg-left text-md-left">
-						<a href="https://www.facebook.com/" target="_blank"><i class="ti-facebook"></i></a>
-						<a href="https://twitter.com/" target="_blank"><i class="ti-twitter"></i></a>
+						<a href="#" target="_blank"><i class="ti-facebook"></i></a>
+						<a href="#" target="_blank"><i class="ti-twitter"></i></a>
 					</div>
 				</div>
 				<div class="col-lg-10 col-md-8 text-center text-lg-right text-md-right">
