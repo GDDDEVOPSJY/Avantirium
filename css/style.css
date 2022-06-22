@@ -1628,11 +1628,15 @@ h3.quote::before {
 /* Change the background color of the dropdown button when the dropdown content is shown */
 /*.dropdown:hover .nav-item {background-color: #f1f1f1;}*/
 
-.container {
-  width: 90%;
-  position: relative;
-  display: flex;
-  justify-content: space-between;
+.container.services {
+    height: 80%;
+    max-width: 100%!important;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255 255 255 / 69%);
+    backdrop-filter: blur(10px);
+    transform: translate(1%, 170px);
 }
 .container .card {
   position: relative;
@@ -1641,25 +1645,24 @@ h3.quote::before {
   border: none;
 }
 .container .card .face {
-  width: 360px;
-  height: 350px;
+  width: 100%;
+  height: 10rem;
   transition: 0.5s;
 }
 .container .card .face.face1 {
   position: relative;
-  background: #333;
+  background: rgb(255, 255, 255);
   display: flex;
   justify-content: center;
   align-items: center;
   z-index: 1;
-  transform: translateY(200px);
-}
-.container .card:hover .face.face1 {
-  background: #833900;
-  transform: translateY(0px);
+  transform: translateY(10rem);
+  /* border: 1px grey solid; */
+  border-radius: 7px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 .container .card .face.face1 .content {
-  opacity: 0.2;
+  opacity: 0.45;
   transition: 0.5s;
 }
 .container .card:hover .face.face1 .content {
@@ -1671,29 +1674,35 @@ h3.quote::before {
 .container .card .face.face1 .content h3 {
   margin: 10px 0 0;
   padding: 0;
-  color: rgb(255, 255, 255);
+  color: black;
   text-align: center;
   font-size: 1.5em;
 }
 .container .card .face.face2 {
+  height: 50%;
   position: relative;
   background: #fff;
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
   padding: 20px;
   box-sizing: border-box;
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
-  transform: translateY(-150px);
+  /* transform: translateY(-150px); */
+  transition: .5s;
+  border-radius: 7px;
 }
-.container .card:hover .face.face2 {
-  transform: translateY(0);
-}
+
 .container .card .face.face2 .content p {
   margin: 0;
   padding: 0;
 }
+.container .card .face.face2 .content.half {
+  margin: 2%;
+  width: 50%;
+}
 .container .card .face.face2 .content a {
+  width: 100%;
   margin: 15px 0 0;
   display: inline-block;
   text-decoration: double;
@@ -1701,16 +1710,73 @@ h3.quote::before {
   color: #333;
   padding: 5px;
   border: 1px solid #333;
+  transition: ease .2s;
 }
-.container .card .face.face2 .content a:hover {
-  background: rgb(49, 0, 0);
-  color: #fff;
-}
+
 .large {
   padding: 20px !important;
 }
 .medium {
   padding: 10px !important;
+}
+@media only screen and (min-width: 1500px) {
+  .container .card:hover .face.face1 {
+    background: #ffffff;
+    transform: translateY(30px);
+  }
+  .container .card:hover .face.face2 {
+    display: flex;
+    transform: translateY(10px);
+    height: 300px;
+    transition: ease 2s;
+  }  
+  .container .card .face.face2 .content a:hover {
+    background: #095064;
+    border: 1px #062f3a solid;
+    color: #fff;
+    transition: ease .1s;
+  }
+}
+@media only screen and (max-width: 5000px) {
+  .container .card {
+    position: relative;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+  }
+  .container .card .face {
+    width: 100%;
+    height: 10rem;
+    transition: 0.5s;
+  }
+  .container .card .face.face1 {
+    position: relative;
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transform: translateY(3rem);
+    border-radius: 7px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    height: 12rem;
+  }
+  .container .card .face.face1 .content {
+    transition: 1s;
+  }
+  .container .card:hover .face.face1 .content {
+    opacity: 1;
+  }
+  .container .card .face.face1 .content img {
+    min-width: 60px!important;
+  }
+  .container .card .face.face1 .content h3 {
+    margin: 10px 0 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+    font-size: 1.5em;
+  }
 }
 
 /*# sourceMappingURL=maps/style.css.map */
