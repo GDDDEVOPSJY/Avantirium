@@ -1,4 +1,3 @@
-
 <header class="navigation">
 	<div class="header-top ">
 		<div class="container">
@@ -37,78 +36,78 @@
 					<li class="nav-item"><a class="nav-link" href="about.php"><strong>About Us</strong></a></li>
 					<li class="nav-item">
 						<div class="dropdown">
-							<a href="#" class="nav-link" onclick="document.getElementById('id01').style.display='block'"><strong>Services</strong></a>
+							<a href="#" class="nav-link" onclick="document.getElementById('service-modal').style.display='block'"><strong>Services</strong></a>
 
-					<div id="id01" class="modal">
-					<!-- <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span> -->
-						<div class="container">  
-							<div class="card">  
-								<div class="face face1">  
-								<div class="content">  
-									<img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/design_128.png?raw=true">  
-									<h3>Mortgage services</h3>  
-								</div>  
-								</div>  
-								<div class="face face2">  
-								<div class="content">  
-								<a class="options" href="mortgage-loan-services.php">Loan Services</a><br>
+							<div id="service-modal" class="modal">
+								<!-- <span onclick="document.getElementById('service-modal').style.display='none'" class="close" title="Close Modal">&times;</span> -->
+								<div class="container">
+									<div class="card">
+										<div class="face face1">
+											<div class="content">
+												<img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/design_128.png?raw=true">
+												<h3>Mortgage services</h3>
+											</div>
+										</div>
+										<div class="face face2">
+											<div class="content">
+												<a class="options" href="mortgage-loan-services.php">Loan Services</a><br>
 												<a class="options" href="mortgage-preprocessing-services.php">Preprocessing Services</a><br>
 												<a class="options" href="mortgage-processing-services.php">Processing Services</a><br>
-												<a  class="options" href="mortgage-underwriting-services.php">Underwriting Services</a><br>
-												<a class="options"  href="mortgage-closing-support-services.php">Closing Support Services</a><br>
+												<a class="options" href="mortgage-underwriting-services.php">Underwriting Services</a><br>
+												<a class="options" href="mortgage-closing-support-services.php">Closing Support Services</a><br>
 												<a class="options" href="mortgage-loan-modification-and-organisation-services.php">Loan Modification and Organisation Services</a><br>
-								</div>  
-								</div>  
-							</div>  
-							<div class="card">  
-								<div class="face face1">  
-								<div class="content">  
-									<img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/code_128.png?raw=true">  
-									<h3>QC services</h3>  
-								</div>  
-								</div>  
-								<div class="face face2">  
-								<div class="content">  
-									<a class="options large" href="post-closing-and-it-services.php">Post closing and IT Services</a><br>
-													<a class="options large " href="prefund-qc-audit-services.php">Prefund QC audit Services</a><br>
-													<a class="options large " href="underwriting-qc-and-it-services.php">Underwriting QC and IT Services</a><br>
-								</div>  
-								</div>  
-							</div>  
-							<div class="card">  
-								<div class="face face1">  
-								<div class="content">  
-									<img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/launch_128.png?raw=true">  
-									<h3>More Services</h3>  
-								</div>  
-								</div>  
-								<div class="face face2">  
-								<div class="content">  
-									<a class="options large " href="loan-boarding-services.php">Loan boarding Services</a><br>
-													<a class="options large" href="mortage-indexing-services.php">Mortage indexing Services</a><br>
-													<a class="options large " href="reo-services.php">Reo services</a><br>
-													<a class="options large" href="title-support-services.php">Title support Services</a><br>
-								</div>  
-								</div>  
-							</div>  
-							</div>  
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="face face1">
+											<div class="content">
+												<img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/code_128.png?raw=true">
+												<h3>QC services</h3>
+											</div>
+										</div>
+										<div class="face face2">
+											<div class="content">
+												<a class="options large" href="post-closing-and-it-services.php">Post closing and IT Services</a><br>
+												<a class="options large " href="prefund-qc-audit-services.php">Prefund QC audit Services</a><br>
+												<a class="options large " href="underwriting-qc-and-it-services.php">Underwriting QC and IT Services</a><br>
+											</div>
+										</div>
+									</div>
+									<div class="card">
+										<div class="face face1">
+											<div class="content">
+												<img src="https://github.com/Jhonierpc/WebDevelopment/blob/master/CSS%20Card%20Hover%20Effects/img/launch_128.png?raw=true">
+												<h3>More Services</h3>
+											</div>
+										</div>
+										<div class="face face2">
+											<div class="content">
+												<a class="options medium " href="loan-boarding-services.php">Loan boarding Services</a><br>
+												<a class="options medium" href="mortage-indexing-services.php">Mortage indexing Services</a><br>
+												<a class="options medium " href="reo-services.php">Reo services</a><br>
+												<a class="options medium" href="title-support-services.php">Title support Services</a><br>
+											</div>
+										</div>
+									</div>
+								</div>
 
-						
 
-					</div>
-					</div>
 
-					<script>
-					// Get the modal
-					var modal = document.getElementById('id01');
+							</div>
+						</div>
 
-					// When the user clicks anywhere outside of the modal, close it
-					window.onclick = function(event) {
-					if (event.target == modal) {
-						modal.style.display = "none";
-					}
-					}
-					</script>
+						<script>
+							// Get the modal
+							var modal = document.getElementById('service-modal');
+
+							// When the user clicks anywhere outside of the modal, close it
+							window.onclick = function(event) {
+								if (event.target == modal) {
+									modal.style.display = "none";
+								}
+							}
+						</script>
 
 					</li>
 					<li class="nav-item"><a class="nav-link" href="how-we-work.php"><strong>How We Work</strong></a></li>
