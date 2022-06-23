@@ -65,7 +65,7 @@
                                     $email=$_POST['email'];
                                     $password=$_POST['password'];
 
-                                    $sql="select * from loginfrom where Email='".$email."'AND Pass='".$password."' limit 1";
+                                    $sql="select * from login where mailid='".$email."'AND Password='".$password."' limit 1";
 
                                     $result=$conn-> query($sql);
 

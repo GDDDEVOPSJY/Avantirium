@@ -1,4 +1,22 @@
+<?php
+if(isset($_POST['mail'])){
+    $name=$_POST["name"];
+    $mailid=$_POST["mail"];
+    $password=$_POST["pass"];
 
+    $conn= new mysqli("localhost", "root", "","register");
+    if($conn->connect_error)
+    echo"connection error: $conn->connect_error";
+
+
+    $insert_cmd = "INSERT into login VALUES(\'$name\', \'$mailid\', \'$password\')";
+    $conn-> query($insert_cmd);
+
+    if($conn->affected_rows > 0)
+        $msg = "<html><body><script>alert('Account created successfully');</script></body></html>";
+        echo $msg;
+}
+?>
 <!DOCTYPE html>
 <html class="h-100" lang="en">
 
@@ -41,36 +59,18 @@
                     <div class="form-input-content">
                         <div class="card login-form mb-0">
                             <div class="card-body pt-5">
-                                <a class="text-center" href="index.html"> <h4>Sign In</h4></a>
+                                <a class="text-center"> <h4>Sign In</h4>
 
-                                <form class="mt-5 mb-5 login-input" action="" method="POST">
+                                <form class="mt-5 mb-5 login-input" action="login.php" method="POST">
                                     <div class="form-group">
                                         <input type="email" class="form-control" name="email" placeholder="Email">
                                     </div>
                                     <div class="form-group">
                                         <input type="password" class="form-control" name="password" placeholder="Password">
                                     </div>
-                                    <button class="btn login-form__btn submit w-100">Sign In</button>
+                                    <button class="btn login-form__btn submit w-100" type=submit>Sign In</button>
                                 </form>
-                                <?php
-                                if(isset($_POST['mail'])){
-                                    $name=$_POST["name"];
-                                    $mailid=$_POST["mail"];
-                                    $password=$_POST["pass"];
-
-                                    $conn= new mysqli("localhost", "root", "","register");
-                                    if($conn->connect_error)
-                                    echo"connection error: $conn->connect_error";
-
-
-                                    $insert_cmd = "INSERT into login VALUES('$name', '$mailid', '$password')";
-                                    $conn-> query($insert_cmd);
-
-                                    if($conn->affected_rows > 0)
-                                        $msg = "<div class=\"alert alert-danger alert-dismissible show\" role=\"alert\">Account Created.</div>";
-                                        echo $msg;
-                                }
-                                ?>
+                                
                                 <p class="mt-5 login-form__footer">Dont have account? <a href="page-register.html" class="text-primary">Sign Up</a> now</p>
                             </div>
                         </div>
