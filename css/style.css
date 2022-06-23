@@ -1634,7 +1634,7 @@ h3.quote::before {
     position: absolute;
     display: flex;
     justify-content: center;
-    background-color: rgb(255 255 255 / 69%);
+    background-color: rgba(0, 0, 0, 0.5);
     backdrop-filter: blur(10px);
     transform: translate(1%, 170px);
 }
@@ -1651,14 +1651,14 @@ h3.quote::before {
 }
 .container .card .face.face1 {
   position: relative;
-  background: rgb(255, 255, 255);
+  background: rgb(33 32 32)!important;
   display: flex;
   justify-content: center;
   align-items: center;
   z-index: 1;
-  transform: translateY(10rem);
+  transform: translateY(8rem)!important;
   /* border: 1px grey solid; */
-  border-radius: 7px;
+  border-radius: 20px;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 .container .card .face.face1 .content {
@@ -1672,16 +1672,16 @@ h3.quote::before {
   max-width: 100px;
 }
 .container .card .face.face1 .content h3 {
+  font-size: 1.25em!important;
   margin: 10px 0 0;
   padding: 0;
-  color: black;
+  color: #00b5ce!important;
   text-align: center;
-  font-size: 1.5em;
 }
 .container .card .face.face2 {
   height: 50%;
   position: relative;
-  background: #fff;
+  background: rgb(21, 21, 21);
   display: none;
   justify-content: center;
   align-items: center;
@@ -1693,10 +1693,10 @@ h3.quote::before {
   border-radius: 7px;
 }
 
-.container .card .face.face2 .content p {
+/* .container .card .face.face2 .content p {
   margin: 0;
   padding: 0;
-}
+} */
 .container .card .face.face2 .content.half {
   margin: 2%;
   width: 50%;
@@ -1707,9 +1707,9 @@ h3.quote::before {
   display: inline-block;
   text-decoration: double;
   font-weight: 100px;
-  color: #333;
+  color: rgb(255, 255, 255);
   padding: 5px;
-  border: 1px solid #333;
+  border: 1px solid rgb(181, 181, 181);
   transition: ease .2s;
 }
 
@@ -1720,9 +1720,12 @@ h3.quote::before {
   padding: 10px !important;
 }
 @media only screen and (min-width: 1500px) {
+  .container.services {
+    transform: translate(1%, 30%)!important;
+  }
   .container .card:hover .face.face1 {
-    background: #ffffff;
-    transform: translateY(30px);
+    background: #042832!important;
+    transform: translateY(30px)!important;
   }
   .container .card:hover .face.face2 {
     display: flex;
@@ -1731,13 +1734,16 @@ h3.quote::before {
     transition: ease 2s;
   }  
   .container .card .face.face2 .content a:hover {
-    background: #095064;
+    background: #f75757;
     border: 1px #062f3a solid;
     color: #fff;
     transition: ease .1s;
   }
 }
 @media only screen and (max-width: 5000px) {
+  .container.services {
+    transform: translate(1.5%, 35%);
+  }
   .container .card {
     position: relative;
     cursor: pointer;
