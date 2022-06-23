@@ -1,11 +1,11 @@
 @import url('http:fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
-:root{
+:root {
     --maincolor: #DD2F6E;
     --color-dark: #1D2231;
     --text-grey: #8390A2;
 }
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -13,17 +13,55 @@
     text-decoration: none;
     font-size: 'Poppins', sans-serif;
 }
-.sidebar{
+.sidebar {
     width: 345px;
     position: fixed;
     left: 0;
     top: 0;
     height: 100%;
-    background: var(--main-color);
-
-
+    background: #DD2F6E;
 }
-.main-content{
+.sidebar-brand {
+    height: 90px;
+    padding: 1rem 0 1rem 2rem;
+    color: white;
+}
+.sidebar-brand span {
+    display: inline-block;
+    padding-right: 1rem;
+}
+.sidebar-menu li {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.sidebar-menu a {
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    display: block;
+    color: white;
+    padding: 1rem 0 1rem 2rem;
+    border-radius: 30px 0 0 30px;
+}
+.sidebar-menu a span:first-child {
+    font-size: 1.5rem;
+    padding-right: .7rem;
+}
+.sidebar-menu a.active {
+    background: white;
+    color:#DD2F6E;
+}
+.main-content {
     margin-left: 345px;
-    
 }
+header {
+    display: flex;
+    justify-content: space-between;
+}
+.search-wrapper {
+    border: 1px solid #f0f0f0;
+    border-radius: 50%;
+
+}
+
+

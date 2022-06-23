@@ -18,10 +18,10 @@
         </div>
         <div class="sidebar-menu">
             <ul>
-                <li><a href=""><span class="las la-igloo"></span> <span>Dashboard</span></a></li>
+                <li><a href="" class="active"><span class="las la-igloo"></span> <span>Dashboard</span></a></li>
                 <li><a href=""><span class="las la-users"></span> <span>Customers</span></a></li>
                 <li><a href=""><span class="las la-clipboard-list"></span> <span>Projects</span></a></li>
-                <li><a href=""><span class="las la-shipping-bag"></span> <span>Orders</span></a></li>
+                <li><a href=""><span class="las la-shopping-bag"></span> <span>Orders</span></a></li>
                 <li><a href=""><span class="las la-receipt"></span> <span>Inventory</span></a></li>
                 <li><a href=""><span class="las la-user-circle"></span> <span>Accounts</span></a></li>
                 <li><a href=""><span class="las la-clipboard-list"></span> <span>Tasks</span></a></li>
@@ -31,12 +31,12 @@
 
     <div class="main-content">
         <header>
-            <h1>
+            <h2>
                 <label for="">
                     <span class="las la-bars"></span>
                 </label>
                 Dashboard
-            </h1>
+            </h2>
             <div class="search-wrapper">
                 <span class="las la-search"></span>
                 <input type="search" name="" id="" placeholder="Search" />
