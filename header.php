@@ -41,7 +41,7 @@
 							<a href="#" class="nav-link" onclick="document.getElementById('service-modal').style.display='block'"><strong>Services</strong></a>
 
 							<div id="service-modal" class="modal">
-								<div class="container services row">
+								<div class="container services row" id="service-container">
 									<div class="card col-3 m-3">
 										<div class="row">
 											<div class="face face1 col-12">
@@ -122,11 +122,11 @@
 			</div>
 			<script>
 				// Get the modal
-				var modal = document.getElementById('service-modal');
+				var modal = document.getElementById('service-modal'), container = document.getElementById("service-container");
 
 				// When the user clicks anywhere outside of the modal, close it
 				window.onclick = function(event) {
-					if (event.target == modal) {
+					if (event.target == modal || event.target == container) {
 						modal.style.display = "none";
 					}
 				}

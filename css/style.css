@@ -1568,75 +1568,24 @@ h3.quote::before {
 }
 
 /* The container <div> - needed to position the dropdown content */
-.dropdown,
-.dropleft-1 {
+/* .dropdown {
   position: relative;
   display: inline-block;
   transition: ease 0.5s;
-}
-.dropleft-content-1 {
-  position: relative;
-  display: inline-block;
-  transition: ease 0.5s;
-  transform: translate(160px, -45px);
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content,
-.dropleft-content-1 {
-  display: none;
-  position: absolute;
-  background-color: #ffffffd0;
-  backdrop-filter: blur(10px);
-  min-width: 180px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
-  transition: ease 2s;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a,
-.dropleft-content-1 a {
-  width: 180px;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-.dropleft-content-1 a {
-  background-color: #ffffffd0;
-  backdrop-filter: blur(10px);
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover,
-.dropleft-content-1 a:hover {
-  background-color: #095064;
-  color: white;
-  transition: ease 0.2s;
-}
-
-.dropdown > a:hover .dropdown-content {
-  transition: ease 1s;
-}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content,
-.dropleft-1:hover .dropleft-content-1 {
-  display: block;
-}
+} */
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 /*.dropdown:hover .nav-item {background-color: #f1f1f1;}*/
 
 .container.services {
-    height: 80%;
-    max-width: 100%!important;
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    background-color: rgba(0, 0, 0, 0.5);
-    backdrop-filter: blur(10px);
-    transform: translate(1%, 170px);
+  height: 80%;
+  max-width: 100% !important;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  transform: translate(1%, 170px);
 }
 .container .card {
   position: relative;
@@ -1651,14 +1600,15 @@ h3.quote::before {
 }
 .container .card .face.face1 {
   position: relative;
-  background: rgb(33 32 32)!important;
+  background: #f3e6dd !important;
+  /* backdrop-filter: blur(10px); */
   display: flex;
   justify-content: center;
   align-items: center;
   z-index: 1;
-  transform: translateY(8rem)!important;
+  transform: translateY(8rem) !important;
   /* border: 1px grey solid; */
-  border-radius: 20px;
+  border-radius: 20px !important;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
 }
 .container .card .face.face1 .content {
@@ -1672,16 +1622,16 @@ h3.quote::before {
   max-width: 100px;
 }
 .container .card .face.face1 .content h3 {
-  font-size: 1.25em!important;
+  font-size: 1.25em !important;
   margin: 10px 0 0;
   padding: 0;
-  color: #00b5ce!important;
+  color: #ff5e00 !important;
   text-align: center;
 }
 .container .card .face.face2 {
   height: 50%;
   position: relative;
-  background: rgb(21, 21, 21);
+  background: rgb(222, 222, 222);
   display: none;
   justify-content: center;
   align-items: center;
@@ -1689,14 +1639,9 @@ h3.quote::before {
   box-sizing: border-box;
   box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
   /* transform: translateY(-150px); */
-  transition: .5s;
-  border-radius: 7px;
+  transition: 0.5s;
+  border-radius: 10px;
 }
-
-/* .container .card .face.face2 .content p {
-  margin: 0;
-  padding: 0;
-} */
 .container .card .face.face2 .content.half {
   margin: 2%;
   width: 50%;
@@ -1707,37 +1652,33 @@ h3.quote::before {
   display: inline-block;
   text-decoration: double;
   font-weight: 100px;
-  color: rgb(255, 255, 255);
+  color: darkslategrey;
   padding: 5px;
-  border: 1px solid rgb(181, 181, 181);
-  transition: ease .2s;
-}
-
-.large {
-  padding: 20px !important;
+  border: 1px solid darkslategrey;
+  transition: ease 0.2s;
 }
 .medium {
   padding: 10px !important;
 }
 @media only screen and (min-width: 1500px) {
   .container.services {
-    transform: translate(1%, 30%)!important;
+    transform: translate(1%, 30%) !important;
   }
   .container .card:hover .face.face1 {
-    background: #042832!important;
-    transform: translateY(30px)!important;
+    background: whitesmoke !important;
+    transform: translateY(30px) !important;
   }
   .container .card:hover .face.face2 {
     display: flex;
     transform: translateY(10px);
     height: 300px;
     transition: ease 2s;
-  }  
+  }
   .container .card .face.face2 .content a:hover {
-    background: #f75757;
+    background: #095064;
     border: 1px #062f3a solid;
     color: #fff;
-    transition: ease .1s;
+    transition: ease 0.1s;
   }
 }
 @media only screen and (max-width: 5000px) {
@@ -1774,7 +1715,7 @@ h3.quote::before {
     opacity: 1;
   }
   .container .card .face.face1 .content img {
-    min-width: 60px!important;
+    min-width: 60px !important;
   }
   .container .card .face.face1 .content h3 {
     margin: 10px 0 0;
@@ -1784,5 +1725,62 @@ h3.quote::before {
     font-size: 1.5em;
   }
 }
+
+.card {
+  -webkit-animation: animatezoom 0.3s;
+  animation: animatezoom 0.3s;
+  transition: opacity 2s linear;
+}
+@-webkit-keyframes animatezoom {
+  from {
+    -webkit-transform: scale(0.3);
+  }
+  to {
+    -webkit-transform: scale(1);
+  }
+}
+
+@keyframes animatezoom {
+  from {
+    transform: scale(0.9);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+.container.services,
+.card .face.face2 {
+  animation: fade-in 0.3s;
+}
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  70% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/* .visible {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 0.5s linear;
+}
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s 0.5s, opacity 0.5s ease-out;
+  display: none;
+} */
 
 /*# sourceMappingURL=maps/style.css.map */
