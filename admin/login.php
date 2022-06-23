@@ -56,7 +56,7 @@
                                 $host="localhost";
                                 $user="root";
                                 $password="";
-                                $db="demo";
+                                $db="register";
 
                                 $conn = new mysqli($host,$user,$password);
                                 $conn-> select_db($db);
