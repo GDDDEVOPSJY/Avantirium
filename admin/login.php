@@ -53,7 +53,7 @@
                                 $password="";
                                 $db="register";
 
-                                $conn = new mysqli($host,$user,$password);
+                                $conn = new mysqli($host, $user, $password);
                                 $conn-> select_db($db);
 
                                 if(isset($_POST['email'])){
@@ -77,6 +77,7 @@
                                         exit();
                                     }
                                 }
+
                                 ?>
                                 <p class="mt-5 login-form__footer">Dont have account? <a href="page-register.html" class="text-primary">Sign Up</a> now</p>
                             </div>
