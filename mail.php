@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         http_response_code(500);
         echo
         "<h3>Oops! Something went wrong, we couldn't send your message.</h3>
-            <a href='contact.html'>Click here</a> to go back.";
+            <a href='contact.php'>Click here</a> to go back.";
     }
 } else {
     # Not a POST request, set a 403 (forbidden) response code.
