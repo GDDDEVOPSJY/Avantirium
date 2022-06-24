@@ -1686,7 +1686,7 @@ h3.quote::before {
     transform: translate(4%, 15%);
   }
   .container .card {
-    position: absolute;
+    position: fixed;
     cursor: pointer;
     background-color: transparent;
     border: none;
