@@ -71,7 +71,8 @@
 
                                     if($result-> num_rows==1){
                                         echo "You have sucessfully logged in";
-                                        header("Location: ". rtrim(dirname($_SERVER['PHP_SELF']),'/\\')."/index.html");
+                                        
+                                        header("Location: ". rtrim(dirname($_SERVER['PHP_SELF']),'/\\')."/index.php");
                                         exit();
                                     }
                                     else{
