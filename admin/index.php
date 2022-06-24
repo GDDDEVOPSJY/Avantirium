@@ -12,8 +12,8 @@
 <body>
   <div class="sidebar">
     <div class="logo-details">
-      <i class='bx bxl-c-plus-plus'></i>
-      <span class="logo_name">CodingLab</span>
+      <i class=' p-0 m-0'></i>
+      <span class="logo_name text-small">Avantirium</span>
     </div>
       <ul class="nav-links">
         <li>

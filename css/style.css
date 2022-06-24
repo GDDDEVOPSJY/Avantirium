@@ -1683,10 +1683,10 @@ h3.quote::before {
 }
 @media only screen and (max-width: 5000px) {
   .container.services {
-    transform: translate(1.5%, 35%);
+    transform: translate(4%, 15%);
   }
   .container .card {
-    position: relative;
+    position: absolute;
     cursor: pointer;
     background-color: transparent;
     border: none;
