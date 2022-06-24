@@ -12,8 +12,8 @@
 <body>
   <div class="sidebar">
     <div class="logo-details">
-      <i class='bx bxl-c-plus-plus'></i>
-      <span class="logo_name">CodingLab</span>
+      <i class=' p-0 m-0'></i>
+      <span class="logo_name text-small">Avantirium</span>
     </div>
       <ul class="nav-links">
         <li>
@@ -97,7 +97,7 @@
       <div class="profile-details">
         <!--<img src="images/profile.jpg" alt="">-->
         <span class="admin_name">Prem Shahi</span>
-        <i class='bx bx-chevron-down' ></i>
+       
       </div>
     </nav>
 
