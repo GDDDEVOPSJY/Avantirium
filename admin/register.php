@@ -1,22 +1,3 @@
-<?php
-if(isset($_POST['mail'])){
-    $name=$_POST["name"];
-    $mailid=$_POST["mail"];
-    $password=$_POST["pass"];
-
-    $conn= new mysqli("localhost", "root", "","register");
-    if($conn->connect_error)
-    echo"connection error: $conn->connect_error";
-
-
-    $insert_cmd = "INSERT into login VALUES(\'$name\', \'$mailid\', \'$password\')";
-    $conn-> query($insert_cmd);
-
-    if($conn->affected_rows > 0)
-        $msg = "<html><body><script>alert('Account created successfully');</script></body></html>";
-        echo $msg;
-}
-?>
 <!DOCTYPE html>
 <html class="h-100" lang="en">
 
@@ -27,16 +8,16 @@ if(isset($_POST['mail'])){
     <title>Quixlab - Bootstrap Admin Dashboard Template by Themefisher.com</title>
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="../../assets/images/favicon.png">
-    <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link href="css/style.css" rel="stylesheet">
-    
+
 </head>
 
 <body class="h-100">
-    
-    <!--*******************
+
+    <!--==================*
         Preloader start
-    ********************-->
+    ====================-->
     <div id="preloader">
         <div class="loader">
             <svg class="circular" viewbox="25 25 50 50">
@@ -44,13 +25,9 @@ if(isset($_POST['mail'])){
             </svg>
         </div>
     </div>
-    <!--*******************
+    <!--==================*
         Preloader end
-    ********************-->
-
-    
-
-
+    ====================-->
 
     <div class="login-form-bg h-100">
         <div class="container h-100">
@@ -59,19 +36,45 @@ if(isset($_POST['mail'])){
                     <div class="form-input-content">
                         <div class="card login-form mb-0">
                             <div class="card-body pt-5">
-                                <a class="text-center"> <h4>Sign In</h4>
 
-                                <form class="mt-5 mb-5 login-input" action="login.php" method="POST">
+                                <a class="text-center" href="index.html">
+                                    <h4>Sign Up Page</h4>
+                                </a>
+
+                                <form class="mt-5 mb-5 login-input" action="" method="POST">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" name="email" placeholder="Email">
+                                        <input type="text" class="form-control" name="name" placeholder="Name" required />
                                     </div>
                                     <div class="form-group">
-                                        <input type="password" class="form-control" name="password" placeholder="Password">
+                                        <input type="email" class="form-control" name="mail" placeholder="Email" required />
                                     </div>
-                                    <button class="btn login-form__btn submit w-100" type=submit>Sign In</button>
+                                    <div class="form-group">
+                                        <input type="password" class="form-control" name="pass" placeholder="Password" required />
+                                    </div>
+                                    <button class="btn login-form__btn submit w-100"><a href="login.php">Sign Up</a></button>
                                 </form>
-                                
-                                <p class="mt-5 login-form__footer">Dont have account? <a href="page-register.html" class="text-primary">Sign Up</a> now</p>
+                                <?php
+                                if (isset($_POST['mail'])) {
+                                    $name = $_POST["name"];
+                                    $mailid = $_POST["mail"];
+                                    $password = $_POST["pass"];
+
+                                    $conn = new mysqli("localhost", "root", "bpsdoha", "register");
+                                    if ($conn->connect_error)
+                                        die("Connection error: $conn->connect_error");
+
+
+                                    $insert_cmd = "INSERT into login VALUES(\'$name\', \'$mailid\', \'$password\')";
+                                    $conn->query($insert_cmd);
+
+                                    if ($conn->affected_rows > 0)
+                                        echo "<script> alert('Account created successfully'); </script>";
+                                    header("Location: " . rtrim(dirname($_SERVER['PHP_SELF']), '/\\') . "/login.php");
+                                }
+                                ?>
+                                <p class="mt-5 login-form__footer">Have account? <a href="page-login.html" class="text-primary">Sign In </a> now</p>
+
+
                             </div>
                         </div>
                     </div>
@@ -79,19 +82,15 @@ if(isset($_POST['mail'])){
             </div>
         </div>
     </div>
-    
 
-    
-
-    <!--**********************************
+    <!--==================================
         Scripts
-    ***********************************-->
+    ==================================*-->
     <script src="plugins/common/common.min.js"></script>
     <script src="js/custom.min.js"></script>
     <script src="js/settings.js"></script>
     <script src="js/gleek.js"></script>
     <script src="js/styleSwitcher.js"></script>
 </body>
+
 </html>
-
-

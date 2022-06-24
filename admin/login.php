@@ -15,24 +15,19 @@
 </head>
 
 <body class="h-100">
-    
-    <!--*******************
+    <!--==================*
         Preloader start
-    ********************-->
-    <!-- <div id="preloader">
+    ====================-->
+    <div id="preloader">
         <div class="loader">
             <svg class="circular" viewBox="25 25 50 50">
                 <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="3" stroke-miterlimit="10" />
             </svg>
         </div>
-    </div> -->
-    <!--*******************
+    </div>
+    <!--==================*
         Preloader end
-    ********************-->
-
-    
-
-
+    ====================-->
 
     <div class="login-form-bg h-100">
         <div class="container h-100">
@@ -71,7 +66,8 @@
 
                                     if($result-> num_rows==1){
                                         echo "You have sucessfully logged in";
-                                        header("Location: ". rtrim(dirname($_SERVER['PHP_SELF']),'/\\')."/index.html");
+                                        
+                                        header("Location: ". rtrim(dirname($_SERVER['PHP_SELF']),'/\\')."/index.php");
                                         exit();
                                     }
                                     else{
@@ -90,13 +86,10 @@
             </div>
         </div>
     </div>
-    
 
-    
-
-    <!--**********************************
+    <!--==================================
         Scripts
-    ***********************************-->
+    ==================================*-->
     <script src="plugins/common/common.min.js"></script>
     <script src="js/custom.min.js"></script>
     <script src="js/settings.js"></script>
