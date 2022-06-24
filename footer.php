@@ -17,6 +17,7 @@
 					<h4 class="text-capitalize mb-4">Quick Links</h4>
 
 					<ul class="list-unstyled footer-menu lh-35">
+					    <li><a href="blog-sidebar.php">Our blog</a></li>
 						<li><a href="about.php">About</a></li>
 						<li><a href="services.php">Services</a></li>
 						<li><a href="how-we-work.php">How We Work</a></li>
