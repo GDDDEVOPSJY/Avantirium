@@ -54,6 +54,7 @@
                                     <button class="btn login-form__btn submit w-100"><a href="login.php">Sign Up</a></button>
                                 </form>
                                 <?php
+                               
                                 if (isset($_POST['mail'])) {
                                     $name = $_POST["name"];
                                     $mailid = $_POST["mail"];
@@ -71,6 +72,7 @@
                                         echo "<script> alert('Account created successfully'); </script>";
                                     header("Location: " . rtrim(dirname($_SERVER['PHP_SELF']), '/\\') . "/login.php");
                                 }
+                                
                                 ?>
                                 <p class="mt-5 login-form__footer">Have account? <a href="page-login.html" class="text-primary">Sign In </a> now</p>
 

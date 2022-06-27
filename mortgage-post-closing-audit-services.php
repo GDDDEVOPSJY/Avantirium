@@ -65,12 +65,12 @@
 
 				<h2>Mortgage Post Closing Audit Services</h2>
 
-
 				<p class="text-justify">We have more than a decade of experience in providing lenders with robust back office support for post-closing mortgage audits. Our services comprise of meticulous quality analysis and review processes that ensure that your mortgage loan approval process adheres to all the regulatory requirements of government-sponsored enterprises. As a premium Mortgage quality control company, our mortgage audit after closing services enables you perform vital tasks like loan default reviews, mortgage file review and denied loan reviews and compile an in-depth oversight of the client files
 				</p>
 				<p class="text-justify">Our services comprise industry standard procedures that conduct an extensive audit based on a predetermined mortgage post-closing audit checklist. Our systematic approach to post-closing audits enables us to identify discrepancies with the loan information and flag it at the right time as well as initiate a re-underwriting process, if need be. Our clients prefer to outsource post-closing quality control services because of our established process and diverse experience in discharging this critical function.
 				</p>
-				<h3>Our Comprehensive Post-Closing Mortgage Audit Services</h3>
+
+				<h3>Our Comprehensive Post-Closing Mortgage Audit Services</h3><br/><br/>
 				<div class="panel-group">
 					<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
 						<div class="panel-heading">
