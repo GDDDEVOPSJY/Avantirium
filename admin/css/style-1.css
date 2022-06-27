@@ -10,14 +10,14 @@
   position: fixed;
   height: 100%;
   width: 240px;
-  background: #2e5d4f;
+  background: #1f7057bc;
   transition: all 0.5s ease;
 }
 .sidebar.active{
   width: 60px;
 }
 .sidebar .logo-details{
-  height: 70px;
+  height: 80px;
   display: flex;
   align-items: center;
 }
@@ -191,6 +191,7 @@ nav .profile-details i{
   width: calc(100% / 4 - 15px);
   background: #fff;
   padding: 15px 14px;
+  
   border-radius: 12px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
@@ -436,4 +437,7 @@ nav .profile-details i{
     left: 60px;
     width: calc(100% - 60px);
   }
+}
+.box.button {
+  height: 200px;
 }

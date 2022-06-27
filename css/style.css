@@ -1670,12 +1670,97 @@ h3.quote::before {
   transition: ease .4s;
   border-radius: 10px;
 }
+<<<<<<< HEAD
 .column h3 a:hover {
   color: #0f7c9a!important;
   background-color: lightgrey;
   letter-spacing: 1.5px;
   font-weight: 700;
   transition: ease .4s;
+=======
+.container .card .face.face2 .content.half {
+  margin: 2%;
+  width: 50%;
+}
+.container .card .face.face2 .content a {
+  width: 100%;
+  margin: 15px 0 0;
+  display: inline-block;
+  text-decoration: double;
+  font-weight: 100px;
+  color: darkslategrey;
+  padding: 5px;
+  border: 1px solid darkslategrey;
+  transition: ease 0.2s;
+}
+.medium {
+  padding: 10px !important;
+}
+@media only screen and (min-width: 1500px) {
+  .container.services {
+    transform: translate(1%, 30%) !important;
+  }
+  .container .card:hover .face.face1 {
+    background: whitesmoke !important;
+    transform: translateY(30px) !important;
+  }
+  .container .card:hover .face.face2 {
+    display: flex;
+    transform: translateY(10px);
+    height: 300px;
+    transition: ease 2s;
+  }
+  .container .card .face.face2 .content a:hover {
+    background: #095064;
+    border: 1px #062f3a solid;
+    color: #fff;
+    transition: ease 0.1s;
+  }
+}
+@media only screen and (max-width: 5000px) {
+  .container.services {
+    transform: translate(4%, 15%);
+  }
+  .container .card {
+    position: fixed;
+    cursor: pointer;
+    background-color: transparent;
+    border: none;
+  }
+  .container .card .face {
+    width: 100%;
+    height: 10rem;
+    transition: 0.5s;
+  }
+  .container .card .face.face1 {
+    position: relative;
+    background: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+    transform: translateY(3rem);
+    border-radius: 7px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+    height: 12rem;
+  }
+  .container .card .face.face1 .content {
+    transition: 1s;
+  }
+  .container .card:hover .face.face1 .content {
+    opacity: 1;
+  }
+  .container .card .face.face1 .content img {
+    min-width: 60px !important;
+  }
+  .container .card .face.face1 .content h3 {
+    margin: 10px 0 0;
+    padding: 0;
+    color: black;
+    text-align: center;
+    font-size: 1.5em;
+  }
+>>>>>>> 09cc858b4503da82be2a4834f025e39940c865f8
 }
 
 /* Clear floats after the columns */
