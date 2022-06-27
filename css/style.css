@@ -1619,17 +1619,23 @@ h3.quote::before {
 .dropdown-content .header {
   background: #f75757;
   padding: 16px;
+  transition: ease .5s;
 }
 .dropdown-content .header h2 {
   width: 100%;
   color: white;
+}
+.dropdown-content .header:hover {
+  background-color: #f52626;
+  transition: ease .5s;
+  letter-spacing: 1.2px;
 }
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
   width: 30%;
   padding: 10px;
-  height: 300px;
+  min-height: 300px;
 }
 .column.wide {
   width: 40%;
@@ -1674,7 +1680,7 @@ h3.quote::before {
 .column h3 a:hover {
   color: #0f7c9a!important;
   background-color: lightgrey;
-  letter-spacing: 1.5px;
+  letter-spacing: 1.2px;
   font-weight: 700;
   transition: ease .4s;
 }
@@ -1687,19 +1693,28 @@ h3.quote::before {
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 730px) {
   #service-modal {
     transform: translateY(175px);
   }
   .column {
     width: 100% !important;
-    height: auto;
+    min-height: 50px !important;
+    height: auto !important;
   }
   .column > a {
     display: none;
   }
   .navbar-brand {
     width: 50%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .column {
+    min-height: 100px;
+  }
+  .column > a {
+    display: none;
   }
 }
 @media screen and (min-width: 600px) {
