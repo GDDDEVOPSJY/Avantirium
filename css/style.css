@@ -1633,12 +1633,12 @@ h3.quote::before {
 /* Create three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 30%;
+  width: 25%;
   padding: 10px;
   min-height: 300px;
 }
 .column.wide {
-  width: 40%;
+  width: 50%;
 }
 
 .column a {
