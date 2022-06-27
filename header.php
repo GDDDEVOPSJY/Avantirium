@@ -49,30 +49,32 @@
 									</a>
 									<div class="row">
 										<div class="column wide">
-											<h3><a href="services.php#Mortgage%20Services">
+											<h3><a href="services.php#Mortgage%20Services" onclick="document.getElementById('service-modal').style.display = 'none'">
 													Mortgage Services</a>
 											</h3>
-											<a href="#" class="half">Mortgage Loan Services</a>
-											<a href="#" class="half">Mortgage Pre-processing Services</a>
-											<a href="#" class="half">Mortgage Processing Services</a>
-											<a href="#" class="half">Mortgage Underwriting Services</a>
-											<a href="#" class="half">Mortgage Closing Support Services</a>
-											<a href="#" class="half">Mortgage Loan Modification And Origination Services</a>
+											<a href="mortgage-loan-services.php" class="half">Mortgage Loan Services</a>
+											<a href="mortgage-preprocessing-services.php" class="half">Mortgage Pre-processing Services</a>
+											<a href="mortgage-processing-services.php" class="half">Mortgage Processing Services</a>
+											<a href="mortgage-underwriting-services.php" class="half">Mortgage Underwriting Services</a>
+											<a href="mortgage-closing-support-services.php" class="half">Mortgage Closing Support Services</a>
+											<a href="mortgage-loan-modification-and-origination-services.php" class="half">Mortgage Loan Modification And Origination Services</a>
 										</div>
 										<div class="column">
-											<h3><a href="services.php#QC%20Services">
+											<h3><a href="services.php#QC%20Services" 
+											onclick="document.getElementById('service-modal').style.display = 'none'">
 													QC Services</a></h3>
-											<a href="#">Mortgage Post Closing Audit Services</a>
-											<a href="#">Mortgage Prefund QC Audit Services</a>
-											<a href="#">Mortgage Underwriting QC Services</a>
+											<a href="mortgage-post-closing-audit-services.php">Mortgage Post Closing Audit Services</a>
+											<a href="mortgage-prefund-qc-audit-services.php">Mortgage Prefund QC Audit Services</a>
+											<a href="mortgage-underwriting-qc-services.php">Mortgage Underwriting QC Services</a>
 										</div>
 										<div class="column">
-											<h3><a href="services.php#More%20Services">
+											<h3><a href="services.php#More%20Services"
+											onclick="document.getElementById('service-modal').style.display = 'none'">
 													More Services</a></h3>
-											<a href="#">Loan Boarding Services</a>
-											<a href="#">Mortgage Indexing Services</a>
-											<a href="#">REO Services</a>
-											<a href="#">Title Support Services</a>
+											<a href="loan-boarding-services.php">Loan Boarding Services</a>
+											<a href="mortgage-indexing-services.php">Mortgage Indexing Services</a>
+											<a href="reo-services.php">REO Services</a>
+											<a href="title-support-services.php">Title Support Services</a>
 										</div>
 									</div>
 								</div>
