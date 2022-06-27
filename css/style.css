@@ -1728,5 +1728,8 @@ h3.quote::before {
     background-color: rgb(230, 230, 230);
   }
 }
+.animate__animated.animate__fadeIn, .animate__animated.animate__fadeOut {
+  --animate-duration: .3s;
+}
 
 /*# sourceMappingURL=maps/style.css.map */

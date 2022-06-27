@@ -1,4 +1,4 @@
-<div class="">
+<div>
 	<header class="navigation">
 		<div class="header-top ">
 			<div class="container">
@@ -38,9 +38,9 @@
 							<a class="nav-link" href="about.php"><strong>About Us</strong></a>
 						</li>
 						<li class="nav-item">
-							<a href="#" class="nav-link" onclick="action();"><strong>Services</strong></a>
+							<a href="#" class="nav-link" onclick="action()"><strong>Services</strong></a>
 
-							<div id="service-modal" class="modal" style="display: none;">
+							<div id="service-modal" class="modal animate__animated animate__fadeIn" style="display: none;">
 								<div class="dropdown-content">
 									<a href="services.php" class="col-12 p-0">
 										<div class="header">
@@ -60,16 +60,14 @@
 											<a href="mortgage-loan-modification-and-origination-services.php" class="half">Mortgage Loan Modification And Origination Services</a>
 										</div>
 										<div class="column">
-											<h3><a href="services.php#QC%20Services" 
-											onclick="document.getElementById('service-modal').style.display = 'none'">
+											<h3><a href="services.php#QC%20Services" onclick="document.getElementById('service-modal').style.display = 'none'">
 													QC Services</a></h3>
 											<a href="mortgage-post-closing-audit-services.php">Mortgage Post Closing Audit Services</a>
 											<a href="mortgage-prefund-qc-audit-services.php">Mortgage Prefund QC Audit Services</a>
 											<a href="mortgage-underwriting-qc-services.php">Mortgage Underwriting QC Services</a>
 										</div>
 										<div class="column">
-											<h3><a href="services.php#More%20Services"
-											onclick="document.getElementById('service-modal').style.display = 'none'">
+											<h3><a href="services.php#More%20Services" onclick="document.getElementById('service-modal').style.display = 'none'">
 													More Services</a></h3>
 											<a href="loan-boarding-services.php">Loan Boarding Services</a>
 											<a href="mortgage-indexing-services.php">Mortgage Indexing Services</a>
@@ -96,18 +94,35 @@
 					header = document.getElementById("dropdown-header"),
 					nav_link = document.getElementById("services-nav-item");
 
+				var delay = (function() {
+					var timer = 0;
+					return function(callback, ms) {
+						clearTimeout(timer);
+						timer = setTimeout(callback, ms);
+					};
+				})();
 				// When the user clicks anywhere outside of the modal, close it
-				window.onclick = function(event) {
+				window.onclick = (event) => {
 					if (event.target == modal || event.target == container || event.target == header || event.target == nav_link) {
-						modal.style.display = "none";
+						modal.classList.remove('animate__fadeIn');
+						modal.classList.add('animate__fadeOut');
+						delay(function() {
+							modal.style.display = "none";
+						}, 800);
 					}
 				}
 				const action = () => {
-
-					if (document.getElementById('service-modal').style.display != 'none')
-						modal.style.display = 'none';
-					else
+					if (document.getElementById('service-modal').style.display != 'none') {
+						modal.classList.remove('animate__fadeIn');
+						modal.classList.add('animate__fadeOut');
+						delay(function() {
+							modal.style.display = "none";
+						}, 300);
+					} else {
+						modal.classList.remove('animate__fadeOut');
+						modal.classList.add('animate__fadeIn');
 						modal.style.display = 'block';
+					}
 				}
 			</script>
 		</nav>

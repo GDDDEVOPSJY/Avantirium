@@ -1,31 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<head>
-  <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="megakit,business,company,agency,multipurpose,modern,bootstrap4">
-
-  <meta name="mortgage processing" content="Avantirium">
-
-  <title>Avantirium | Business Solutions</title>
-
-  <!-- bootstrap.min css -->
-  <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
-  <!-- Icon Font Css -->
-  <link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
-  <link rel="stylesheet" href="plugins/fontawesome/css/all.css">
-  <link rel="stylesheet" href="plugins/magnific-popup/dist/magnific-popup.css">
-  <!-- Owl Carousel CSS -->
-  <link rel="stylesheet" href="plugins/slick-carousel/slick/slick.css">
-  <link rel="stylesheet" href="plugins/slick-carousel/slick/slick-theme.css">
-
-  <!-- Main Stylesheet -->
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="shortcut icon" href="images/logo1.png">
-
-</head>
+<?php include('html_head.php'); ?>
 
 <body>
 
@@ -89,19 +65,19 @@
             </div>
             <div id="collapse2" class="collapse">
               <div class="panel-body">
-                  <ul>
-                    <li>Scrutinize borrower credit report to establish his credit & repayment history</li>
-                    <li>Scrutinize borrower income documents to validate income</li>
-                    <li>Scan forms to spot fraudulent claims</li>
-                    <li>Modify loan tenure, interest rates, monthly mortgage payments</li>
-                    
-                    <li>Tailor customized modification solutions to suit homeowner</li>
-                    <li>Check eligibility for HAMP modification program</li>
-                    <li>Review & re-underwrite loans based on borrower financial hardship, commitment and repayment capability</li>
-                    <li>Compute and provide mortgaged property appraisal report</li>
-                    <li>Reduce default levels by modifying delinquent loans</li>
-                    <li>Match Fannie Mae and Freddie Mac guidelines with asset attributes to ensure modification is appropriate</li>
-                  </ul>
+                <ul>
+                  <li>Scrutinize borrower credit report to establish his credit & repayment history</li>
+                  <li>Scrutinize borrower income documents to validate income</li>
+                  <li>Scan forms to spot fraudulent claims</li>
+                  <li>Modify loan tenure, interest rates, monthly mortgage payments</li>
+
+                  <li>Tailor customized modification solutions to suit homeowner</li>
+                  <li>Check eligibility for HAMP modification program</li>
+                  <li>Review & re-underwrite loans based on borrower financial hardship, commitment and repayment capability</li>
+                  <li>Compute and provide mortgaged property appraisal report</li>
+                  <li>Reduce default levels by modifying delinquent loans</li>
+                  <li>Match Fannie Mae and Freddie Mac guidelines with asset attributes to ensure modification is appropriate</li>
+                </ul>
                 <p>Our mortgage modification underwriting services takes care of the back-office needs of the following modification services:</p>
                 <ul>
                   <li>Deed- in- Lieu Reinstatement</li>
