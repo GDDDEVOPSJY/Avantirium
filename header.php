@@ -38,77 +38,44 @@
 							<a class="nav-link" href="about.php"><strong>About Us</strong></a>
 						</li>
 						<li class="nav-item">
-							<a href="#" class="nav-link" onclick="document.getElementById('service-modal').style.display='block'"><strong>Services</strong></a>
+							<a href="#" class="nav-link" onclick="action();"><strong>Services</strong></a>
 
-							<div id="service-modal" class="modal">
-								<div class="container services row" id="service-container">
-									<div class="card col-3 m-3">
-										<div class="row">
-											<div class="face face1 col-12">
-												<div class="content">
-													<a href="services.php#Mortgage Services">
-														<img src="images/icons/header-services-1-light.png" style="width: 60%; aspect-ratio: 1/1;">
-														<h3>Mortgage services</h3>
-													</a>
-												</div>
-											</div>
-											<div class="face face2 col-12">
-												<div class="content half">
-													<a class="options" href="mortgage-loan-services.php">Mortgage Loan Services</a><br>
-													<a class="options" href="mortgage-preprocessing-services.php">Mortgage Preprocessing Services</a><br>
-													<a class="options" href="mortgage-processing-services.php">Mortgage Processing Services</a><br>
-												</div>
-												<div class="content half">
-													<a class="options" href="mortgage-underwriting-services.php">Underwriting Services</a><br>
-													<a class="options" href="mortgage-closing-support-services.php">Mortgage Closing Support Services</a><br>
-													<a class="options" href="mortgage-loan-modification-and-origination-services.php">Loan Modification and Origination Services</a><br>
-												</div>
-											</div>
+							<div id="service-modal" class="modal" style="display: none;">
+								<div class="dropdown-content">
+									<a href="services.php" class="col-12 p-0">
+										<div class="header">
+											<h2 id="dropdown-header">Services</h2>
 										</div>
-									</div>
-									<div class="card col-3 m-3">
-										<div class="row">
-											<div class="face face1 col-12">
-												<div class="content">
-													<a href="services.php#QC Services">
-														<img src="images/icons/header-services-2-light.png" style="width: 60%; aspect-ratio: 1/1;">
-														<h3>QC services</h3>
-													</a>
-												</div>
-											</div>
-											<div class="face face2 col-12">
-												<div class="content">
-													<a class="options medium" href="mortgage-post-closing-audit-services.php">Mortgage Post Closing Audit Services</a><br>
-													<a class="options medium" href="mortgage-prefund-qc-audit-services.php">Mortgage Prefund QC Audit Services</a><br>
-													<a class="options medium" href="mortgage-underwriting-qc-services.php">Mortgage Underwriting QC Services</a><br>
-												</div>
-											</div>
+									</a>
+									<div class="row">
+										<div class="column wide">
+											<h3><a href="services.php#Mortgage%20Services">
+													Mortgage Services</a>
+											</h3>
+											<a href="#" class="half">Mortgage Loan Services</a>
+											<a href="#" class="half">Mortgage Pre-processing Services</a>
+											<a href="#" class="half">Mortgage Processing Services</a>
+											<a href="#" class="half">Mortgage Underwriting Services</a>
+											<a href="#" class="half">Mortgage Closing Support Services</a>
+											<a href="#" class="half">Mortgage Loan Modification And Origination Services</a>
 										</div>
-									</div>
-									<div class="card col-3 m-3">
-										<div class="row">
-											<div class="face face1 col-12">
-												<div class="content">
-													<a href="services.php#More Services">
-														<img src="images/icons/header-services-3-light.png" style="width: 45%; aspect-ratio: 1/1;">
-														<h3>More Services</h3>
-													</a>
-												</div>
-											</div>
-											<div class="face face2 col-12">
-												<div class="content">
-													<a class="options medium " href="loan-boarding-services.php">Loan Boarding Services</a><br>
-													<a class="options medium" href="mortgage-indexing-services.php">Mortgage Indexing Services</a><br>
-													<a class="options medium " href="reo-services.php">REO services</a><br>
-													<a class="options medium" href="title-support-services.php">Title Support Services</a><br>
-												</div>
-											</div>
+										<div class="column">
+											<h3><a href="services.php#QC%20Services">
+													QC Services</a></h3>
+											<a href="#">Mortgage Post Closing Audit Services</a>
+											<a href="#">Mortgage Prefund QC Audit Services</a>
+											<a href="#">Mortgage Underwriting QC Services</a>
+										</div>
+										<div class="column">
+											<h3><a href="services.php#More%20Services">
+													More Services</a></h3>
+											<a href="#">Loan Boarding Services</a>
+											<a href="#">Mortgage Indexing Services</a>
+											<a href="#">REO Services</a>
+											<a href="#">Title Support Services</a>
 										</div>
 									</div>
 								</div>
-
-
-
 							</div>
 						</li>
 						<li class="nav-item">
@@ -122,13 +89,23 @@
 			</div>
 			<script>
 				// Get the modal
-				var modal = document.getElementById('service-modal'), container = document.getElementById("service-container");
+				var modal = document.getElementById('service-modal'),
+					container = document.getElementById("service-container"),
+					header = document.getElementById("dropdown-header"),
+					nav_link = document.getElementById("services-nav-item");
 
 				// When the user clicks anywhere outside of the modal, close it
 				window.onclick = function(event) {
-					if (event.target == modal || event.target == container) {
+					if (event.target == modal || event.target == container || event.target == header || event.target == nav_link) {
 						modal.style.display = "none";
 					}
+				}
+				const action = () => {
+
+					if (document.getElementById('service-modal').style.display != 'none')
+						modal.style.display = 'none';
+					else
+						modal.style.display = 'block';
 				}
 			</script>
 		</nav>
