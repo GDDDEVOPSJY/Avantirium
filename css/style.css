@@ -1716,6 +1716,9 @@ h3.quote::before {
   .column > a {
     display: none;
   }
+  .column, .column.wide {
+    width: 33%;
+  }
 }
 @media screen and (min-width: 600px) {
   .column:nth-child(3n+1) {
