@@ -113,6 +113,22 @@
 
 </section>
 
+<section class="doc-key">
+
+<div class="container">
+    
+        <div class="row mt-0">
+            
+            <div class="col-md-12 mt-4 mb-1"> 
+                <h1 class="mb-2 white text-center">
+                KEY FEATURES
+                </h1>
+            </div>
+            
+        </div>
+
+</section>
+
 
 <section class="doc-keyfactors">
         <div class="container">
@@ -398,7 +414,6 @@
             
         </div>
         </section>
-               
         
         <?php include('footer.php'); ?>
         

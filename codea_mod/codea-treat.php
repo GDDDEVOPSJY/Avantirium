@@ -193,9 +193,31 @@
             
         </div>
 
-        <div class="row text-center">
+       
             	   
         </section>
+       
+        
+        <section class="treat-consult text-center pt-3 pb-4">
+        <div class="container">
+        	
+            <h1>Codea <span style="color: #038fe8;">SMART CONSULT</span> App</h1>
+           
+            
+            <div class="row text-center">
+            	   
+        	    <div class="col-md-12 col-sm-12 mt-2">
+                	<img src="assets/images/consult_patient_app.png" alt="Document Management System Solution Architecture" style="height: auto; width: 100%;"/>
+                </div>
+                
+                
+                
+            </div>
+            
+        </div>
+
+
+</section>
       
         <section class="pt-5 pb-5 treat-ben">
         <div class="container">

@@ -646,7 +646,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .treat-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
 .treat-ben{background-color: #e5e5e5;}
 .treat-main { background-color: #f1585d;}
-
+.treat-consult img { height:350px; margin-bottom:15px;}
+.treat-consult h1{font-size: 35px;}
 
 
 .document-banner {background: url(../images/document-banner-img.jpg) no-repeat bottom center; width:100%; padding:13% 0;}
@@ -661,6 +662,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .doc-keyfactors { background:#f0f0f0; padding:50px 0px;}
 .doc-keyfactors h1 { display:block !important; width:100%;  text-align:center !important;}
 #doc-keyfactor ul li { margin-bottom:15px; }
+.doc-key {background-color: #f1585d;}
+.doc-key h1 {font-size: 45px;}
+
 
 
 
