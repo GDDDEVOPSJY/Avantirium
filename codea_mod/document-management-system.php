@@ -123,7 +123,55 @@
 
 
 
-
+<section class="doc-keyfactors">
+        <div class="container">
+            
+            <div class="row">
+                
+                <div class="col-md-12">
+                <h1 style="text-align:left !important; margin-bottom:20px;">Scalability</h1>
+                </div>
+                
+                <div class="col-md-4">
+                    <img src="assets/images/Iot-key-factors-img-02.jpg" alt="" class="img-fluid img-border" />
+                </div>
+                
+                <div class="col-md-8 text-justify">
+                    <ul style="padding-left:17px;">
+                    	<li>Will edge devices have to process on a quarterly or annual basis?  Do they have a requirement to scale beyond their first requirement? The Platform size requirement has to be assessed. The platform has to scale for years. </li>
+                        <li>Security - transfer data to the data centre. Since IoT is becoming self intelligent we need to focus on edge processing.</li>
+                        <li>
+                        	how to maintain and how long- Capacity with scale and access and process data at the edge. Summarize the benefits for the enterprise.
+                            <p>
+                            	Edge node and solutions come into use. The first level of data classification to the edge node leads to edge cluster use cases. 
+                            </p>
+                            <p>
+                            	Small form factors of nodes in edge environments offer three or five node clusters that can scale. Customers who fall into self-contained intel devices. 
+                            </p>
+                            <p>
+                            	Second, are people beyond IoT to edge node and edge clusters who want enterprise in a small briefcase.
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="col-md-12 text-justify">
+                    <ul style="padding-left:17px;">
+                        <li>
+                        	Lightweight and secured <br>
+                            IoT devices tend to be small in form-factor that is limited RAM, disk space, low power requirement etc. This makes it important to pay great attention to resource requirement and consumption. And due to the fact, that IoT is all about scaled and smart devices deployed, we need to focus on the scalability and security of these devices.
+                        </li>
+                        <li>
+                        	We have worked with many companies that started pilot IoT projects and quickly realized that the architecture they had created would not scale to support their application. So the key is planning for the quantity of data which will be created. Building an IoT platform on high performance, massively scalable and highly reliable platform from the start can help to avoid scalability and performance challenges that arise with production scale deployments.
+                        </li>
+                    </ul>
+                </div>
+                
+            </div>
+            
+        </div>
+        </section>
+        
 
 
 
