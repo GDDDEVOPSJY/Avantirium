@@ -50,7 +50,7 @@
   transition: all 0.4s ease;
 }
 .sidebar .nav-links li a.active{
-  background: #b94716;
+  background: #b9471600;
 }
 .sidebar .nav-links li a:hover{
   background: #c2511dbc;
@@ -188,16 +188,17 @@ nav .profile-details i{
   display: flex;
   align-items: center;
   justify-content: center;
-  width: calc(100% / 4 - 15px);
+  
   background: #fff;
   padding: 15px 14px;
-  
+  height: 10%;
+  width: 32%;
   border-radius: 12px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
 .overview-boxes .box-topic{
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 25px;
+  font-weight: 300;
 }
 .home-content .box .number{
   display: inline-block;
@@ -387,8 +388,7 @@ nav .profile-details i{
 }
 @media (max-width: 1000px) {
   .overview-boxes .box{
-    width: calc(100% / 2 - 15px);
-    margin-bottom: 15px;
+        margin-bottom: 15px;
   }
 }
 @media (max-width: 700px) {
@@ -438,6 +438,122 @@ nav .profile-details i{
     width: calc(100% - 60px);
   }
 }
-.box.button {
-  height: 200px;
+
+
+button.button {
+  background-color: #3e9679bc; /* Green */
+  border-radius: 3px;
+  color: white;
+  height: 50px;
+  width: 150px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size:15px;
+}
+
+
+
+
+#chartdiv {	
+  width		: 100%;
+ height		: 500px;
+ background-color: #161616;  
+ margin-top: 10px;
+ border-radius: 12px;
+}
+
+.amcharts-graph-g2 .amcharts-graph-stroke {
+ stroke-dasharray: 3px 3px;
+ stroke-linejoin: round;
+ stroke-linecap: round;
+ -webkit-animation: am-moving-dashes 1s linear infinite;
+ animation: am-moving-dashes 1s linear infinite;
+}
+
+@-webkit-keyframes am-moving-dashes {
+ 100% {
+   stroke-dashoffset: -31px;
+ }
+}
+@keyframes am-moving-dashes {
+ 100% {
+   stroke-dashoffset: -31px;
+ }
+}
+
+
+.lastBullet {
+ -webkit-animation: am-pulsating 1s ease-out infinite;
+ animation: am-pulsating 1s ease-out infinite;
+}
+@-webkit-keyframes am-pulsating {
+ 0% {
+   stroke-opacity: 1;
+   stroke-width: 0px;
+ }
+ 100% {
+   stroke-opacity: 0;
+   stroke-width: 50px;
+ }
+}
+@keyframes am-pulsating {
+ 0% {
+   stroke-opacity: 1;
+   stroke-width: 0px;
+ }
+ 100% {
+   stroke-opacity: 0;
+   stroke-width: 50px;
+ }
+}
+
+.amcharts-graph-column-front {
+ -webkit-transition: all .3s .3s ease-out;
+ transition: all .3s .3s ease-out;
+}
+.amcharts-graph-column-front:hover {
+ fill: #496375;
+ stroke: #496375;
+ -webkit-transition: all .3s ease-out;
+ transition: all .3s ease-out;
+}
+
+.amcharts-graph-g3 {
+ stroke-linejoin: round;
+ stroke-linecap: round;
+ stroke-dasharray: 500%;
+ stroke-dasharray: 0 \0/;    /* fixes IE prob */
+ stroke-dashoffset: 0 \0/;   /* fixes IE prob */
+ -webkit-animation: am-draw 40s;
+ animation: am-draw 40s;
+}
+@-webkit-keyframes am-draw {
+   0% {
+       stroke-dashoffset: 500%;
+   }
+   100% {
+       stroke-dashoffset: 0%;
+   }
+}
+@keyframes am-draw {
+   0% {
+       stroke-dashoffset: 500%;
+   }
+   100% {
+       stroke-dashoffset: 0%;
+   }
+}
+ 
+
+
+
+
+.bar1{
+  width		: 100%;
+  height		: 500px;
+  background-color: #161616;  
+  margin-top: 10px;
+  border-radius: 12px;
 }
