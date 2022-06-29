@@ -1568,84 +1568,171 @@ h3.quote::before {
 }
 
 /* The container <div> - needed to position the dropdown content */
-.dropdown,
-.dropleft-1 {
+/* .dropdown {
   position: relative;
   display: inline-block;
   transition: ease 0.5s;
-}
-.dropleft-content-1 {
-  position: relative;
-  display: inline-block;
-  transition: ease 0.5s;
-  transform: translate(160px, -45px);
-}
-
-/* Dropdown Content (Hidden by Default) */
-.dropdown-content,
-.dropleft-content-1 {
-  display: none;
-  position: absolute;
-  background-color: #ffffffd0;
-  backdrop-filter: blur(10px);
-  min-width: 180px;
-  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-  z-index: 1;
-  transition: ease 2s;
-}
-
-/* Links inside the dropdown */
-.dropdown-content a,
-.dropleft-content-1 a {
-  width: 180px;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-.dropleft-content-1 a {
-  background-color: #ffffffd0;
-  backdrop-filter: blur(10px);
-}
-
-/* Change color of dropdown links on hover */
-.dropdown-content a:hover,
-.dropleft-content-1 a:hover {
-  background-color: #095064;
-  color: white;
-  transition: ease .2s;
-}
-
-.dropdown > a:hover .dropdown-content {
-  transition: ease 1s;
-}
-
-/* Show the dropdown menu on hover */
-.dropdown:hover .dropdown-content,
-.dropleft-1:hover .dropleft-content-1 {
-  display: block;
-}
+} */
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 /*.dropdown:hover .nav-item {background-color: #f1f1f1;}*/
 
-.services-container {
-  padding-top: 40px;
-  background-color: #095064;
-  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
-  border: 1px solid #888;
+#service-modal {
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+  transform: translateY(170px);
+}
+
+#service-modal a {
+  float: left;
+  font-size: 16px;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.dropdown {
+  float: left;
+  /* overflow: hidden; */
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: black;
+  padding: 14px 16px;
+  background-color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.dropdown-content {
+  position: absolute;
+  background-color: #f9f9f9;
   width: 100%;
-  height: 300px;
-  transform: translateY(100px);
+  left: 0;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
 }
 
-.left-side{
-  margin: 4%;
-  font-style: italic;
-  font-size: larger;
+.dropdown-content .header {
+  background: #f75757;
+  padding: 16px;
+  transition: ease .5s;
 }
-
-.services-container .headings, .services-container .options {
+.dropdown-content .header h2 {
+  width: 100%;
   color: white;
+}
+.dropdown-content .header:hover {
+  background-color: #f52626;
+  transition: ease .5s;
+  letter-spacing: 1.2px;
+}
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  min-height: 300px;
+}
+.column.wide {
+  width: 50%;
+}
+
+.column a {
+  float: none;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+  transition: ease .2s;
+  margin: 0 5% 0 5%;
+  width: 90%;
+  border-radius: 4.5px;
+  border: 1px solid transparent;
+}
+.column a.half {
+  width: 45%;
+  margin: 0 2% 0 2%;
+}
+
+.column a:hover {
+  background-color: #0f7c9a;
+  border: 1px solid rgb(178, 178, 178);
+  color: white!important;
+  transition: ease .2s;
+}
+.column h3 {
+  color: #095064;
+}
+.column h3 a {
+  font-size: 18pt!important;
+  margin: 0;
+  padding: 0;
+  width: 97%;
+  margin: 0 1% 0 1%;
+  transition: ease .4s;
+  border-radius: 10px;
+}
+.column h3 a:hover {
+  color: #0f7c9a!important;
+  background-color: lightgrey;
+  letter-spacing: 1.2px;
+  font-weight: 700;
+  transition: ease .4s;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 730px) {
+  #service-modal {
+    transform: translateY(175px);
+  }
+  .column {
+    width: 100% !important;
+    min-height: 50px !important;
+    height: auto !important;
+  }
+  .column > a {
+    display: none;
+  }
+  .navbar-brand {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .column {
+    min-height: 100px;
+  }
+  .column > a {
+    display: none;
+  }
+  .column, .column.wide {
+    width: 33%;
+  }
+}
+@media screen and (min-width: 600px) {
+  .column:nth-child(3n+1) {
+    background-color: rgb(220, 220, 220);
+  }
+  .column:nth-child(3n+2) {
+    background-color: rgb(225, 225, 225);
+  }
+  .column:nth-child(3n+3) {
+    background-color: rgb(230, 230, 230);
+  }
+}
+.animate__animated.animate__fadeIn, .animate__animated.animate__fadeOut {
+  --animate-duration: .3s;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
