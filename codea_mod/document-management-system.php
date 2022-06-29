@@ -124,7 +124,7 @@
                 </div>
                 
                 <div class="col-md-4">
-                    <img src="assets/images/Iot-key-factors-img-02.jpg" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_01.png" alt="" class="img-fluid img-border" />
                 </div>
                 
                 <div class="col-md-8 text-justify">
@@ -164,7 +164,7 @@
                 </div>
                 
                 <div class="col-md-6">
-                    <img src="assets/images/Iot-key-factors-img-03.jpg" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_02.png" alt="" class="img-fluid img-border" />
                 </div>
                 
             </div>    
@@ -182,7 +182,7 @@
                 </div>
                 
                 <div class="col-md-4">
-                    <img src="assets/images/Iot-key-factors-img-04.png" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_03.png" alt="" class="img-fluid img-border" />
                 </div>
                 
                 <div class="col-md-8 text-justify">
@@ -225,7 +225,7 @@
                 </div>
                 
                 <div class="col-md-6">
-                    <img src="assets/images/Iot-key-factors-img-05.png" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc-img_04.png" alt="" class="img-fluid img-border" />
                 </div>
                 
             </div>    
@@ -243,7 +243,7 @@
                 </div>
                 
                 <div class="col-md-4">
-                    <img src="assets/images/Iot-key-factors-img-02.jpg" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_05.png" alt="" class="img-fluid img-border" />
                 </div>
                 
                 <div class="col-md-8 text-justify">
@@ -290,7 +290,7 @@
                 </div>
                 
                 <div class="col-md-6">
-                    <img src="assets/images/Iot-key-factors-img-03.jpg" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_06.png" alt="" class="img-fluid img-border" />
                 </div>
                 
             </div>    
@@ -308,7 +308,7 @@
                 </div>
                 
                 <div class="col-md-4">
-                    <img src="assets/images/Iot-key-factors-img-04.png" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_07.png" alt="" class="img-fluid img-border" />
                 </div>
                 
                 <div class="col-md-8 text-justify">
@@ -360,7 +360,7 @@
                 </div>
                 
                 <div class="col-md-6">
-                    <img src="assets/images/Iot-key-factors-img-05.png" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc-img_08.png" alt="" class="img-fluid img-border" />
                 </div>
                 
             </div>    
@@ -378,7 +378,7 @@
                 </div>
                 
                 <div class="col-md-4">
-                    <img src="assets/images/Iot-key-factors-img-02.jpg" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_09.png" alt="" class="img-fluid img-border" />
                 </div>
                 
                 <div class="col-md-8 text-justify">
