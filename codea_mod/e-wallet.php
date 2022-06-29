@@ -82,6 +82,89 @@
             </div>
             </section>
 
+      
+
+
+
+
+
+
+
+
+
+            <section class="e-quality mt-5 mb-5">
+        <div class="container">
+            
+            <div class="row text-center mt-5" >
+                
+                <div class="e-quality-cont mt-5" style="border:3px solid #f1585d;">
+                    <img src="assets/images/ewallet-icon-1.png" alt="" style="height:64px;" />
+                    <h2 class="mt-4 mb-2">
+                    Reduced Time to Market
+                    </h2>
+                    
+                        <li class="text-left" style="padding:5px; background:rgba(0,0,0,0.1);">Ready with all feature to Acquire, Service and Engage clients</li><br>
+                        <li class="text-left" style="padding:5px; background:rgba(0,0,0,0.1);">Open APIs and prebuilt connectors for quick integration</li><br>
+                        <li class="text-left mb-2" style="padding:5px; background:rgba(0,0,0,0.1);">Auto generation of reports and dashboard</li>
+                    
+                </div>
+                
+                
+                <div class="e-quality-cont mt-5" style="border:3px solid #f1585d;">
+                    <img src="assets/images/ewallet-icon-2.png" alt="" style="height:64px;" />
+                    <h2 class="mt-4 mb-2">
+                    Central Security & Vigilance
+                    </h2>
+                    
+                        <li class="text-left" style="padding:5px; background:rgba(0,0,0,0.1);">Automated graphical reporting</li><br>
+                        <li class="text-left" style="padding:5px; background:rgba(0,0,0,0.1);">Automated alerts</li><br>
+                        <li class="text-left mb-2" style="padding:5px; background:rgba(0,0,0,0.1);">OWASP and PCIDSS level security</li>
+                    
+                </div>
+
+                <div class="e-quality-cont mt-5" style="border:3px solid #f1585d;">
+                    <img src="assets/images/ewallet-icon-3.png" alt="" style="height:64px;" />
+                    <h2 class="mt-4 mb-2">
+                    Ready to Use SaaS Model
+                    </h2>
+                
+                        <li class="text-left" style="padding:5px; background:rgba(0,0,0,0.1);">Choose the modules you need - add more when required</li><br>
+                        <li class="text-left" style="padding:5px; background:rgba(0,0,0,0.1);">Fully managed solution - Zero investment on Hardware</li><br>
+                        <li class="text-left mb-2" style="padding:5px; background:rgba(0,0,0,0.1);">Pay as you grow model</li>
+                    
+                  
+                </div>
+
+                
+              
+             
+
+                
+               
+
+                   
+                
+            </div>	
+            
+        </div>
+
+       
+            	   
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

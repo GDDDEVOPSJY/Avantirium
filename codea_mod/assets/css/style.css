@@ -669,6 +669,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .ewallet-banner {background: url(../images/ewallet-banner-img.jpg) no-repeat bottom center; width:100%; padding:13% 0;}
 .ewallet-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
 .ewallet-busi p{color:grey;}
+.ewallet-busi{background-color: #e5e5e5;}
+.e-quality-cont {
+	width: 30%;
+	margin: 0 1.6%;
+	padding: 10px;
+}
+.e-quality-cont:hover h2{color:#f1585d;}
+@media screen and (max-width: 800px) {
+	.e-quality-cont {
+		width: 100%;
+	}
+}
 
 
 
