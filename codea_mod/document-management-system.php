@@ -39,8 +39,7 @@
             
         </div>
         </section>
-
-
+        
         <section class="doc-main">
 
 <div class="container">
@@ -63,9 +62,6 @@
 </section>
 <hr>
 
-
-
-
         <section class="doc-over text-center pt-5 pb-4">
         <div class="container">
         	
@@ -87,11 +83,6 @@
 
 </section>
 
-
-
-
-
-
         <section class="doc-arch text-center pt-5 pb-4">
         <div class="container">
         	
@@ -110,7 +101,6 @@
             
         </div>
 
-
 </section>
 
 <section class="doc-key">
@@ -128,7 +118,6 @@
         </div>
 
 </section>
-
 
 <section class="doc-keyfactors">
         <div class="container">
@@ -209,8 +198,6 @@
 
                     </ul>
                 </div>
-                
-               
                 
             </div>
             
@@ -342,8 +329,6 @@
 
                     </ul>
                 </div>
-                
-               
                 
             </div>
             
