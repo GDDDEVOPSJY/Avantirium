@@ -15,24 +15,19 @@
 </head>
 
 <body class="h-100">
-    
-    <!--*******************
+    <!--==================*
         Preloader start
-    ********************-->
-    <!-- <div id="preloader">
+    ====================-->
+    <div id="preloader">
         <div class="loader">
             <svg class="circular" viewBox="25 25 50 50">
                 <circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="3" stroke-miterlimit="10" />
             </svg>
         </div>
-    </div> -->
-    <!--*******************
+    </div>
+    <!--==================*
         Preloader end
-    ********************-->
-
-    
-
-
+    ====================-->
 
     <div class="login-form-bg h-100">
         <div class="container h-100">
@@ -56,22 +51,23 @@
                                 $host="localhost";
                                 $user="root";
                                 $password="";
-                                $db="demo";
+                                $db="register";
 
-                                $conn = new mysqli($host,$user,$password);
+                                $conn = new mysqli($host, $user, $password);
                                 $conn-> select_db($db);
 
                                 if(isset($_POST['email'])){
                                     $email=$_POST['email'];
                                     $password=$_POST['password'];
 
-                                    $sql="select * from loginfrom where Email='".$email."'AND Pass='".$password."' limit 1";
+                                    $sql="select * from login where mailid='".$email."'AND Password='".$password."' limit 1";
 
                                     $result=$conn-> query($sql);
 
                                     if($result-> num_rows==1){
                                         echo "You have sucessfully logged in";
-                                        header("Location: ". rtrim(dirname($_SERVER['PHP_SELF']),'/\\')."/index.html");
+                                        
+                                        header("Location: ". rtrim(dirname($_SERVER['PHP_SELF']),'/\\')."/index.php");
                                         exit();
                                     }
                                     else{
@@ -81,6 +77,7 @@
                                         exit();
                                     }
                                 }
+
                                 ?>
                                 <p class="mt-5 login-form__footer">Dont have account? <a href="page-register.html" class="text-primary">Sign Up</a> now</p>
                             </div>
@@ -90,13 +87,10 @@
             </div>
         </div>
     </div>
-    
 
-    
-
-    <!--**********************************
+    <!--==================================
         Scripts
-    ***********************************-->
+    ==================================*-->
     <script src="plugins/common/common.min.js"></script>
     <script src="js/custom.min.js"></script>
     <script src="js/settings.js"></script>

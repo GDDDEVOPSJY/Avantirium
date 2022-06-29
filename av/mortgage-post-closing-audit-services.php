@@ -1,31 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<head>
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="megakit,business,company,agency,multipurpose,modern,bootstrap4">
-
-	<meta name="mortgage processing" content="Avantirium">
-
-	<title>Avantirium | Business Solutions</title>
-
-	<!-- bootstrap.min css -->
-	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
-	<!-- Icon Font Css -->
-	<link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
-	<link rel="stylesheet" href="plugins/fontawesome/css/all.css">
-	<link rel="stylesheet" href="plugins/magnific-popup/dist/magnific-popup.css">
-	<!-- Owl Carousel CSS -->
-	<link rel="stylesheet" href="plugins/slick-carousel/slick/slick.css">
-	<link rel="stylesheet" href="plugins/slick-carousel/slick/slick-theme.css">
-
-	<!-- Main Stylesheet -->
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="shortcut icon" href="images/logo1.png">
-
-</head>
+<?php include('html_head.php'); ?>
 
 <body>
 
@@ -65,12 +41,12 @@
 
 				<h2>Mortgage Post Closing Audit Services</h2>
 
-
 				<p class="text-justify">We have more than a decade of experience in providing lenders with robust back office support for post-closing mortgage audits. Our services comprise of meticulous quality analysis and review processes that ensure that your mortgage loan approval process adheres to all the regulatory requirements of government-sponsored enterprises. As a premium Mortgage quality control company, our mortgage audit after closing services enables you perform vital tasks like loan default reviews, mortgage file review and denied loan reviews and compile an in-depth oversight of the client files
 				</p>
 				<p class="text-justify">Our services comprise industry standard procedures that conduct an extensive audit based on a predetermined mortgage post-closing audit checklist. Our systematic approach to post-closing audits enables us to identify discrepancies with the loan information and flag it at the right time as well as initiate a re-underwriting process, if need be. Our clients prefer to outsource post-closing quality control services because of our established process and diverse experience in discharging this critical function.
 				</p>
-				<h3>Our Comprehensive Post-Closing Mortgage Audit Services</h3>
+
+				<h3>Our Comprehensive Post-Closing Mortgage Audit Services</h3><br /><br />
 				<div class="panel-group">
 					<div class="panel panel-default" style="padding: 0 0 20px 0;" id="parnt">
 						<div class="panel-heading">

@@ -1,31 +1,7 @@
 <!doctype html>
 <html lang="en">
 
-<head>
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="description" content="megakit,business,company,agency,multipurpose,modern,bootstrap4">
-
-	<meta name="mortgage processing" content="Avantirium">
-
-	<title>Avantirium | Business Solutions</title>
-
-	<!-- bootstrap.min css -->
-	<link rel="stylesheet" href="plugins/bootstrap/css/bootstrap.min.css">
-	<!-- Icon Font Css -->
-	<link rel="stylesheet" href="plugins/themify/css/themify-icons.css">
-	<link rel="stylesheet" href="plugins/fontawesome/css/all.css">
-	<link rel="stylesheet" href="plugins/magnific-popup/dist/magnific-popup.css">
-	<!-- Owl Carousel CSS -->
-	<link rel="stylesheet" href="plugins/slick-carousel/slick/slick.css">
-	<link rel="stylesheet" href="plugins/slick-carousel/slick/slick-theme.css">
-
-	<!-- Main Stylesheet -->
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="shortcut icon" href="images/logo1.png">
-
-</head>
+<?php include('html_head.php'); ?>
 
 <body>
 
@@ -59,13 +35,13 @@
 			<div class="container">
 				<div class="row">
 					<h2>Mortgage Indexing Services</h2>
-					<p class="text-justify">We have more than a decade of experience in providing mortgage document indexing and data extraction services for Mortgage Lenders. 
-						We leverage our vast experience in the mortgage industry and combine it with modern day technology like OCR and 
-						single document classification taxonomy system to provide lenders with a single stop solution to handle all document indexing needs. 
-						Our services enable you to digitize, store and track loan related files from loan origination to loan modifications stage. 
-						As a premier mortgage indexing services company, we enable you to focus on core business functions by ensuring data security and accuracy with 
+					<p class="text-justify">We have more than a decade of experience in providing mortgage document indexing and data extraction services for Mortgage Lenders.
+						We leverage our vast experience in the mortgage industry and combine it with modern day technology like OCR and
+						single document classification taxonomy system to provide lenders with a single stop solution to handle all document indexing needs.
+						Our services enable you to digitize, store and track loan related files from loan origination to loan modifications stage.
+						As a premier mortgage indexing services company, we enable you to focus on core business functions by ensuring data security and accuracy with
 						all your business-critical documents.</p>
-					<p class="text-justify">Our indexing services are designed to help you reduce file storage space and improve process related workflows. 
+					<p class="text-justify">Our indexing services are designed to help you reduce file storage space and improve process related workflows.
 						Outsource indexing process in mortgage to us for an all-inclusive document management solution.</p>
 					<h3 class="col-12 p-0 pt-3">Our Comprehensive Indexing Process In Mortgages</h3>
 					<div class="panel-group pt-3">
