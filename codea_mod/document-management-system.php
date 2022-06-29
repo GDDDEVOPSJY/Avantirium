@@ -225,7 +225,7 @@
                 </div>
                 
                 <div class="col-md-6">
-                    <img src="assets/images/doc-img_04.png" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_04.png" alt="" class="img-fluid img-border" />
                 </div>
                 
             </div>    
@@ -360,7 +360,7 @@
                 </div>
                 
                 <div class="col-md-6">
-                    <img src="assets/images/doc-img_08.png" alt="" class="img-fluid img-border" />
+                    <img src="assets/images/doc_img_08.png" alt="" class="img-fluid img-border" />
                 </div>
                 
             </div>    
