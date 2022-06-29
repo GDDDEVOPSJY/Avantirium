@@ -129,15 +129,15 @@
                 
                 <div class="col-md-8 text-justify">
                     <ul style="padding-left:17px;">
-                        <li>Systematically organize documents in a folder and subf older hierarchy
+                        <li>Systematically organize documents in a folder and subf older hierarchy</li>
 
-                        <li> Create document and folder specific properties / param eters that are relevant for your business and department.
+                        <li> Create document and folder specific properties / param eters that are relevant for your business and department.</li>
 
-                        <li> Secure and manage document / folder access and ensure compliance with security guidelines
+                        <li> Secure and manage document / folder access and ensure compliance with security guidelines</li>
 
-                        <li> Enable automatic classification with metadata tagging of newly added documents
+                        <li> Enable automatic classification with metadata tagging of newly added documents</li>
 
-                        <li> Keep a track of various document versions through auto versioning capability
+                        <li> Keep a track of various document versions through auto versioning capability</li>
                     </ul>
                 </div>
                 
@@ -172,7 +172,7 @@
         </div>
         </section>
         
-        <section class="keyfactors">
+        <section class="doc-keyfactors">
         <div class="container">
             
             <div class="row">
@@ -232,6 +232,172 @@
             
         </div>
         </section> 
+
+    <section class="doc-keyfactors">
+        <div class="container">
+            
+            <div class="row">
+                
+                <div class="col-md-12">
+                <h1 style="text-align:left !important; margin-bottom:20px;">Archival & Retrieval</h1>
+                </div>
+                
+                <div class="col-md-4">
+                    <img src="assets/images/Iot-key-factors-img-02.jpg" alt="" class="img-fluid img-border" />
+                </div>
+                
+                <div class="col-md-8 text-justify">
+                    <ul style="padding-left:17px;">
+                        <li>Web based user interface for easy retrieval of documents</li>
+
+                        <li>Secured access to content ensuring document confidentiality and integrity of records</li>
+
+                        <li>Geographic Information Systems (GIS) for linking, storing and retrieval of documents with the help of third party integrations</li>
+
+                        <li>Comprehensive reports on transacted documents</li>
+
+                        <li>Secure archival based on internal policies and regulations</li>
+
+                    </ul>
+                </div>
+                
+            </div>
+            
+        </div>
+        </section>
+        <section class="pt-5 pb-5">
+        <div class="container">
+                
+            <div class="row">
+                
+                <div class="col-md-12">
+                    <h1 style="text-align:left !important; margin-bottom:20px;">Workflow</h1>
+                </div>
+                
+                <div class="col-md-6 text-justify">
+                    <ul style="padding-left:17px;">
+                        <li>Collaborate and verify documents collected from multiple data sources</li>
+
+                        <li>Automate linear workflows such as Maker Checker and Approval/ Rejection</li>
+
+                        <li>Maintain a central library for all the business process related documents</li>
+
+                        <li>Design and deploy document processes with inbuilt work steps such as upload, verify, approve, and reject</li>
+
+                        <li>Upload documents with easy drag and drop feature</li>
+
+                    </ul>
+                </div>
+                
+                <div class="col-md-6">
+                    <img src="assets/images/Iot-key-factors-img-03.jpg" alt="" class="img-fluid img-border" />
+                </div>
+                
+            </div>    
+            
+        </div>
+        </section>
+        
+        <section class="doc-keyfactors">
+        <div class="container">
+            
+            <div class="row">
+                
+                <div class="col-md-12">
+                <h1 style="text-align:left !important; margin-bottom:20px;">Digital Asset Management</h1>
+                </div>
+                
+                <div class="col-md-4">
+                    <img src="assets/images/Iot-key-factors-img-04.png" alt="" class="img-fluid img-border" />
+                </div>
+                
+                <div class="col-md-8 text-justify">
+                    <ul style="padding-left:17px;">
+                        <li>Track, manage and share digital assets online</li>
+
+                        <li>Store images, videos, audios, documents, HTML, CSS, XML and other digital assets</li>
+
+                        <li>Compress and transform content while improving quality</li>
+
+                        <li>Instantly search through numerous digital assets</li>
+
+                        <li>Facilitate online streaming through integrated streaming engines</li>
+
+
+                    </ul>
+                </div>
+                
+               
+                
+            </div>
+            
+        </div>
+        </section>
+        
+        <section class="pt-5 pb-5">
+        <div class="container">
+                
+            <div class="row">
+                
+                <div class="col-md-12">
+                    <h1 style="text-align:left !important; margin-bottom:20px;">Easy Access On Mobile</h1>
+                </div>
+                
+                <div class="col-md-6 text-justify">
+                    <ul style="padding-left:17px;">
+                        <li>Easy Information Access Bridge the gap between business operations and workforce.</li>
+
+                        <li>Enable easy access to documents amid information users</li>
+
+                        <li>Add documents via mobile application and upload them into central repository</li>
+
+                        <li>Search documents and search criterion stored in the repository</li>
+
+                        <li>Create and access folders in the repository through your mobile</li>
+
+                        <li>Capture, archive and retrieve all types of document formats, coming from various sources</li>
+                    </ul>
+                </div>
+                
+                <div class="col-md-6">
+                    <img src="assets/images/Iot-key-factors-img-05.png" alt="" class="img-fluid img-border" />
+                </div>
+                
+            </div>    
+            
+        </div>
+        </section>
+        
+<section class="doc-keyfactors">
+        <div class="container">
+            
+            <div class="row">
+                
+                <div class="col-md-12">
+                <h1 style="text-align:left !important; margin-bottom:20px;">Audit Trial History</h1>
+                </div>
+                
+                <div class="col-md-4">
+                    <img src="assets/images/Iot-key-factors-img-02.jpg" alt="" class="img-fluid img-border" />
+                </div>
+                
+                <div class="col-md-8 text-justify">
+                    <ul style="padding-left:17px;">
+                        <li>Full audit trail setting allows logging of every activity happening on a file or folder</li>
+
+                        <li>Administrators and managers can query audit logs using various time, user and location criteria</li>
+
+                        <li>Helps identify steps within task process that are unnecessary, so that you can improve workflow and efficiency of your organization</li>
+
+                        <li>Reduces chances of manipulation of records and thwarts security breaches</li>
+
+                    </ul>
+                </div>
+                
+            </div>
+            
+        </div>
+        </section>
                
         
         <?php include('footer.php'); ?>
