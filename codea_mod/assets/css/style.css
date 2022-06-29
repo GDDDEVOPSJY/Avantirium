@@ -658,6 +658,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .doc-over h1{font-size: 45px;}
 .doc-main h1{font-size: 45px;}
 .doc-main p{font-size: 16px;}
+.doc-keyfactors { background:#f0f0f0; padding:50px 0px;}
+.doc-keyfactors h1 { display:block !important; width:100%;  text-align:center !important;}
+#doc-keyfactor ul li { margin-bottom:15px; }
+
 
 
 

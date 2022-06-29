@@ -114,15 +114,6 @@
 </section>
 
 
-
-
-
-
-
-
-
-
-
 <section class="doc-keyfactors">
         <div class="container">
             
@@ -172,16 +163,6 @@
         </div>
         </section>
         
-
-
-
-
-
-
-
-
-
-
                
         
         <?php include('footer.php'); ?>
