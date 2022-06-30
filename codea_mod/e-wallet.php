@@ -5,9 +5,9 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Document Management System</title>
+        <title>E-Wallet</title>
 
-<meta name="description" content="Codea Port Management Information System">
+<meta name="description" content="Codea E-wallet">
         <link rel="shortcut icon" href="assets/images/codea-icon.png" type="ima">
         
         <!-- CSS -->
