@@ -1,0 +1,25 @@
+html {
+    scroll-behavior: smooth !important;
+}
+:root {
+    --primary-color: yellow;
+    --secondary-color: black;
+    --tertiary-color: grey;
+}
+header .logo > img {
+    width: 100%;
+    overflow: hidden;
+    height: auto;
+}
+.bg-primary {
+    background-color: var(--primary-color) !important;
+}
+.bg-secondary {
+    background-color: var(--secondary-color) !important;
+}
+.bg-tertiary {
+    background-color: var(--tertiary-color) !important;
+}
+.bg-main {
+    background-color: lightgray;
+}
