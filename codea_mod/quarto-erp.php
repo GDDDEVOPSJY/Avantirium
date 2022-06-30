@@ -175,27 +175,153 @@
         </div>
     </section>
 
-    <section class="mb-5" id="Purchase">
+    <section class="mb-5" id="PURCHASE">
         <div class="container">
             <h1 class="pb-3 mb-2 text-center">PURCHASE</h1>
             <div class="row">
+                <!-- <div class="image col-4">
+                    <img src="assets/images/" class="col-12 p-0">
+                </div> -->
+                
                 <div class="col-4">
-                    <ul type=circle>
-                        <li></li>
-                    </ul>
-                </div>
-                <div class="col-4">
-                    <ul type=circle>
-                        <li></li>
-                    </ul>
-                </div>
-                <div class="col-4">
-                    <i>Setup Peripherals (Optional)</i>
+                    <i>VENDOR PROFILE</i>
                     <ul type=disc>
-                        <li></li>
+                        <li>Vendor/Supplier Master</li>
+                        <li>Credit Period/Limit</li>
+                        <li>Delivery Duration</li>
+                        <li>List Of Item Supplies</li>
+                        <li> Pricing/Product Margin/Offers Documentation</li>
                     </ul>
                 </div>
+
+                <div class="col-4">
+                    <i>PURCHASE ORDER GENERATION</i>
+                    <ul type=disc>
+                        <li>Purchase Indent</li>
+                        <li>Based On Reorder Level/Against Production Requisition</li>
+                        <li>Pending/Undelivered Order Report</li>
+                        <li>Order Cancellation</li>
+                      
+                    </ul>
+                </div>
+
+
+                <div class="col-4">
+                    <i>GOODS RECEIPT</i>
+                    <ul type=disc>
+                        <li>GR against Purchase Order</li>
+                        <li>Inward Item Validation/Confirmation</li>
+                        <li>Quality Check/Approval/Rejection</li>
+                        <li>Landing Cost Calculation</li>
+                        <li>Pricing For Inventory</li>
+                        <li>Barcode Label Printing</li>
+                        <li>Stock Allocation to warehouse</li>
+                        <li>Batch Number Generation</li>
+                        <li>GRN Control Account</li>
+                    
+                    </ul>
+                </div>
+
+                <div class="col-4">
+                    <i>PURCHASE ACCOUNTS ENTRY</i>
+                    <ul type=disc>
+                        <li>GST Accounting</li>
+                        <li>GRN Control Reverse Entry</li>
+                        <li>Accounting Other Charges</li>
+                        
+                    </ul>
+                </div>
+
+                <div class="col-4">
+                    <i>SUPPLIER PAYMENT/OUTSTANDING</i>
+                    <ul type=disc>
+                        <li>Bill To Bill Settlement</li>
+                        <li>Payable Age wise</li>
+                       
+                    </ul>
+                </div>
+
+                <div class="col-4">
+                    <i>PURCHASE RETURN/DEBIT NOTE</i>
+                    <ul type=disc>
+                        <li>Return against Purchase/GR Note</li>
+                        <li>Accounting & Inventory update</li>
+                       
+                    </ul>
+                </div>
+
+                <div class="col-4">
+                    <i>REGISTERS</i>
+                    <ul type=disc>
+                        <li>Purchase Item/Supplier/Brand/Tax wise</li>
+                        <li>Purchase – GST Registers</li>
+                        <li>Purchase Summary Reports</li>
+                        <li>Purchase Order – Item/Supplier/Group Wise</li>
+                        <li>Pending Order – Item/Supplier/Brand Wise</li>
+                        <li>GRN – Item/Supplier/Group wise</li>
+                        <li>Purchase Return Registers - Item/Supplier/Brand/Tax wise</li>
+                        <li>Provision for report creation</li>
+                        <li>Purchase Analysis Reports</li>
+                    
+                    </ul>
+                </div>
+
             </div>
+        </div>
+    </section>
+
+    <section class="mb-5" id="PRODUCTION">
+        <div class="container">
+            <h1 class="pb-3 mb-2 text-center">PRODUCTION</h1>
+            <div class="row">
+                <!-- <div class="image col-4">
+                    <img src="assets/images/" class="col-12 p-0">
+                </div> -->
+                
+                <div class="col-4">
+                    <ul type=circle>
+                        <li>ORDER MANAGEMENT(Customer/Branch/Stores)</li>
+                        <li>RAW MATERIAL/PACKING MATERIAL ACCRUAL</li>
+                        <li>MACHINE MASTER</li>
+                        <li>OVERHEAD ACCOUNTS</li>
+                        <li>BILL OF MATERIAL FOR FINISHED GOODS</li>
+                        <li>PRODUCTION ORDER</li>
+                        <li>PRODUCTION BATCH CREATION, PROCESS TIME SCHEDULE</li>
+                       
+                    </ul>
+                </div>
+
+                <div class="col-4">
+                    <i>○ REPORTS</i>
+                    <ul type=disc>
+                        <li>Raw material Register</li>
+                        <li>Production Order Register</li>
+                        <li>Material Request/Issue Register</li>
+                        <li>Production And Process Register</li>
+                        <li> QC Register</li>
+                        <li>Packing Register</li>
+                        <li>Transfer Register</li>
+                        <li>Work in Progress</li>
+                        <li>Production Variance Register</li>
+                        <li>Consumption Register</li>
+                        <li>Wastage Report</li>
+                    </ul>
+
+
+                </div>
+
+                <div class="col-4">
+                    <i>○ Register/Report General Options</i>
+                    <ul type=disc>
+                        <li>Register Create/Modify and column ordering</li>
+                        <li>Report Filter option</li>
+                        <li>Report for any given period</li>
+                        <li>Set options for Default Report</li>
+                        <li>Email/SMS/Export to Excel/PDF</li>
+                        
+
+
+                </div>
         </div>
     </section>
 
