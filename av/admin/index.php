@@ -10,75 +10,11 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
-  <div class="sidebar">
-    <div class="logo-details">
-      <i class=' p-0 m-0'></i>
-      <span class="logo_name text-small">Admin</span>
-    </div>
-      <ul class="nav-links">
-        <li>
-          <a href="#" class="active">
-            <i class='bx bx-grid-alt' ></i>
-            <span class="links_name">Dashboard</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <i class='bx bx-box' ></i>
-            <span class="links_name">Tickets</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <i class='bx bx-list-ul' ></i>
-            <span class="links_name">Shops</span>
-          </a>
-        </li>
-        <li>
-          <a href="#">
-            <i class='bx bx-pie-chart-alt-2' ></i>
-            <span class="links_name">Exhibitions</span>
-          </a>
-        </li>
-        
-        
-        <li>
-          <a href="#">
-            <i class='bx bx-user' ></i>
-            <span class="links_name">Users</span>
-          </a>
-        </li>
-        
-        <li>
-          <a href="#">
-            <i class='bx bx-cog' ></i>
-            <span class="links_name">Settings</span>
-          </a>
-        </li>
-        <li class="log_out">
-          <a href="#">
-            <i class='bx bx-log-out'></i>
-            <span class="links_name">Log out</span>
-          </a>
-        </li>
-      </ul>
-  </div>
+  
+<?php include("side-bar.php"); ?>
+
   <section class="home-section">
-    <nav>
-      <div class="sidebar-button">
-        <i class='bx bx-menu sidebarBtn'></i>
-        <span class="dashboard">Dashboard</span>
-      </div>
-      <div class="search-box">
-        <input type="text" placeholder="Search...">
-        <i class='bx bx-search' ></i>
-      </div>
-      <div class="profile-details">
-        <!--<img src="images/profile.jpg" alt="">-->
-        <span class="admin_name">Prem Shahi</span>
-       
-      </div>
-    </nav>
+    <?php include("nav-header.php"); ?>
 
     <div class="home-content">
       <div class="overview-boxes">
@@ -92,7 +28,7 @@
         </div>
         <div class="box">
           <div class="right-side">
-            <div class="box-topic">Shop Owners</div>
+            <div class="box-topic">Users</div>
             <div class="number">38,876</div>
            
           </div>
@@ -106,52 +42,14 @@
           </div>
           <i class='bx bx-cart cart three' ></i>
         </div>
-        <div class="box">
-          <div class="right-side">
-            <div class="box-topic">Users</div>
-            <div class="number">11,086</div>
-            
-          </div>
-          <i class='bx bxs-cart-download cart four' ></i>
-        </div>
-      </div>
-
-
-      <nav>
-      
-    </nav>
-
-      
-      <div class="home-content">
-      <div class="overview-boxes justify-content-left">
-        <div class="box button">
-          <div class="right-side">
-            <div class="box-topic">@</div>
-            <div class="number">!</div>
-            
-          </div>
-          <i class='bx bx-cart-alt cart'></i>
-        </div>
-        <div class="box button">
-          <div class="right-side">
-            <div class="box-topic">@</div>
-            <div class="number">!</div>
-           
-          </div>
-          <i class='bx bxs-cart-add cart two' ></i>
-        </div>
-        <div class="box button">
-          <div class="right-side">
-            <div class="box-topic">@</div>
-            <div class="number">!</div>
-            
-          </div>
-          <i class='bx bx-cart cart three' ></i>
-        </div>
         
-
-
       </div>
+
+
+      
+
+      
+      
     </div>
   </section>
 
