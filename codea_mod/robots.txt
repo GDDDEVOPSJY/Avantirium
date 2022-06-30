@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.codeatechnologies.com/sitemap.xml
+Disallow: /job-details.php?id=16
+Disallow: /job-details.php?id=6
+Disallow: /job-details.php?id=3
+Disallow: /event-details-03.php/
+Disallow: /event-details-02.php/
+Disallow: /event-details-01.php/
+Disallow: /assets/pdf/IoT-architecture.pdf/
+Disallow: /case-study-mobile-operations.php/
+Disallow: /case-study-hygreen.php/
+Disallow: /case-study-logistics-enterprise.php/
+Disallow: /case-study-ai.php/
+Disallow: /case-studies.php/
+Disallow: /news.php/  
+Disallow: /certified-consultants-form.php/  
+Disallow: /development-partners-form.php
+Disallow: /business-partners-form.php  
+Disallow: /strategic-partners-form.php 
+Disallow: /assets/pdf/Codea-FR8-Brochure.pdf
+Disallow: /natural-language-processing.php
+Disallow: /case-study-hospitality-industry.php
+Disallow: /case-study-travel-solutions.php
+ 

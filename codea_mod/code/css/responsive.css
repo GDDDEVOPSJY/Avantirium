@@ -1,0 +1,1125 @@
+@media (min-width:1600px) {
+
+}
+
+
+
+@media (min-width:1200px) {
+
+/*MIDBAR START*/
+
+.midbar-slider .slide-image-sec .resp-image img { display:none !important; }
+
+.midbar { height:504px; }
+
+/*MIDBAR END*/
+
+
+
+/*OUR FLEET START*/
+
+.prod-list-wrapper .prod-list-box {
+
+	float:left;
+
+	width:32%;
+
+	margin-left:2%;
+
+	margin-top:25px;
+
+}
+
+.prod-list-wrapper .prod-list-box:first-child { margin-left:0; }
+
+.prod-list-wrapper .prod-list-box:nth-child(3n+1) { clear:left; margin-left:0; }
+
+.prod-list-wrapper .prod-list-box:nth-child(1),
+
+.prod-list-wrapper .prod-list-box:nth-child(2),
+
+.prod-list-wrapper .prod-list-box:nth-child(3) { margin-top:0; }
+
+
+
+.prod-list-wrapper-typ1 .prod-list-box {
+
+	float:left;
+
+	width:23.5%;
+
+	margin-left:2%;
+
+	margin-top:25px;
+
+}
+
+.prod-list-wrapper-typ1 .prod-list-box:first-child { margin-left:0; }
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(4n+1) { clear:left; margin-left:0; }
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(1),
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(2),
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(3),
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(4) { margin-top:0; }
+
+/*OUR FLEET END*/
+
+}
+
+
+
+
+
+@media (min-width:980px) {
+.topbar-left { padding-top:20px; }
+/*MIDBAR START*/
+
+.midbar-slider { position:relative; }
+
+.caption-box-wrap {
+
+	position:absolute;
+
+	left:0;
+
+	width:100%;
+
+	top:30px;
+
+
+
+}
+
+.midbar-slider .owl-carousel .owl-item.active .caption-box-wrap { top:30px; }
+
+.caption-box-wrap .caption-box {
+
+	max-width:613px;
+
+	text-align:right;
+
+	background:rgba(255,255,255, 0.6);
+
+	padding:15px;
+
+	transition: all 2s ease 0s;
+
+	-webkit-transition: all 2s ease 0s;
+
+	opacity:0;
+
+	transform:scale(0.3);
+
+	-webkit-transform:scale(0.3);
+
+}
+
+.midbar-slider .owl-carousel .owl-item.active .caption-box-wrap .caption-box  {
+
+ 	opacity:1;
+
+	transform:scale(1);
+
+	-webkit-transform:scale(1);
+
+}
+
+.mid-cap-btm { max-width:297px; margin-left:auto; }
+
+.mid-cap-btm .price-info-sec { text-align:left; }
+
+.row_booking {
+
+	margin-left:-4px !important;
+
+	margin-right:-4px !important;
+
+	}
+
+.row_booking .col-sm-5,
+
+.row_booking .col-sm-7 {
+
+	padding-left:4px !important;
+
+	padding-right:4px !important;
+
+	float: left;
+
+	}
+
+.row_booking .col-sm-5 { width: 41.66666667% !important; }
+
+.row_booking .col-sm-7 { width: 58.33333333% !important; }
+
+.container.mid-form-container { margin-top:-504px; }
+
+.hd_booking .arrow-right { display:none; }
+
+/*MIDBAR END*/
+
+
+
+/*INNER PAGES START*/
+
+.inner-banner .resp-image { display:none; }
+
+
+/*Aboutus - our team section start*/
+.team-box-wrapper .team-box {
+	width:18%; float:left;
+	margin-left:2.5%;
+	margin-top:40px;
+}
+.team-box-wrapper .team-box:first-child {
+	margin-left:0;
+}
+.team-box-wrapper .team-box:nth-child(5n+1) {
+	clear:left; margin-left:0;
+}
+.team-box-wrapper .team-box:nth-child(1),
+.team-box-wrapper .team-box:nth-child(2),
+.team-box-wrapper .team-box:nth-child(3),
+.team-box-wrapper .team-box:nth-child(4),
+.team-box-wrapper .team-box:nth-child(5) { margin-top:0; }
+/*Aboutus - our team section start*/
+
+
+/*INNER PAGES END*/
+
+}
+
+
+
+@media (min-width:768px) {
+
+/*OFFERS START*/
+
+.offer-bx-wrapper .offer-bx {
+
+	float:left;
+
+	width:33.33%;
+
+}
+
+.offer-bx-wrapper .offer-bx:nth-child(3n+1) { clear:left; }
+
+/*OFFERS END*/
+
+}
+
+
+
+@media (max-width:1366px) {
+
+}
+
+
+
+@media (max-width:1199px) {
+
+/*MIDBAR START*/
+
+.midbar-slider .slide-image-sec { background:none !important; height:auto !important; }
+
+/*MIDBAR END*/
+
+
+
+/*SERVICES STRAT*/
+
+.content-hover-box {
+
+	top:0;
+
+	opacity:1;
+
+	transform:none;
+
+	-webkit-transform:none;
+
+}
+
+/*SERVICES END*/
+
+
+
+}
+
+
+
+@media (min-width:980px) and (max-width:1199px) {
+
+/*TOPBAR START*/
+
+.topbar-right {
+
+    float: left;
+
+    margin-left: 5%;
+
+    width: 75%;
+
+}
+
+.upper-box .logo-sec-box .logo { display:inline-block; width:150px; }
+
+/*TOPBAR END*/
+
+
+
+/*MIDBAR START*/
+
+.booking_form {
+
+	float:none;
+
+	position:inherit;
+
+	right:inherit;
+
+	top:inherit;
+
+	width:100%;
+
+}
+
+.container.mid-form-container { margin-top:0; }
+
+.midbar-slider .title2 { margin-bottom:20px; font-size:13px; line-height:20px; }
+
+.price-info-sec .text-typ1 { font-size:30px; line-height:35px; }
+
+/*MIDBAR END*/
+
+/* HOME CONTENT START*/
+.fb-connect-bx iframe { width:100%; }
+/* HOME CONTENT END*/
+
+/*FOOTER START*/
+
+.corporatebtn span {
+
+	font-size:12px;
+
+	white-space:inherit;
+
+}
+
+.socialmedia .social-icon { margin-left:20px; }
+
+.footer_links a { display:block;  }
+
+.powerder_by a { display:inline-block; }
+
+/*FOOTER END*/
+
+
+
+/*ABOUT US START*/
+
+.about-top-content-bx .content { font-size:17px; }
+
+.about-list-typ ul li { font-size:17px; }
+
+/*ABOUT US END*/
+
+
+
+/*OFFERS START*/
+
+.offer-caption-bx .offer-txt { font-size:50px; line-height:56px; }
+
+.offer-caption-bx .percent-img img { width:32px; }
+
+/*OFFERS END*/
+
+
+
+/*OUR FLEET START*/
+
+.prod-list-outer .sidebar-box { width:34%; }
+
+.prod-list-outer .main-box { width:64%; }
+
+.prod-list-wrapper .prod-list-box {
+
+	float:left;
+
+	width:48%;
+
+	margin-left:4%;
+
+	margin-top:25px;
+
+}
+
+.prod-list-wrapper .prod-list-box:first-child { margin-left:0; }
+
+.prod-list-wrapper .prod-list-box:nth-child(2n+1) { clear:left; margin-left:0; }
+
+.prod-list-wrapper .prod-list-box:nth-child(1),
+
+.prod-list-wrapper .prod-list-box:nth-child(2) { margin-top:0; }
+
+
+
+.prod-list-wrapper-typ1 .prod-list-box {
+
+	float:left;
+
+	width:32%;
+
+	margin-left:2%;
+
+	margin-top:25px;
+
+}
+
+.prod-list-wrapper-typ1 .prod-list-box:first-child { margin-left:0; }
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(3n+1) { clear:left; margin-left:0; }
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(1),
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(2),
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(3) { margin-top:0; }
+
+/*OUR FLEET END*/
+
+
+
+/*PRODUCT DETAIL START*/
+
+.prod-detail-info .title-box .left-title,
+
+.prod-detail-info .title-box .right-title {
+
+	float:none;
+
+	width:100%; text-align:center;
+
+}
+
+.prod-detail-btn-box .btn-box { padding:10px; font-size:11px; }
+
+.prod-detail-info .prod-icon-text-row { margin-bottom:30px; }
+
+/*PRODUCT DETAIL END*/
+
+/*Aboutus - our team section start*/
+.team-box-wrapper .team-box {
+	width:22.5%; float:left;
+	margin-left:2.5%;
+	margin-top:40px;
+}
+.team-box-wrapper .team-box:first-child {
+	margin-left:0;
+}
+.team-box-wrapper .team-box:nth-child(4n+1) {
+	clear:left; margin-left:0 !important; margin-top:40px;
+}
+.team-box-wrapper .team-box:nth-child(5n+1) {
+	clear: inherit; margin-left: 2.5%;
+}
+.team-box-wrapper .team-box:nth-child(1),
+.team-box-wrapper .team-box:nth-child(2),
+.team-box-wrapper .team-box:nth-child(3),
+.team-box-wrapper .team-box:nth-child(4) { margin-top:0; }
+/*Aboutus - our team section start*/
+
+}
+
+
+
+@media (max-width:979px) {
+
+/*TOPBAR START*/
+
+.topbar-left {
+
+	float:none;
+
+	width:100%;
+
+	border-bottom:1px solid #e0e0e0;
+
+	padding-bottom:10px; margin-bottom:10px;
+
+}
+
+.main-logo img { width:150px; }
+
+.topbar-right {
+
+	float:none;
+
+	width:100%; margin-left:0;
+
+}
+
+.topbar-right .upper-box .logo-sec-box { float:none; text-align:center; margin-bottom:15px; }
+
+.topbar-right .upper-box .call-sec-box { max-width:246px; margin:auto; float:none; }
+
+.topbar-right .upper-box .call-sec-box .num-box { font-size:10px; }
+
+.topbar-right .upper-box .call-sec-box .text-sec { font-size:10px; }
+
+.topbar-right .upper-box .call-sec-box .text-sec:after { top:4px; }
+
+.logo-sec-box .logo img { width:130px; }
+
+.topbar-right .upper-box .logo-sec-box .logo { margin-left:10px; }
+
+.top-search-box-wrap { top:12px; right:70px; bottom:inherit; }
+
+/*TOPBAR END*/
+
+
+
+/*MIDBAR START*/
+
+.caption-box-wrap { padding:20px 0; }
+
+.booking_form {
+
+	position:inherit;
+
+	width:100%;
+
+	right:inherit; top:inherit;
+
+}
+
+.midbar-slider .owl-carousel .owl-dots { display:none; }
+
+.midbar-slider .title1 { font-size:20px; line-height:24px; }
+
+.midbar-slider .title2 { font-size:12px; line-height:18px; margin-bottom:20px; }
+
+.price-info-sec .text-typ1 { font-size:24px; line-height:30px; }
+
+.icon-row-wrap .icon-row .icon-col .text { font-size:10px; }
+
+.hd_booking { font-size:20px; padding:10px; }
+
+.midbar-slider .owl-carousel .owl-nav .owl-prev,
+
+.midbar-slider .owl-carousel .owl-nav .owl-next { top:20%; }
+
+.hme-tetimonial-outer { height:auto !important; }
+
+.booking_form .step { display:none; }
+
+.booking_form .form { padding:20px; border:1px solid #e0e0e0; display:none; }
+
+.booking_form { padding-bottom:25px; }
+
+.hd_booking {
+
+	position:relative;
+
+	cursor:pointer;
+
+}
+
+.hd_booking .arrow-right {
+
+    background: rgba(0, 0, 0, 0) url("../images/arrow-drop-down.png") no-repeat scroll 0 0;
+
+    display: inline-block;
+
+    height: 12px;
+
+    position: absolute;
+
+    right: 15px;
+
+    top: 18px;
+
+    width: 24px;
+
+}
+
+.hd_booking.up .arrow-right {
+
+    background-position: 0 -38px;
+
+}
+
+/*MIDBAR END*/
+
+
+
+/*HOME CONTENT SECTION*/
+
+.fb-connect-bx { padding-top:10px; text-align:center; }
+
+/*HOME CONTENT SECTION END*/
+
+
+
+/*INNER PAGES START*/
+
+.inner-banner {
+
+	background:none !important;
+
+	height:auto !important;
+
+}
+
+/*Contact Us*/
+.contact-top-box .row .col-md-4 { margin-top:30px; }
+.contact-top-box .row .col-md-4:first-child { margin-top:0; }
+
+/*INNER PAGES END*/
+
+
+
+}
+
+
+
+@media (min-width:768px) and (max-width:979px) {
+
+/*FOOTER START*/
+
+.grid_last { padding-left:40px; }
+
+.socialmedia .social-icon { margin-left:10px; }
+
+.corporatebtn span { white-space:inherit; font-size:10px; }
+
+.corporatebtn span:before { top:4px; }
+
+/*FOOTER END*/
+
+
+
+/*ABOUT US START*/
+
+.about-top-content-bx .content { font-size:17px; }
+
+.about-list-typ ul li { font-size:17px; }
+
+/*ABOUT US END*/
+
+
+
+/*SERVICES STRAT*/
+
+.our-services-wrapper .our-services-bx {
+
+	width:48%;
+
+	margin-left:4%;
+
+	margin-top:30px;
+
+}
+
+.our-services-wrapper .our-services-bx:nth-child(2n+1) {
+
+	margin-left:0; clear:left;
+
+}
+
+.our-services-wrapper .our-services-bx:nth-child(1),
+
+.our-services-wrapper .our-services-bx:nth-child(2) { margin-top:0; }
+
+/*SERVICES END*/
+
+
+
+/*CONTACTUS START*/
+
+.contact-top-content { font-size:17px; line-height:24px; }
+
+.contact-address-wrap .contact-address-bx .add-bx { font-size:17px; line-height:24px; }
+
+/*CONTACTUS END*/
+
+
+
+/*OFFERS START*/
+
+.offer-caption-bx .offer-txt { font-size:50px; line-height:56px; }
+
+.offer-caption-bx .percent-img img { width:32px; }
+
+/*OFFERS END*/
+
+
+
+/*OUR FLEET START*/
+
+.prod-list-outer .sidebar-box { width:45%; }
+
+.prod-list-outer .main-box { width:53%; }
+
+.prod-list-wrapper .prod-list-box {
+
+	float:none;
+
+	width:100%;
+
+	margin-left:0;
+
+	margin-top:25px;
+
+}
+
+.prod-list-wrapper .prod-list-box:first-child { margin-top:0; }
+
+.sidebar-box .textbox-typ3 { font-size:15px; }
+
+
+
+.prod-list-wrapper-typ1 .prod-list-box {
+
+	float:left;
+
+	width:48%;
+
+	margin-left:4%;
+
+	margin-top:25px;
+
+}
+
+.prod-list-wrapper-typ1 .prod-list-box:first-child { margin-left:0; }
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(2n+1) { clear:left; margin-left:0; }
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(1),
+
+.prod-list-wrapper-typ1 .prod-list-box:nth-child(2) { margin-top:0; }
+
+/*OUR FLEET END*/
+
+
+
+/*PRODUCT DETAIL START*/
+
+.thumbcarousel ul.slides li { width:130px !important; }
+
+.product-detail-pg .prod-icon-text-col .text { font-size:10px; }
+
+.more-vehicle-bx .image-wrap { padding-top:60px; }
+
+.booknow-btn-box .booknow-btn { font-size:14px; }
+
+/*PRODUCT DETAIL END*/
+
+/*Aboutus - our team section start*/
+.team-box-wrapper .team-box {
+	width:31%; float:left;
+	margin-left:3.5%;
+	margin-top:40px;
+}
+.team-box-wrapper .team-box:first-child {
+	margin-left:0;
+}
+
+.team-box-wrapper .team-box:nth-child(3n+1) {
+	clear: left; margin-left:0;
+}
+.team-box-wrapper .team-box:nth-child(1),
+.team-box-wrapper .team-box:nth-child(2),
+.team-box-wrapper .team-box:nth-child(3) { margin-top:0; }
+/*Aboutus - our team section start*/
+
+}
+
+
+
+@media (max-width:767px) {
+
+/*MIDBAR START*/
+
+.midbar-slider .owl-carousel .owl-nav .owl-prev {
+
+	width:14px; height:25px;
+
+	background:url(../images/group-images.png) no-repeat;
+
+	background-position:-124px 0;
+
+	position:absolute;
+
+	left:20px;
+
+	top:20%; font-size:0; text-indent:-999px;
+
+	z-index:999;
+
+}
+
+.midbar-slider .owl-carousel .owl-nav .owl-next {
+
+	width:14px; height:25px;
+
+	background:url(../images/group-images.png) no-repeat;
+
+	background-position:-156px 0;
+
+	position:absolute;
+
+	right:20px;
+
+	top:20%;
+
+	font-size:0; text-indent:-999px;
+
+	z-index:999;
+
+}
+
+/*MIDBAR END*/
+
+
+
+/*HOME CONTENT*/
+
+.testmnl-slide-box .content {
+
+	font-size:14px; line-height:24px;
+
+}
+
+.welcome-content { font-size:14px; }
+
+.testmnl-slide-box .content:after { bottom:-14px; }
+
+/*HOME CONTENT END*/
+
+
+
+/*FOOTER START*/
+.footer_bg { padding-bottom:60px; }
+.chatbox_wrapper { margin:auto; }
+
+.chatbox_wrapper .hd { text-align:center; }
+
+.footer_links a { display:block; }
+
+.powerder_by a { display:inline-block; }
+
+/*FOOTER END*/
+
+
+
+.inner-main { padding:30px 0; }
+
+.page-path-box .pagepath-lnk,
+
+.page-path-box .page-name { font-size:14px; }
+h1.page-title { font-size:20px; line-height:24px; padding:5px 30px 8px; }
+
+/*ABOUT US START*/
+
+.about-top-content-bx,
+
+.about-bottom-box { padding:30px 0; }
+
+.about-top-content-bx .content { font-size:14px; line-height:24px; }
+
+.about-list-typ ul li { font-size:14px; }
+
+.about-list-typ ul li { margin-top:0; }
+
+.about-icon-row .about-icon-col .number { font-size:20px; line-height:24px; }
+
+.about-icon-row .about-icon-col .text { font-size:14px; line-height:18px; }
+
+/*ABOUT US END*/
+
+
+
+/*CONTACTUS START*/
+
+.contact-top-content { font-size:14px; line-height:24px; }
+
+.contact-address-wrap .contact-address-bx .add-bx { font-size:14px; line-height:24px; }
+
+.contact-send-btn .send-btn { font-size:14px; }
+
+.contact-map-box iframe { height:250px !important; }
+
+/*CONTACTUS END*/
+
+
+
+/*OFFERS START*/
+
+.offer-title-wrap .offer-title { font-size:24px; line-height:28px; }
+
+/*OFFERS END*/
+
+
+
+/*OUR FLEET START*/
+
+.prod-list-outer .sidebar-box { width:100%; float:none; margin-bottom:30px; }
+
+.prod-list-outer .main-box { width:100%; float:none; }
+
+.prod-list-wrapper .prod-list-box,
+
+.prod-list-wrapper-typ1 .prod-list-box {
+
+	float:none;
+
+	width:100%;
+
+	margin-left:0;
+
+	margin-top:25px;
+
+}
+
+.prod-list-wrapper .prod-list-box:first-child,
+
+.prod-list-wrapper-typ1 .prod-list-box:first-child { margin-top:0; }
+
+.sidebar-box .textbox-typ3 { font-size:15px; }
+
+/*OUR FLEET END*/
+
+
+
+/*PRODUCT DETAIL START*/
+
+.prod-detail-info .title-box .left-title {
+
+	float:none;
+
+	width:100%;
+
+	text-align:center;
+
+	font-size:24px;
+
+}
+
+.prod-detail-info .title-box .right-title { float:none; width:100%; text-align:center; }
+
+.prod-detail-info .title-box .right-title .text-typ1 { font-size:18px; }
+
+.prod-detail-info .title-box .right-title .text-typ2 { font-size:14px; line-height:20px; }
+
+.prod-detail-info .title-box { margin-bottom:20px; }
+
+.prod-detail-info .prod-icon-text-row { margin-bottom:30px; }
+
+.more-vehicle-wrapper .more-vehicle-bx { text-align:center; }
+.product-detail-pg .bottom-btn-box a.btn-typ1 { display:block; margin-top:15px; width:100%; margin-left:0; }
+
+/*PRODUCT DETAIL END*/
+
+
+
+/*FLEET DETAIL START*/
+
+.process-tab-list ul li { font-size:14px; }
+
+.process-tab-container .table-box {
+
+    overflow-x: auto;
+
+}
+
+/*FLEET DETAIL END*/
+
+
+
+}
+
+
+
+@media (min-width:600px) and (max-width:767px) {
+
+/*SERVICES STRAT*/
+
+.our-services-wrapper .our-services-bx {
+
+	width:48%;
+
+	margin-left:4%;
+
+	margin-top:30px;
+
+}
+
+.our-services-wrapper .our-services-bx:nth-child(2n+1) {
+
+	margin-left:0; clear:left;
+
+}
+
+.our-services-wrapper .our-services-bx:nth-child(1),
+
+.our-services-wrapper .our-services-bx:nth-child(2) { margin-top:0; }
+
+/*SERVICES END*/
+
+
+
+/*OFFERS START*/
+
+.offer-caption-bx .offer-txt { font-size:50px; line-height:56px; }
+
+.offer-caption-bx .percent-img img { width:32px; }
+
+.offer-bx-wrapper .offer-bx { width:50%; float:left; }
+
+.offer-bx-wrapper .offer-bx:nth-child(2n+1) { clear:left; }
+
+/*OFFERS END*/
+
+/*Aboutus - our team section start*/
+.team-box-wrapper .team-box {
+	width:45%; float:left;
+	margin-left:10%;
+	margin-top:40px;
+}
+.team-box-wrapper .team-box:first-child {
+	margin-left:0;
+}
+
+.team-box-wrapper .team-box:nth-child(2n+1) {
+	clear: left; margin-left:0;
+}
+.team-box-wrapper .team-box:nth-child(1),
+.team-box-wrapper .team-box:nth-child(2) { margin-top:0; }
+/*Aboutus - our team section start*/
+
+
+
+}
+
+
+
+@media (min-width:480px) and (max-width:767px) {
+
+
+
+}
+
+
+
+@media (max-width:599px) {
+
+/*SERVICES STRAT*/
+
+.our-services-wrapper .our-services-bx {
+
+	width:100%;
+
+	margin-left:0;
+
+	margin-top:30px;
+
+	float:none;
+
+}
+
+.our-services-wrapper .our-services-bx:nth-child(1) { margin-top:0; }
+
+/*SERVICES END*/
+
+
+
+/*OFFERS START*/
+
+.offer-caption-bx .offer-txt { font-size:40px; line-height:46px; }
+
+.offer-caption-bx .percent-img img { width:25px; }
+
+.offer-bx-wrapper .offer-bx { width:100%; float:none; margin-top:15px; }
+
+.offer-bx-wrapper .offer-bx:first-child { margin-top:0; }
+
+.offer-caption-bx .veh-name { font-size:14px; }
+
+/*OFFERS END*/
+
+
+
+/*PRODUCT DETAIL START*/
+
+.prod-detail-btn-box .btn-box { display:block; margin-left:0; width:100%; margin-top:20px; padding:10px; }
+
+.prod-detail-btn-box .btn-box:first-child { margin-top:0; }
+
+/*PRODUCT DETAIL END*/
+
+/*Aboutus - our team section start*/
+.team-box-wrapper .team-box {
+	float:none;
+	margin-top:30px;
+	width:100%;
+}
+.team-box-wrapper .team-box:first-child {
+	margin-top:0;
+}
+
+/*Aboutus - our team section start*/
+
+}
+
+
+
+@media (max-width:479px) {
+
+/*TOPBAR START*/
+
+.expand-search-bx { width:225px; }
+
+/*TOPBAR END*/
+
+
+
+/*MIDBAR START*/
+
+.midbar-slider .owl-carousel .owl-nav .owl-prev {
+
+	top:10%; 
+
+}
+
+.midbar-slider .owl-carousel .owl-nav .owl-next {
+
+	top:10%; 
+
+}
+
+/*MIDBAR END*/
+
+/* HOME CONTENT START*/
+.fb-connect-bx iframe { width:100%; }
+/* HOME CONTENT END*/
+
+/*Product Detail*/
+.product-detail-pg .prod-icon-text-col .text { font-size:8px; }
+.process-tab-list ul li { font-size:11px; }
+.product-detail-pg .prod-icon-text-row .prod-icon-text-col { width:50%; text-align:center; }
+/*Product Detail end*/
+
+}
+
+
+
+@media (max-width:400px) {
+.booking_form.booking-form-expand-typ.slidein { width:250px; }
+}
+
