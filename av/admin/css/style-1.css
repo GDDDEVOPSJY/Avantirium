@@ -10,7 +10,7 @@
   position: fixed;
   height: 100%;
   width: 240px;
-  background: #1f7057bc;
+  background: #193992bc;
   transition: all 0.5s ease;
 }
 .sidebar.active{
@@ -441,7 +441,7 @@ nav .profile-details i{
 
 
 button.button {
-  background-color: #3e9679bc; /* Green */
+  background-color: #193992bc; /* Green */
   border-radius: 3px;
   color: white;
   height: 50px;
