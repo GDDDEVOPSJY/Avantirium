@@ -66,29 +66,6 @@
 
 </section>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         <section class="pt-3 pb-3" style="background:#e5e5e5;">
         <div class="container">
         	

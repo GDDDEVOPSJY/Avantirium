@@ -5,19 +5,19 @@
     </div>
     <ul class="nav-links">
         <li>
-            <a href="#" class="active">
+            <a href="index.php" class="active">
                 <i class='bx bx-grid-alt' ></i>
                 <span class="links_name">Dashboard</span>
             </a>
         </li>
         <li>
-            <a href="#">
+            <a href="tickets.php">
             <i class='bx bx-box' ></i>
             <span class="links_name">Tickets</span>
             </a>
         </li>
         <li>
-            <a href="#">
+            <a href="shop.php">
             <i class='bx bx-list-ul' ></i>
             <span class="links_name">Shops</span>
             </a>

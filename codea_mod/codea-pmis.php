@@ -184,7 +184,7 @@
                 </div>
                 
             </div>
-            
+             
         </div>
         </div>
         </section>
@@ -295,7 +295,7 @@
     </section>
 
 
-        <section class="pmis-arch text-center pt-5 pb-4">
+       [ <section class="pmis-arch text-center pt-5 pb-4">
         <div class="container">
         	
             <h1>Solution Architecture</h1>
@@ -317,7 +317,7 @@
         </div>
 
 
-</section>
+</section>]
 
 <section class="pm-more" style="margin:3% 0;">
         <div class="container">
