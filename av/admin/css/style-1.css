@@ -197,7 +197,7 @@ nav .profile-details i{
   box-shadow: 0 5px 10px rgba(0,0,0,0.1);
 }
 .overview-boxes .box-topic{
-  font-size: 25px;
+  font-size: 20px;
   font-weight: 300;
 }
 .home-content .box .number{
@@ -442,15 +442,15 @@ nav .profile-details i{
 
 button.button {
   background-color: #193992bc; /* Green */
-  border-radius: 3px;
+  border-radius: 5px;
   color: white;
-  height: 50px;
+  height: 40px;
   width: 100px;
-  padding: 15px 32px;
+ 
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size:11px;
+  font-size:16px;
 }
 
 
