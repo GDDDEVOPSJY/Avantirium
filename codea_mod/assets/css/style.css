@@ -703,6 +703,63 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 
 
+.core-banner {background: url(../images/core-banking-banner-img.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
+.core-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.core-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.safearch { background-color:#e5e5e5;}
+.safe-arch img { height:350px; margin-bottom:15px;}
+.safe-top { padding:75px 0; background-color: white;}
+.safe-top h1 { margin-bottom:15px;}
+.solution-overview .row {
+	padding-top: 10px;
+}
+.solution-overview .row:nth-child(even) {
+	background-color: #e5e5e5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
