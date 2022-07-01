@@ -445,12 +445,12 @@ button.button {
   border-radius: 3px;
   color: white;
   height: 50px;
-  width: 150px;
+  width: 100px;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size:15px;
+  font-size:11px;
 }
 
 
