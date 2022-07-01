@@ -11,13 +11,13 @@
             </a>
         </li>
         <li>
-            <a href="#">
+            <a href="tickets.php">
             <i class='bx bx-box' ></i>
             <span class="links_name">Tickets</span>
             </a>
         </li>
         <li>
-            <a href="#">
+            <a href="shop.php">
             <i class='bx bx-list-ul' ></i>
             <span class="links_name">Shops</span>
             </a>
