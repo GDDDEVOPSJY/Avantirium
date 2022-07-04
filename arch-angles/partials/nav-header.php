@@ -1,4 +1,4 @@
-<header>
+<div class="header">
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <a class="navbar-brand" href="#">
             <img src="images/logo1.png" alt="logo">
@@ -12,11 +12,17 @@
                     <a class="nav-link" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">About</a>
+                    <a class="nav-link" href="#about">About</a>
                 </li>
 
                 <li class="nav-item dropdown">
-                    <a id="nav-link-services" class="nav-link dropdown" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <script>
+                        function scroll(element) {
+                            var ele = document.getElementById(element);
+                            window.scrollTo(ele.offsetLeft, ele.offsetTop+200);
+                        }
+                    </script>
+                    <a id="nav-link-services" class="nav-link dropdown" href="#" ondblclick="scroll(`services`);" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Services
                     </a>
                     <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -26,15 +32,15 @@
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Why Us?</a>
+                    <a class="nav-link" href="#why-us">Why Us?</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Gallery</a>
+                    <a class="nav-link" href="#gallery">Gallery</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact Us</a>
+                    <a class="nav-link" href="#contact">Contact Us</a>
                 </li>
             </ul>
         </div>
     </nav>
-</header>
+</div>
