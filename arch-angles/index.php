@@ -15,29 +15,6 @@
             }
         </style>
         <section id="home">
-            <div class="container slide">
-                <div class="slide-title">
-                    
-                </div>
-                <div class="slide-subtext">
-
-                </div>
-            </div>
-        </section>
-
-        <section id="about">
-
-        </section>
-
-        <section id="services">
-
-        </section>
-
-        <section id="why-us">
-
-        </section>
-
-        <section id="gallery">
             <div class="container" style="padding-top: 80px; z-index: 2; width: 100% !important;">
                 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -70,6 +47,22 @@
                     </a>
                 </div>
             </div>
+        </section>
+
+        <section id="about">
+
+        </section>
+
+        <section id="services">
+
+        </section>
+
+        <section id="why-us">
+
+        </section>
+
+        <section id="gallery">
+
         </section>
 
         <section id="contact">
