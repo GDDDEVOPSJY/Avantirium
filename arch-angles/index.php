@@ -15,7 +15,7 @@
             }
         </style>
         <section id="home">
-            <div class="container" style="padding-top: 80px; z-index: 2; width: 100% !important;">
+            <div class="container">
                 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
