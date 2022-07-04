@@ -5,9 +5,9 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Custom software development company Long Island | Software development Long Island</title>
+    <title>Codea Quarto-ERP</title>
 
-    <meta name="description" content="Having a great software idea can be very exciting.Finding the perfect custom software development company phoenix,island to help you design your dream software.Codea technologies assure best software development in long island">
+    <meta name="description" content="Codea Quarto ERP">
     <link rel="shortcut icon" href="assets/images/codea-icon.png" type="ima">
 
     <!-- CSS -->
@@ -31,15 +31,18 @@
 
     <?php include('header.php'); ?>
 
-    <section class="sd-banner">
+    <section class="quarto-banner">
         <div class="container">
             <div class="row">
 
-                <div class="col-md-6">
-                    <div class="sd-head">
+                <div class="col-md-12">
+                    <div class="quarto-head">
 
                         <!-- <h2>PRODUCT ENGINEERING</h2> -->
                         <h1>Quarto ERP</h1>
+                        <h2>
+                    A One Stop Solution for Distribution, Retail and Service Companies
+                </h2>
 
                     </div>
                 </div>
@@ -51,9 +54,7 @@
     <section class="mt-5 mb-5">
         <div class="container text-justify">
             <div class="row">
-                <h1 class="pb-3 m-5 text-center">
-                    A One Stop Solution for Distribution, Retail and Service Companies
-                </h1>
+               
                 <p class="bold">
                     Quarto ERP is a complete ERP solution that helps the Small and Medium
                     Businesses to operate efficiently for achieving prosperity. Quarto ERP is
@@ -92,39 +93,7 @@
                     </p>
                 </div>
             </div>
-            <div class="list-of-contents col-12 p-0">
-                <h1 class="heading mt-5">List of Contents</h2>
-                    <div class="row">
-                        <ul class="col-4 col-sm-5 mt-4 ml-4">
-                            <li><a onclick="goToId('Administration')">ADMINISTRATION</a></li>
-                            <li><a href="#Purchase">PURCHASE</a></li>
-                            <li><a href="#Production">PRODUCTION</a></li>
-                            <li><a href="#Sales">SALES</a></li>
-                            <li><a href="#Inventory">INVENTORY</a></li>
-                            <li><a href="#Financial%20Accounting">FINANCIAL ACCOUNTING</a></li>
-                            <li><a href="#Budget">BUDGET</a></li>
-                            <li><a href="#Costing">COSTING</a></li>
-                            <li><a href="#Duties & Taxes">DUTIES & TAXES</a></li>
-                            <li><a href="#Payroll">PAYROLL</a></li>
-                        </ul>
-                        <ul class="col-4 col-sm-5 mt-4">
-                            <li><a href="#Communication">COMMUNICATION</a></li>
-                            <li><a href="#CRM">CRM</a></li>
-                            <li><a href="#Asset%20Management">ASSET MANAGEMENT</a></li>
-                            <li><a href="#General%20Features">GENERAL FEATURES</a></li>
-                            <li><a href="#Quarto%20Mobile">QUARTO MOBILE</a></li>
-                            <li><a href="#Quarto%20E-Commerce">QUARTO E-COMMERCE</a></li>
-                            <li><a href="#Document%20Management%20System">DOCUMENT MANAGEMENT SYSTEM</a></li>
-                            <li><a href="Branch%20Management">BRANCH MANAGEMENT</a></li>
-                            <li><a href="#OfflineOnline%20Cloud%20Synchronisation">OFFLINE/ONLINE CLOUD SYNCHRONISATION</a></li>
-                        </ul>
-                    </div>
-                    <script src="http://flesler.com/jquery/scrollTo/js/jquery.scrollTo-min.js">
-                        function goToId (id) {
-                            $('a').scrollTo( $(id), 1000, {offset:-100} );
-                        }
-                    </script>
-            </div>
+
 
         </div>
     </section>
@@ -325,7 +294,228 @@
         </div>
     </section>
 
-    <?php include('footer.php'); ?>
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <section class="oxive-mod2 pt-5 pb-5">
+        <div class="container">
+        <div class="row">
+          	
+            <div class="col-md-8">
+                <h1>QUARTO E-Commerce</h1>
+                <p>Facilitates the business to sell online without any API calls or add on utilities. The products which are assigned to sell online will make the products available through the Shopping cart of the company. The products purchased or produced can instantly be made available to buyers online. A domain name of the company can be attached to the ERP system in cloud and rest is assured business.</p>
+                <ul>
+                    <li>Quarto ERP to Online Sales/E Commerce</li>
+                    <li>Manage Inventory in ERP and make live into the portal instantly</li>
+                    <li>Gets the online orders into ERP instantly</li>
+                    <li>Online payment Gateway</li>
+                    <li>Online User registration</li>
+                    <li>Order History</li>
+                    <li>Payment History</li>
+                    <li>Loyalty Management</li>
+                    
+                </ul>
+ 
+            </div>
+
+            <div class="col-md-4">
+            	<img src="assets/images/oxive-img-02.jpg" alt="" class="img-fluid img-border" />
+            </div>
+        	        
+        </div>
+        </div>
+        </section>
+        <section class="oxive-mod1 pt-5 pb-5">
+        <div class="container">
+        <div class="row">
+        
+        	<div class="col-md-4">
+            	<img src="assets/images/oxive-img-03.jpg" alt="" class="img-fluid img-border" />
+            </div>
+        	
+            <div class="col-md-8">
+                <h1>Quarto Document Management System (QDMS)</h1>
+                <p>Retrieving some important documents from a bunch of paper files is a real nightmare for accountants and managers at a given point of time. The urgent document sometimes may be mutilated, torn or misplaced. One of our clients from Kerala survived after the heavy flood of 2018 was only because their documents had been kept in Cloud Server. After the flood their many valuable agreements and documents became damaged and were unreadable after sinking in water for many days. Hence keeping documents and records in cloud or other reliable storage is very mandatory for organizations to manage efficiently.</p>
+                <p>Quarto ERP helps to manage the documents easily through the QDMS. This module will reduce the workload of each ERP user drastically and hence the system will become robust to provide the supporting documents to managers and auditors at any point of time.</p>
+
+            </div>
+            <div class="col-md-6">
+            <h2>QDMS is capable to load the following documents and file types</h2>
+            <ul>
+                <li>Word Documents</li>
+                <li>Excel Documents</li>
+                <li>PDF</li>
+                <li>JPG</li>
+                <li>BMP</li>
+                <li>MPEG</li>
+            </ul>
+            </div>
+
+            <div class="col-md-6">
+            <h2>Modules available for Documents facility</h2>
+            <ul>
+                <li>Customer Profile</li>
+                <li>Supplier Profile</li>
+                <li>Employee Profile</li>
+                <li>Purchase Order</li>
+                <li>Purchase Invoice</li>
+                <li>Goods Receipts</li>
+                <li>Customer Order</li>
+                <li>Sales Invoice</li>
+                <li>Delivery Note</li>
+            </ul>
+            </div>
+
+            <div class="col-md-12">
+                <h2>Documents Retrieval</h2>
+            <p>Once the document is uploaded, the file is connected to the particular head of account and can be retrievable for users who have got the access rights. List of documents will be displayed and the same can be opened through a document link.</p>
+                <h2>Storage</h2>
+            <p>All the document files are stored in Cloud server. Files are stored with file number or file name with the type of file extension.</p>
+                <h2>Customization</h2>
+            <p>QDMS can be customized for the user requirements and to the specific model of application. API systems can be provided for bridging with third applications seamlessly.</p>
+
+            </div>
+            
+        </div>
+        </div>
+        </section>
+        <section class="oxive-mod2 pt-5 pb-5">
+        <div class="container">
+        <div class="row">
+        
+        	
+        	
+            <div class="col-md-8">
+                <h1>Branch Management</h1>
+                <p>Create customers/suppliers/accounts and inventory from any branches and get the branch wise and consolidated statements of Cash, Sales, Purchases, Finance, Inventory statements based on the users related to the concerned branches. Online branch management also simplifies the integration of various activities of different branches with utmost efficiency.</p>
+                <ul>
+                    <li>Centralized control over the branches</li>
+                    <li>One Customer at any branch transaction</li>
+                    <li>Branch wise User Control</li>
+                    <li>Branch wise Financial Accounting Control</li>
+                    <li>Branch Wise Inventory Management</li>
+                    <li>Branch wise Cash/Bank Position</li>
+                    <li>Branch/executive wise Sales Report</li>
+                    <li>Employee login/attendance and control</li>
+                </ul>
+
+            </div>
+
+            <div class="col-md-4">
+            	<img src="assets/images/oxive-img-04.jpg" alt="" class="img-fluid img-border" />
+            </div>
+            
+        </div>
+        </div>
+        </section>
+        <section class="oxive-mod1 pt-5 pb-5">
+        <div class="container">
+        <div class="row">
+        
+        	<div class="col-md-4">
+            	<img src="assets/images/oxive-img-05.jpg" alt="" class="img-fluid img-border" />
+            </div>
+        	
+            <div class="col-md-8">
+                <h1>Offline/Online Cloud Synchronization</h1>
+                <h2 class="mt-2">Quarto Sync</h2>
+                <p class="mt-1">Even though the Internet connection is available in most of the places, the consistency in connectivity is very challenging. The inconsistency and non-availability of the internet hinders business activities. To eliminate this miserable situation, Quarto ERP developed a system which helps its users to work in the ERP system even when the connectivity is lost from the local computers</p>
+              
+
+            </div>
+            
+        </div>
+        </div>
+        </section>
+       
+            
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <?php include('footer.php'); ?>
 
     <!-- JAVASCRIPT -->
     <script src="assets/js/jquery-3.3.1.slim.min.js" type="text/javascript"></script>

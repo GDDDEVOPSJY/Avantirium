@@ -719,43 +719,26 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 
 
+.oxive-banner{background: url(../images/oxive-banner-img.jpg) no-repeat bottom center; width: 100%; padding: 10% 0;}
+.oxive-modules h2 { text-transform:uppercase; letter-spacing:1px; text-align:center; margin-bottom:15px;
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8d8d8+50,ffffff+100 */
+background: #ffffff; /* Old browsers */
+background: -moz-linear-gradient(left,  #ffffff 0%, #d8d8d8 50%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #ffffff 0%,#d8d8d8 50%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #ffffff 0%,#d8d8d8 50%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
+}
+.oxive-modules h3 { margin:0 0 15px 0; font-weight:bold;}
+.oxive-modules h1 { text-align:center;}
+.oxive-mod1{background-color: #f0f0f0;}
+.oxive-mod2{background-color: white;}
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.quarto-banner { background:url(../images/software-development-banner-img.jpg) no-repeat bottom center; width:100%; padding:6% 0;}
+.quarto-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.quarto-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
 
 
 
