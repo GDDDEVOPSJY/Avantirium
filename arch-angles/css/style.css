@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth !important;
 }
 :root {
-  --primary-color: rgb(134, 134, 54);
+  --primary-color: rgb(183, 183, 74);
   --secondary-color: black;
   --tertiary-color: grey;
 
@@ -44,14 +44,14 @@ a.navbar-brand > img {
   z-index: 10000;
 }
 nav.navbar {
-  padding: 15px;
+  padding: 15px 14%;
   height: 70px;
 }
 nav.navbar .nav-brand {
   float: left;
 }
 nav.navbar .collapse {
-  justify-content: center;
+  justify-content: flex-end;
 }
 nav.navbar ul.navbar-nav {
   text-align: center;
@@ -64,6 +64,7 @@ nav.navbar li.nav-item {
 nav.navbar ul.navbar-nav a.nav-link {
   width: min(200px, 100%);
   border-radius: 7px;
+  font-weight: bold;
 }
 @media screen and (min-width: 1000px) {
   /* Larger screens */
@@ -72,14 +73,17 @@ nav.navbar ul.navbar-nav a.nav-link {
   }
   nav.navbar ul.navbar-nav :hover a.nav-link {
     color: var(--primary-color) !important;
-    background-color: rgb(233, 233, 233);
+    /* background-color: rgb(233, 233, 233) !important; */
     transition: ease 0.3s;
   }
 }
 @media screen and (max-width: 1000px) {
   /* Smaller screens */
-  nav.navbar > ul.navbar-nav :nth-child(even) {
+  /* nav.navbar > ul.navbar-nav :nth-child(even) {
     background-color: whitesmoke !important;
+  } */
+  nav.navbar ul.navbar-nav {
+     background-color: white !important;
   }
   a.nav-link {
     width: 100% !important;
