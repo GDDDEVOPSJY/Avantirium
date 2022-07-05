@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <!-- Design by foolishdeveloper.com -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>footer Design with html css</title>
-
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <style media="screen">
       *{
     margin: 0;
@@ -151,8 +142,7 @@ li {
 }
 
     </style>
-</head>
-<body>
+
     <footer>
         <div class="footer-content">
           <ul>
@@ -178,5 +168,4 @@ li {
         </div>
 
     </footer>
-</body>
-</html>
+
