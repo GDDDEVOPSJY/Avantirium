@@ -1,15 +1,6 @@
-    <style media="screen">
-      *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    background: #fcfcfc;
-    font-family: sans-serif;
-}
-footer{
-    position: absolute;
+<style media="screen">
+  footer {
+    position: relative;
     bottom: 0;
     left: 0;
     right: 0;
@@ -17,39 +8,41 @@ footer{
     border: #000000;
     height: auto;
     width: 100vw;
-
     padding-top: 40px;
     color: rgb(0, 0, 0);
-}
+  }
 
-.footer-content{
+  .footer-content {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     text-align: center;
-}
- 
-.footer-content p{
+  }
+
+  .footer-content p {
     max-width: 500px;
     align-items: center;
     justify-content: center;
     text-align: center;
     font-size: 14px;
     color: #010205;
-   
-}
-.socials{
+
+  }
+
+  .socials {
     list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 1rem 0 3rem 0;
-}
-.socials li{
+  }
+
+  .socials li {
     margin: 0 10px;
-}
-.socials a{
+  }
+
+  .socials a {
     text-decoration: none;
     color: rgb(23, 13, 13);
     border: 1.1px solid rgb(0, 0, 0);
@@ -57,115 +50,110 @@ footer{
 
     border-radius: 50%;
 
-}
-.socials a i{
+  }
+
+  .socials a i {
     font-size: 1.1rem;
     width: 20px;
 
 
     transition: color .4s ease;
 
-}
-.socials a:hover i{
-    color: rgb(181, 112, 47);
-}
+  }
 
-.footer-bottom{
+  .socials a:hover i {
+    color: rgb(181, 112, 47);
+  }
+
+  .footer-bottom {
     background: rgb(240, 240, 240);
     width: 100vw;
     padding: 20px;
-padding-bottom: 40px;
+    padding-bottom: 40px;
     text-align: center;
-}
-.footer-bottom p{
-float: center;
+  }
+
+  .footer-bottom p {
+    float: center;
     font-size: 14px;
     word-spacing: 2px;
     text-transform: capitalize;
-}
-.footer-bottom p a{
-  color:#000000;
-  font-size: 16px;
-  text-align: center;
-  text-decoration: none;
-}
-.footer-bottom span{
+  }
+
+  .footer-bottom p a {
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .footer-bottom span {
     text-transform: uppercase;
     text-align: center;
     opacity: .4;
     font-weight: 200;
-}
-.footer-menu{
-  float: right;
+  }
 
-}
-.footer-menu ul{
-  display: flex;
-}
-.footer-menu ul li{
-padding-right: 10px;
-display: block;
-}
-.footer-menu ul li a{
-  color: #0c0c0c;
-  text-decoration: none;
-}
-.footer-menu ul li a:hover{
-  color: #000000;
-}
-      
-@media (max-width:500px) {
-.footer-menu ul{
-  display: flex;
-  margin-top: 10px;
-  margin-bottom: 20px;
-}
+  .footer-menu {
+    float: right;
 
+  }
 
-}
+  .footer-menu ul {
+    display: flex;
+  }
 
+  .footer-menu ul li {
+    padding-right: 10px;
+    display: block;
+  }
 
-li {
-  display: inline-block;
-  margin: 0 10px;
-  
-} 
+  .footer-menu ul li a {
+    color: #0c0c0c;
+    text-decoration: none;
+  }
 
+  .footer-menu ul li a:hover {
+    color: #000000;
+  }
+  @media (max-width:500px) {
+    .footer-menu ul {
+      display: flex;
+      margin-top: 10px;
+      margin-bottom: 20px;
+    }
+  }
+  li {
+    display: inline-block;
+    margin: 0 10px;
 
-
-.p{
+  }
+  .p {
     align-items: center;
     justify-content: center;
     text-align: center;
     padding-bottom: 50px;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+</style>
 
-    </style>
-
-    <footer>
-        <div class="footer-content">
-          <ul>
-            <li>careers</li>
-            <li>contacts</li>
-           
-          </ul>
-          </div>
-            <ul class="socials">
-                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-            </ul>
-
-
-            <p class="p">2nd Floor, Cafeteria Block,<br> Athulya Infopark, Kusumagiri, Kakkanad, Kochi, Kerala 682030</p>
-        </div>
-        <div class="footer-bottom">
-            <p class="pp">copyright &copy;2021 <a href="#">foolishdeveloper</a>  </p>
-                   
-        </div>
-
-    </footer>
-
+<footer>
+  <div class="footer-content">
+    <ul>
+      <li>Careers</li>
+      <li>Contacts</li>
+    </ul>
+  </div>
+  <ul class="socials">
+    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+    <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+  </ul>
+  <p class="p">2nd Floor, Cafeteria Block,<br> Athulya Infopark, Kusumagiri, Kakkanad, Kochi, Kerala 682030</p>
+  </div>
+  <div class="footer-bottom">
+    <p class="pp">copyright &copy;2021 <a href="#">foolishdeveloper</a> </p>
+  </div>
+</footer>
