@@ -8,13 +8,12 @@
     <!-- Boxicons CDN Link -->
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   </head>
-<body>
+  
   
 <?php include("side-bar.php"); ?>
 
   <section class="home-section">
-    <?php include("nav-header.php"); ?>
+  <?php include("nav-header.php"); ?> 
     <style>
     * {
       box-sizing: border-box;
@@ -32,7 +31,9 @@
     }
     
     /* Remove extra left and right margins, due to padding */
-    .row {margin: 0 -5px;}
+    .row {margin: 0 -5px;
+    padding-top:150px;}
+    
     
     /* Clear floats after the columns */
     .row:after {
@@ -56,13 +57,18 @@
       padding: 16px;
       text-align: center;
       background-color: #f1f1f1;
-      padding-top:100px
+      
+    }
+
+    .h4{
+        padding-top:100px;
+        padding-left:20px;
     }
     </style>
     </head>
     <body>
     
-   
+    <h4 class="h4">current exhibitions</h2>
     
     <div class="row">
       <div class="column">
