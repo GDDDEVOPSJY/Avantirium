@@ -294,6 +294,170 @@
         </div>
     </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
    
 
 
@@ -303,11 +467,641 @@
 
 
 
+    <section class=" invent pt-5 pb-5" style="background-color: #038fe8;">
+        <div class="container">
+        <div class="row">
+
+        <div class="col-md-6 white">
+            	
+                <img src="assets/images/invent.jpg" alt="Inventory Management" class="img-fluid" />
+                
+            </div>
+        	
+            <div class="col-md-6">
+            	
+                <div class="text-justify">
+                 
+                    <h1 class="white">INVENTORY MANAGEMENT</h1>
+                    <br>
+                    <ul class="white">
+                        <li>Godown Transfer</li>
+                        <li>Stock Issue/Receipts</li>
+                        <li>Physical Stock Adjustment</li>
+                        <li>Damaged Item Entry</li>
+                        <li>Group Wise Price Update</li>
+                        <li>Item Price List</li>
+                        <li>Stock Valuation</li>
+                        <li>Stock Report Batch/Group/Tax/Brand/Category/Date Wise</li>
+                        <li>Negative Stock Report</li>
+                        <li>Movement Analysis</li>
+                        <li>Reorder Level Report</li>
+                        <li>Expiring Items Report</li>
+                    </ul>
+                       
+                </div>
+                
+            </div>
+            
+           
+            
+    </div>
+
+    </div>
+    
+        </section>
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="pt-5 pb-5" style="background:#e5e5e5;">
+           <div class="container">
+            
+                <div class="row">
+                    
+                    <div class="col-md-12">
+                        
+                        <h1 class="black text-center">FINANCIAL ACCOUNTING</h1>
+
+                    </div>
+                    
+                </div>
+                
+                
+                <div class="row mt-5">
+                	
+                    <div class="col-md-6">
+                    	
+                        <h4 class="black mb-3">Masters</h4>
+                    	<div class="row">
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Schedule/Group</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Ledger Accounts</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Accounts Voucher</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Voucher Designer-Text</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Voucher Designer-Graphical</p>
+                            </div>
+
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Narration</p>
+                            </div>
+                            
+                        </div>
+                        	
+                        <h4 class="black mb-3">Financial Accounts</h4>
+                    	<div class="row">
+                        
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Balance Sheet</p>
+                            </div>
+
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Balance Sheet - Multiple Years/Period</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Profit &amp; Loss Account</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Profit &amp; Loss Account - Multiple Years/Period</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Trial Balance/Group wise/Periodical/Detailed</p>
+                            </div>
+
+                        </div>
+                        
+                        <h4 class="black mb-3">Accounting Features</h4>
+                    	<div class="row">
+                        
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Dual entry mode for Accounting (Simplified & Detailed options)</p>
+                            </div>
+
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Voucher Authorization/Verification</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Voucher creation and modification</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Voucher Renumbering </p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Cheque Print/Format option</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Bill to Bill settlement (Automatic/manual)</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Data Migrate from 3rd party software</p>
+                            </div>
+                
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="col-md-6">
+
+                    <h4 class="black mt-3 mb-3">Transactions</h4>
+                    	<div class="row">
+                        
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Day Book - Direct Entry</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Reciepts - Cash/Cheque/PDC</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Payments - Cash/Cheque/PDC </p>
+                            </div>
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Contra</p>
+                            </div>
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Journal</p>
+                            </div>
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Debit Note</p>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Credit Note</p>
+                            </div> 
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Purchase</p>
+                            </div> 
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Purchase Return (Debit Note)</p>
+                            </div> 
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Sales</p>
+                            </div> 
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Sales Return (Credit Note)</p>
+                            </div> 
+                            
+                            
+                        </div>
+                    	
+                        <h4 class="black mb-3">Reports</h4>
+                    	<div class="row">
+                        
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Cash/Bank Book</p>
+                            </div>
+
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Day Book</p>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Ledger Info - Easier ledger printing with bulk pages</p>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Ledger Daily summary </p>
+                            </div>
+
+                             
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Bank Reconciliation</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Graphical Reports with Type of Graph and for period wise</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Cash Flow</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Registers - Inbuilt register creation option to create or modify reports</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Purchase Register-Tax/Cost wise</p>
+                            </div>
+
+                             
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Sales Register-Tax/Cost wise</p>
+                            </div>
+
+                             
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Purchase Return Register</p>
+                            </div>
+
+                             
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Sales Return Register</p>
+                            </div>
+
+                             
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">PD Cheque Register</p>
+                            </div>
+
+                             
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Receivables Summary</p>
+                            </div>
+
+                             
+                            <div class="col-md-6">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);"> Payable Summary</p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Party List (Active/Inactive Customers for a period) </p>
+                            </div>
+
+                             
+                            <div class="col-md-12">
+                                <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Supplier/Customer Register</p>
+                            </div>
+        
+                        </div>
+                    
+                    </div> 
+                    
+                </div>
+                
+            </div>
+            </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <section class="mt-5 mb-5">
+        <div class="container">
+      
+                
+            
+            <div class="cloud-experience mt-5 text-center">
+            
+                <h1>Payroll</h1>
+                
+                <div class="row mt-4 text-left">
+                    
+                    <div class="col-md-4 col-sm-6">
+                        
+                        <h2 class="sre-h2">Transaction</h2>
+                        
+                        <ul style="padding-left:15px;">
+                        	<li>Attendance</li>
+                            <li>Integrate Attendance Data from Biometrics(ID/Thumb/Face Recognition)</li>
+                            <li>Leave Application/Approval</li>
+                            <li>Monthly Adjustments (Input monthly Allowances/Deductions)</li>
+                            <li>Salary Slip generation for Employees (Branch/Department/Location)</li>
+                            <li>Employee Master with Qualification</li>
+                            <li>Pay-head builder (BASIC/VDA/TA/PF/ESI etc.) and assign to Grade/Location/Employees</li>
+                            <li>Holiday master</li>
+                            <li>Shift Master to maintain shift and assign workers</li>
+                            <li>Salary Slip Voucher to Print/Account the Salary details</li>
+                        </ul>
+                        
+                    </div>
+                    
+                    <div class="col-md-4 col-sm-6">
+                        
+                        <h2 class="sre-h2">Reports/Registers</h2>
+                        
+                        <ul style="padding-left:15px;">
+                        	<li>Muster Roll</li>
+                            <li>Attendance Summary/Detailed Report (Grade/Department wise)</li>
+                            <li>Employee Register</li>
+                            <li>Leave Report</li>
+                            <li>Promotion Report</li>
+                            <li>Salary Register</li>
+                            <li>PF Register</li>
+                            <li>ESI Register</li>
+                            <li>Loan/Deduction/Allowances Report</li>
+                            <li>OT Register</li>
+                            <li>Report Builder to manage reports</li>
+
+
+                        </ul>
+                        
+                    </div>
+                    
+                    <div class="col-md-4 col-sm-6">
+                    	
+                        <h2 class="sre-h2">Options</h2>
+                        
+                        <ul style="padding-left:15px;">
+                        	<li>Formula builder to manage specific situation</li>
+                            <li>Update with Accounts</li>
+                            <li>User rights with security</li>
+                            <li>Grade wise Employee pay setup</li>
+                            <li>Salary Slip Designer (Graphical/Text)</li>
+                            <li>Biometrics integration</li>
+
+                        </ul>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        </section>
+
+
+
+
+
+
+
+
+    <section class=" qcrm pt-5 pb-5" style="background-color: #e5e5e5;">
+        <div class="container">
+        <div class="row">
+        	
+            <div class="col-md-6">
+            	
+                <div class="text-justify">
+                 
+                    <h1 class="black">QCRM</h1>
+                    <p class="mt-2 black">
+                    QUARTO Customer Relationship Management (QCRM) system is a close knitted program suitable for the organization which manages each and every interaction between customers and prospective clients. QCRM system schedules the day to day activities for each user and the tasks to do for the clients like follow ups, Calls, information or services to be provided for the customers and intimate the same through SMS, Whatsapp messages or through emails. QCRM systems compile data from a range of different communication channels, including a company's website, telephone, email, live chat, marketing materials and more recently including social media. They allow businesses to learn more about their target audiences and how to best cater for their needs, thus retaining customers and driving growth in sales. QCRM is a very helpful tool to deal with the past, present or potential customers.
+
+                    </p>
+                       
+                </div>
+                
+            </div>
+            
+            <div class="col-md-6 white">
+            	
+                <img src="assets/images/qcrm-img.jpg" alt="IOT  Companies in  California" class="img-fluid" />
+                
+            </div>
+            <div class="col-md-12">
+    
+
+            <h1 class="mb-3 mt-3">MODULES OF QCRM</h1>
+            <div class="row">
+            <div class="col-4">
+            <h2>Administration</h2> 
+            <ul>
+                <li>Customer Master</li>
+                <li>Product Master</li>
+                <li>Department Master</li>
+                <li>User Master</li>
+                <li>Calendar</li>
+                <li>Message/Email Integrator</li>
+                <li>Service Contract Management</li>
+                <li>Configuration Utilities</li>
+                <li>Database management</li>
+                <li>Offline Sync (Desktop & Mobile)</li>
+                <li>Financial Year Management</li>
+            <ul>
+            </div>
+
+            <div class="col-4">
+            <h2>Reporting</h2>
+            <ul>
+                <li>Sales Projection/Analysis</li>
+                <li>Customer History</li>
+                <li>Activity History</li>
+                <li>User Wise Performance</li>
+                <li>Product wise Profitability Reports</li>
+                <li>Customer wise Profitability Reports</li>
+                <li>Active/Dormant Customer Reports</li>
+                <li>Stock Reports</li>
+                <li>Customer Service Reports</li>
+                <li>Marketing & Follow up (Hot/Cold) Status wise</li>
+                <li>Pending enquiry Reports</li>
+            </ul>
+            </div>
+
+            <div class="col-4">
+            <h2>Billing</h2>
+            <ul>
+                <li>Estimates/Quotation</li>
+                <li>Customer Orders</li>
+                <li>GST Invoice</li>
+                <li>Payment collection</li>
+                <li>Payment Reminders</li>
+                <li>Receivable Management</li>
+            </ul>
+            </div>
+
+            <div class="col-4">
+            <h2>Enquiry & Follow-up</h2>
+            <ul>
+                <li>Customer Enquiry</li>
+                <li>Follow-up System</li>
+                <li>Enquiry Status Reports</li>
+                <li>Document Connectivity</li>
+            </ul>
+            </div>
+
+            <div class="col-4">
+            <h2>Warranty/ASC Renewal</h2>
+            <ul>
+                <li>Notifications Messages/Email</li>
+                <li>Renewal System</li>
+                <li>Document Management</li>
+            </ul>
+            </div>
+
+           <div class="col-4">
+            <h2>Dashboard</h2>
+            <ul>
+                <li>Graphs</li>
+                <li>Summary Reports</li>
+                <li>Task Calendar</li>
+                <li>Alerts/Messages</li>
+            </ul>
+            </div>
+    </div>
+
+    </div>
+            
+        </div>
+        </div>
+        </section>
 
 
 
@@ -356,7 +1150,7 @@
             </div>
 
             <div class="col-md-4">
-            	<img src="assets/images/oxive-img-02.jpg" alt="" class="img-fluid img-border" />
+            	<img src="assets/images/quarto-img-01.jpg" alt="" class="img-fluid img-border" />
             </div>
         	        
         </div>
@@ -367,7 +1161,7 @@
         <div class="row">
         
         	<div class="col-md-4">
-            	<img src="assets/images/oxive-img-03.jpg" alt="" class="img-fluid img-border" />
+            	<img src="assets/images/quarto-img-02.jpg" alt="" class="img-fluid img-border" />
             </div>
         	
             <div class="col-md-8">
@@ -439,7 +1233,7 @@
             </div>
 
             <div class="col-md-4">
-            	<img src="assets/images/oxive-img-04.jpg" alt="" class="img-fluid img-border" />
+            	<img src="assets/images/quarto-img-03.jpg" alt="" class="img-fluid img-border" />
             </div>
             
         </div>
@@ -450,7 +1244,7 @@
         <div class="row">
         
         	<div class="col-md-4">
-            	<img src="assets/images/oxive-img-05.jpg" alt="" class="img-fluid img-border" />
+            	<img src="assets/images/quarto-img-04.jpg" alt="" class="img-fluid img-border" />
             </div>
         	
             <div class="col-md-8">
