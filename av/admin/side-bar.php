@@ -23,7 +23,7 @@
             </a>
         </li>
         <li>
-            <a href="#">
+            <a href="exhibition.php">
             <i class='bx bx-pie-chart-alt-2' ></i>
             <span class="links_name">Exhibitions</span>
             </a>

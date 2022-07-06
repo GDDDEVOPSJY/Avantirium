@@ -1,7 +1,7 @@
 <nav>
     <div class="sidebar-button">
         <i class='bx bx-menu sidebarBtn'></i>
-        <span class="dashboard">Dashboard</span>
+        <span</span>
     </div>
     <div class="search-box">
         <input type="text" placeholder="Search...">
