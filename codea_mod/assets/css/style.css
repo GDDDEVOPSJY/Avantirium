@@ -1594,3 +1594,9 @@ input.gsc-input, input.gsc-input::placeholder { font-size:20px !important;}
 
 
 
+.scm_banner {background: url(../images/scm12.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
+.ecd_head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.edc_head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+
+
+
