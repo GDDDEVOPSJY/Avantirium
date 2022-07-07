@@ -753,13 +753,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 
 
-.scm-banner {background: url(../images/quiq-scm-banner-img.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
-.scm-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
-.scm-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
-.scm-app { padding:75px 0; background-color: white;}
-.scm-app h1 { margin-bottom:15px;}
-.scm-sol { padding:10px 0; background-color: #e5e5e5;}
-.scm-sol h2{ font-size: 18px;}
+.quiq-banner {background: url(../images/quiq-scm-banner-img.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
+.quiq-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.quiq-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.quiq-app { padding:10px 0; background-color: #f1585d;}
+.quiq-app p {font-size: 15px; color: white;}
+.quiq-feat { padding:50px 0;}
+
 
 
 

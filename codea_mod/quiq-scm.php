@@ -31,17 +31,17 @@
 
     <?php include('header.php'); ?>
 
-    <section class="scm-banner">
+    <section class="quiq-banner">
         <div class="container">
             <div class="row">
 
                 <div class="col-md-12">
-                    <div class="scm-head">
+                    <div class="quiq-head">
 
                         <!-- <h2>PRODUCT ENGINEERING</h2> -->
-                        <h1>QUIQ SCM</h1>
+                        <h1> QUIQ - SUPPLY CHAIN MANAGEMENT SYSTEM</h1>
                         <h2>
-                        Supply Chain Mangement Software
+                        Web &amp; Mobile Apps
                 </h2>
 
                     </div>
@@ -51,19 +51,63 @@
         </div>
     </section>
 
-    <section class="scm-app">
+
+       <section class="quiq-app">
         <div class="container">
             
             <div class="row">	
             	
-                <div class="col-md-6" >
+                <div class="col-md-12 text-center mt-2" >
                 
-                    <h1>Achieve Operational Excellence for Your <span class="codea-color2">Supply Chain</span></h1>
+               
                     
-                    <p style="text-align: justify; ">
-                    The logistics and supply chain management module is designed to ease supply chain operations through a set of carefully devised tools that could be accessed by users with different skill sets with the help of a very user friendly graphical interface. The ERP module simplifies Demand and resource planning, inventory management, data storage and delivery. SCM software also facilitates integration with the accounting framework for instant synchronization of accounts receivable and accounts payable. This helps to keep credit limits in check, based on credit amount or period.
+                   
+                    <p>The intricacies of supply chain depends on the right technology to keep track of the products, delivery and to keep everything safe and traceable. Considering the expectations and standards of consumers manufacturers and distributors must deploy technology implementations throughout the supply chain to ensure they are providing transparency and accurately tracking product along the entirety of its journey, from source to the end user.</p>
+                    <p>There are two modules for this application: A web-based admin panel and an android app.</p>
+                    
+                    
+                </div>
 
-                    </p>
+              
+                
+            </div>
+            
+        </div>
+       </section>
+
+       <section class="quiq-feat">
+        <div class="container">
+            
+            <div class="row">	
+            	
+                <div class="col-md-6" style="text-align: justify; ">
+                
+                    <h1 class="codea-color1"> Features in the web app: </h1>
+                    <ul>
+                        <li>Sales area management</li>
+                        <li>Setting hierarchy of personnel in the sales department</li>
+                        <li>Sales representative management:
+                            <ul>
+                                <li>Task management</li>
+                                <li>Journey plan management</li>
+                                <li>Order management</li>
+                                <li>Customer management</li>
+                                <li>Daily reports</li>
+                                <li>Collection Management</li>
+                                <li>Location tracking of sales representatives (optional)</li>
+                                <li>Automated / manual SMS alerts to customers</li>
+                                <li>Import facility for updating invoice and dispatch details for orders</li>
+                                <li>Import facility for updating customer pending payments</li>
+                            </ul>
+                        </li>
+                        <li>Delivery area management</li>
+                        <li>Delivery vehicle management</li>
+                        <li>Delivery plan creation by uploading items for delivery including quantity, invoice number and customer</li>
+                        <li>MIS reports based on sale orders and representative performance</li>
+                    </ul>
+                    
+                   
+
                     
                 </div>
 
@@ -76,28 +120,58 @@
         </div>
        </section>
 
-       <section class="scm-sol">
-        <div class="container">
-            
-            <div class="row">	
-            	
-                <div class="col-md-12 text-center" >
-                
-                    <h2>Supply Chain Solutions</h2>
-                    
-                    <p>
-                    Client satisfaction is the result of the services you offer to your customers and Supply chain is the most valuable aspect of a logistics business. Supply chain systems should ensure the collection of information, management of resources and timely delivery of the product to the customers.
+       </section>
 
-                    </p>
+       <section class="pt-5 pb-5" style="background:#e5e5e5;">
+        <div class="container text-center">
+        	
+            <div class="mt-5">
+            
+                <h1 class="pb-3">Android App Will Provide The Following Features</h1>
+                <h2 class="text-uppercase bold mt- text-center" style="color:#000">For sales representatives:</h2>
+            
+                <div class="row mt-2 text-justify">
+                	
+              
+                    
+                    <div class="col-md-6 text-center">
+                    	
+                        
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View tasks assigned to the sales representative</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View tour plan assigned to the sales representative</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View details of customers assigned to the sales representative</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Add status update on tasks</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Create sales orders</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View past sales orders</p>
+                    </div>
+                     
+                    <div class="col-md-6 text-center">
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Add daily reports</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Add customer feedback</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Add expense statement</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View overdue payment details of customers</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Add collection details</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Pin location of customers</p>
+                    </div>
+
+                    <div class="col-md-12 text-center">
+                    	
+                        <p class="text-uppercase bold mt-3 text-center" style="color:#000">For drivers / delivery staff:</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View delivery routes for a particular day</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View list of customers in each route</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View list of items to be delivered</p>
+                        <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Mark as delivered / not delivered (with reason)</p>
+
+                        
+                    </div>
                     
                 </div>
-
-              
                 
             </div>
             
         </div>
-       </section>
+        </section>
+        
 
     
 
