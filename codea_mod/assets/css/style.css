@@ -1621,5 +1621,7 @@ input.gsc-input, input.gsc-input::placeholder { font-size:20px !important;}
 .ecd_head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
 .edc_head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
 
+.hrms_banner {background: url(../images/hrms2.jpg) no-repeat bottom center; background-size: cover; width:100%; padding:10% 0;}
+
 
 

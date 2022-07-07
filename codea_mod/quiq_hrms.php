@@ -30,8 +30,8 @@
 <body>
 <?php include('header.php'); ?>
 
-<section class="scm_banner">
-        <div class="container">
+<section class="hrms_banner">
+        <div class="container" text-center>
         	
             <div class="ecd-head">
             	
