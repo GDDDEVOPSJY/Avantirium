@@ -453,11 +453,6 @@
 
 
 
-
-
-
-
-
    
 
 
@@ -805,8 +800,96 @@
 
 
 
+            <section class="quarto-ser pt-5 pb-5">
+        <div class="container">
+        <div class="row text-left">
+        	
+            <h1 class="white">
+                Successful engagement model with different teams within your company:
+            </h1>
+                    
+            <div class="col-md-3 mt-5">
+            	
+                <div class="quarto-ser-content">
+                
+                    <img src="assets/images/data-science-img-02.jpg" alt="" class="img-fluid mb-3" />
+                    <h4 class="white text-uppercase mb-3">BUDGET</h4>
+                   <ul>
+                        <li>Accounts Budget</li>
+                        <li>Sales Budget</li>
+                        <li>Purchase Budget</li>
+                        <li>Production Budget</li>
+                    </ul>
+                    
+                </div>
+                
+            </div>
+            
+            <div class="col-md-3 mt-5">
+            	
+                <div class="quarto-ser-content">
+                    
+                    <img src="assets/images/data-science-img-03.jpg" alt="" class="img-fluid mb-3" />
+                    <h4 class="white text-uppercase mb-3">COSTING</h4>
+                <ul>
+                        <li>Cost Category (Expense/Revenue)</li>
+                        <li>Cost Centres (Expense/Revenue)</li>
+                        <li>Cost Allocation</li>
+                        <li>Cost Reports (Summary/Detailed)</li>
+                </ul>
 
+                </div>
+                
+            </div>
+            
+            <div class="col-md-3 mt-5">
+            	
+                <div class="quarto-ser-content">
+                    
+                    <img src="assets/images/data-science-img-04.jpg" alt="" class="img-fluid mb-3" />
+                    <h4 class="white text-uppercase mb-3">DUTIES &amp; TAXES</h4>
+                  
+                <ul>
+                        <li>E Invoice - API integration</li>
+                        <li>E Way Bill</li>
+                        <li>GST Monthly Filing System through API calls</li>
+                        <li>GST Management (Input & Output)</li>
+                        <li>GSTR 1</li>
+                        <li>GSTR 3 B</li>
+                        <li>B2B/B2CS/B2CL/CDNR/CDNUR/EXP/AT/ATADJ/EXEMP/HSN Reports</li>
+                        <li>VAT Accounting</li>
+                        <li>TDS
+                </ul>
+                        
+                    
+                </div>
+                
+            </div>
 
+            <div class="col-md-3 mt-5">
+            	
+                <div class="quarto-ser-content">
+                    
+                    <img src="assets/images/data-science-img-04.jpg" alt="" class="img-fluid mb-3" />
+                    <h4 class="white text-uppercase mb-3">COMMUNICATION</h4>
+                    <ul>
+                        <li>Communication tool between users.</li>
+                        <li>Ensures effective communication</li>
+                        <li>Between computer and mobile</li>
+                        <li>Get alerts of</li>
+                        <li>Pending Approvals</li>
+                        <li>User wise Reminders</li>
+                        <li>Calendar activities</li>
+                    </ul>
+                    
+                </div>
+                
+            </div>
+            
+        </div>
+        </div>
+        </section>
+        
 
 
 
