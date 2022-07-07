@@ -9,11 +9,11 @@
         <!-- NAV HEADER -->
         <?php include("partials/nav-header.php"); ?>
 
-        <style>
+        <!-- <style>
             section {
                 height: 600px;
             }
-        </style>
+        </style> -->
         <section id="home">
             <div class="container">
                 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">

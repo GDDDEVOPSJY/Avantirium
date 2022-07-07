@@ -736,9 +736,32 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 
 
+
 .quarto-banner { background:url(../images/software-development-banner-img.jpg) no-repeat bottom center; width:100%; padding:6% 0;}
 .quarto-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
 .quarto-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.qcrm img { border:solid 5px transparent; outline:solid 2px rgba(177, 175, 175, 0.5);}
+.qcrm h2 {font-size: 14px; }	
+.invent img { border:solid 5px transparent; outline:solid 2px rgba(177, 175, 175, 0.5);}
+.invent h2 {font-size: 14px; }
+.quarto-ser { background: #f1585d;}
+
+.quarto-ser-content { color:#FFF;}
+.quarto-ser-content h1 { margin-bottom:15px; color:#FFF; font-weight:bold;}
+.quarto-ser img { border:solid 5px transparent; outline:solid 2px rgba(255,255,255,0.5);}
+
+
+
+
+.quiq-banner {background: url(../images/quiq-scm-banner-img.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
+.quiq-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.quiq-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.quiq-app { padding:10px 0; background-color: #f1585d;}
+.quiq-app p {font-size: 15px; color: white;}
+.quiq-feat { padding:50px 0;}
+
+
+
 
 
 
@@ -1591,6 +1614,14 @@ input.gsc-input, input.gsc-input::placeholder { font-size:20px !important;}
 .partner-button { height:auto !important; position:static !important; bottom:30px !important; left:50px !important; }
 }
 
+
+
+
+.scm_banner {background: url(../images/scm12.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
+.ecd_head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.edc_head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+
+.hrms_banner {background: url(../images/hrms2.jpg) no-repeat bottom center; background-size: cover; width:100%; padding:10% 0;}
 
 
 
