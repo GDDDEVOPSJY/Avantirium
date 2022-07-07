@@ -736,9 +736,32 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 
 
+
 .quarto-banner { background:url(../images/software-development-banner-img.jpg) no-repeat bottom center; width:100%; padding:6% 0;}
 .quarto-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
 .quarto-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.qcrm img { border:solid 5px transparent; outline:solid 2px rgba(177, 175, 175, 0.5);}
+.qcrm h2 {font-size: 14px; }	
+.invent img { border:solid 5px transparent; outline:solid 2px rgba(177, 175, 175, 0.5);}
+.invent h2 {font-size: 14px; }
+.quarto-ser { background: #f1585d;}
+
+.quarto-ser-content { color:#FFF;}
+.quarto-ser-content h1 { margin-bottom:15px; color:#FFF; font-weight:bold;}
+.quarto-ser img { border:solid 5px transparent; outline:solid 2px rgba(255,255,255,0.5);}
+
+
+
+
+.scm-banner {background: url(../images/quiq-scm-banner-img.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
+.scm-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.scm-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.scm-app { padding:75px 0; background-color: white;}
+.scm-app h1 { margin-bottom:15px;}
+.scm-sol { padding:10px 0; background-color: #e5e5e5;}
+.scm-sol h2{ font-size: 18px;}
+
+
 
 
 
