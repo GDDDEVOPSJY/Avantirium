@@ -751,8 +751,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .quarto-ser img { border:solid 5px transparent; outline:solid 2px rgba(255,255,255,0.5);}
 
 
-
-
 .quiq-banner {background: url(../images/quiq-scm-banner-img.jpg) no-repeat bottom center; width:100%; padding:7% 0;}
 .quiq-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
 .quiq-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
@@ -761,10 +759,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .quiq-feat { padding:50px 0;}
 
 
-
 .pharma-banner {background: url(../images/quiq-pharma-banner-img.jpg) no-repeat bottom center; width:100%; padding:12% 0;}
 .pharma-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
 .pharma-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+
 
 .office-banner {background: url(../images/quiq-office-banner-img.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
 .office-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
@@ -774,6 +772,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .office-top { padding:30px 0;}
 .office-top h1 { margin-bottom:15px;}
 .office-areas p { border-left:solid 5px #f1585d; padding:7px 5px; background:rgba(3,173,206,0.1);}
+
+
+.scm-banner {background: url(../images/scm-banner-img.jpg) no-repeat bottom center; width:100%; padding:12% 0;}
+.scm-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.scm-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.quiq-scm-top { padding:40px 0;}
+.quiq-scm-top h1 { margin-bottom:15px;}
+
+
+.hrms-banner {background: url(../images/hrms-banner-img.jpg) no-repeat bottom center; width:100%; padding:12% 0;}
+.hrms-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.hrms-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
 
 
 
@@ -1628,15 +1638,4 @@ h2 { font-size:15px;line-height:30px; }
 input.gsc-input, input.gsc-input::placeholder { font-size:20px !important;}
 .partner-button { height:auto !important; position:static !important; bottom:30px !important; left:50px !important; }
 }
-
-
-
-
-.scm_banner {background: url(../images/scm12.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
-.ecd_head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
-.edc_head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
-
-.hrms_banner {background: url(../images/hrms2.jpg) no-repeat bottom center; background-size: cover; width:100%; padding:10% 0;}
-
-
 

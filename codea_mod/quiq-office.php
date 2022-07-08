@@ -51,7 +51,7 @@
         </div>
     </section>
 
-    <section class="pt-4 pb-2" style="background:#363536;">
+    <section class="pt-3 pb-3" style="background:#363536;">
         <div class="container">
         <div class="row">	
         
