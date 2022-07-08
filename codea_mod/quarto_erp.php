@@ -98,6 +98,11 @@
         </div>
     </section>
 
+
+
+    <!-- ........................................SECTION_1_STARTS................................. -->
+
+
     <section class="mb-5" id="Administration">
         <div class="container">
             <h1 class="pb-3 mb-2 text-center">ADMINISTRATION</h1>
@@ -128,7 +133,7 @@
                     </ul>
                 </div>
                 <div class="col-4">
-                    <i>Setup Peripherals (Optional)</i>
+                <a href="#mb-5"><i><b>Setup Peripherals (Optional)</b></i></a>
                     <ul type=disc>
                         <li>Printer (Laser/Inkjet/Thermal/Dot-matrix)</li>
                         <li>Barcode Printer</li>
@@ -144,6 +149,12 @@
         </div>
     </section>
 
+    <!--............. X--------------------------------------------------------------X--------------------------------------X........... -->
+
+
+    <!-- ...............................................SECTION_2_STARTS............................. -->
+
+
     <section class="mb-5" id="PURCHASE">
         <div class="container">
             <h1 class="pb-3 mb-2 text-center">PURCHASE</h1>
@@ -153,7 +164,7 @@
                 </div> -->
                 
                 <div class="col-4">
-                    <i>VENDOR PROFILE</i>
+                <a href="#mb-5"><i><b>VENDOR PROFILE</b></i></a>
                     <ul type=disc>
                         <li>Vendor/Supplier Master</li>
                         <li>Credit Period/Limit</li>
@@ -164,7 +175,7 @@
                 </div>
 
                 <div class="col-4">
-                    <i>PURCHASE ORDER GENERATION</i>
+                <a href="#mb-5"><i><b>PURCHASE ORDER GENERATION</b></i></a>
                     <ul type=disc>
                         <li>Purchase Indent</li>
                         <li>Based On Reorder Level/Against Production Requisition</li>
@@ -176,7 +187,7 @@
 
 
                 <div class="col-4">
-                    <i>GOODS RECEIPT</i>
+                <a href="#mb-5"> <i><b>GOODS RECEIPT</b></i></a>
                     <ul type=disc>
                         <li>GR against Purchase Order</li>
                         <li>Inward Item Validation/Confirmation</li>
@@ -192,7 +203,7 @@
                 </div>
 
                 <div class="col-4">
-                    <i>PURCHASE ACCOUNTS ENTRY</i>
+                <a href="#mb-5"> <i><b>PURCHASE ACCOUNTS ENTRY</b></i></a>
                     <ul type=disc>
                         <li>GST Accounting</li>
                         <li>GRN Control Reverse Entry</li>
@@ -202,7 +213,7 @@
                 </div>
 
                 <div class="col-4">
-                    <i>SUPPLIER PAYMENT/OUTSTANDING</i>
+                <a href="#mb-5"><i><b>SUPPLIER PAYMENT/OUTSTANDING</b></i></a>
                     <ul type=disc>
                         <li>Bill To Bill Settlement</li>
                         <li>Payable Age wise</li>
@@ -211,7 +222,7 @@
                 </div>
 
                 <div class="col-4">
-                    <i>PURCHASE RETURN/DEBIT NOTE</i>
+                <a href="#mb-5"><i><b>PURCHASE RETURN/DEBIT NOTE</b></i></a>
                     <ul type=disc>
                         <li>Return against Purchase/GR Note</li>
                         <li>Accounting & Inventory update</li>
@@ -220,7 +231,7 @@
                 </div>
 
                 <div class="col-4">
-                    <i>REGISTERS</i>
+                <a href="#mb-5"> <i><b>REGISTERS</b></i></a>
                     <ul type=disc>
                         <li>Purchase Item/Supplier/Brand/Tax wise</li>
                         <li>Purchase – GST Registers</li>
@@ -238,6 +249,9 @@
             </div>
         </div>
     </section>
+<!-- ....................x--------------------------------------x--------------------------------------------------x................... -->
+
+<!-- ....................................SECTION_3_STARTS........................... -->
 
     <section class="mb-5" id="PRODUCTION">
         <div class="container">
@@ -248,6 +262,7 @@
                 </div> -->
                 
                 <div class="col-4">
+                <i></i>
                     <ul type=circle>
                         <li>ORDER MANAGEMENT(Customer/Branch/Stores)</li>
                         <li>RAW MATERIAL/PACKING MATERIAL ACCRUAL</li>
@@ -256,12 +271,12 @@
                         <li>BILL OF MATERIAL FOR FINISHED GOODS</li>
                         <li>PRODUCTION ORDER</li>
                         <li>PRODUCTION BATCH CREATION, PROCESS TIME SCHEDULE</li>
-                       
+                    </a>  
                     </ul>
                 </div>
 
                 <div class="col-4">
-                    <i>○ REPORTS</i>
+                    <a href="#mb-5"><i><b>REPORTS</b></i></a>
                     <ul type=disc>
                         <li>Raw material Register</li>
                         <li>Production Order Register</li>
@@ -280,7 +295,7 @@
                 </div>
 
                 <div class="col-4">
-                    <i>○ Register/Report General Options</i>
+                <a href="#mb-5"><i><b> Register/Report General Options</b></i></a>
                     <ul type=disc>
                         <li>Register Create/Modify and column ordering</li>
                         <li>Report Filter option</li>
@@ -293,174 +308,110 @@
                 </div>
         </div>
     </section>
+<!-- ...............................x---------------------------x-------------------------------x............................... -->
+
+
+<!-- ...............................................SECTION_4_STARTS...................................... -->
+
+    <section class="mb-5" id="PRODUCTION">
+        <div class="container">
+            <h1 class="pb-3 mb-2 text-center">SALES</h1>
+            <div class="row">
+                <!-- <div class="image col-4">
+                    <img src="assets/images/" class="col-12 p-0">
+                </div> -->
+                
+                <div class="col-4">
+                <a href="#mb-5"><i><b>CUSTOMER LIST</b></i></a>
+                    <ul type=disc>
+                        <li>ADDRESS/CONTACT DETAILS</li>
+                        <li>CUSTOMER GROUP/SEGMENT</li>
+                        <li> AREA/SALES MAN</li>
+                        <li>CREDIT LIMIT</li>
+                        <li>PRICING</li>
+                       
+                    </ul>
+                </div>
+
+
+                
+                <div class="col-4">
+                <a href="#mb-5"> <i><b>BILLING</b></i></a>
+                    <ul type=disc>
+                        <li> Bill Format designer (Thermal/Dot matrix/Laser)</li>
+                        <li>Billing based on pricing</li>
+                        <li>Item/Bill wise Profit calculation</li>
+                        <li>Quantity volume discount</li>
+                        <li>Salesman Incentive Plan</li>
+                    </ul>
+                </div>
+
+
+                <div class="col-4">
+                <a href="#mb-5"><i><b>RECEIVABLE REPORTS</b></i></a>
+                    <ul type=disc>
+                        <li> Receivables Ageing</li>
+                        <li>Receivables Summary</li>
+                        <li>SMS/Email Reminders for due amount</li>
+                        <li>Settlement Report – Against Bills/Against Receipts</li>
+                        <li>Area/Salesman/Location wise Outstanding</li>
+                    </ul>
+                </div>
+
+
+
+                <div class="col-4">
+                <a href="#mb-5"> <i><b>SALES REGISTER</b></i></a>
+                    <ul type=disc>
+                        <li> Sales Summary/Detailed –Item/ Group/Category/Brand</li>
+                        <li>Sales Summary/Detailed – Cash/Credit/Cards</li>
+                        <li>Sales GST Register</li>
+                        <li>Sales Summary/Detailed – User Wise</li>
+                        <li>Sales Summary/Detailed – Salesman/Daily/Periodical</li>
+                        <li>Profitability Register – Item/Group/Brand </li>
+                    </ul>
+                </div>
+
+
+                <div class="col-4">
+                <a href="#mb-5">  <i><b>SALES RETURN/CREDIT NOTE</b></i></a>
+                    <ul type=disc>
+                        <li>Return against sales</li>
+                    </ul>
+                </div>    
+
+                <div class="col-4">
+                <a href="#mb-5"> <i><b>Retail POS Module (Optional)</b></i></a>
+                </div>   
+
+                <div class="col-4">
+                <a href="#mb-5"> <i><b>CUSTOMER ENQUIRY</b></i></a>
+                </div>
+               <br/><br/><br/>
+
+                <div class="col-4">
+                <a href="#mb-5"><i><b>QUOTATION</b></i></a>
+                </div>
+
+                <div class="col-4">
+                <a href="#mb-5"> <i><b>FOLLOW UP</b></i></a>
+                </div>
+
+                <div class="col-4">
+                <a href="#mb-5"> <i><b>ORDER CONFIRMATION</b></i></a>
+                </div>
+
+                <div class="col-4">
+                <a href="#mb-5"> <i><b> GOODS DELIVERY NOTE</b></i></a>
+                </div>
+                    
+
+        </div>
+    </section>
+<!-- .......................................X...........................X.................................X.............-->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
-
-
-
-
+<!-- ..........................................SECTION_5_STARTS................................-->
 
     <section class=" invent pt-5 pb-5" style="background-color: #038fe8;">
         <div class="container">
@@ -505,27 +456,13 @@
     
         </section>
 
+<!--x....................x...................................X-- -->
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- .................................SECTION_6_STARTS........................... -->
 
 
     <section class="pt-5 pb-5" style="background:#e5e5e5;">
@@ -783,30 +720,18 @@
             </div>
             </section>
 
+<!-- ....................................................X..............X....................X....................... -->
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!-- .......................SECTION_7_STARTS.......................... -->
 
 
             <section class="quarto-ser pt-5 pb-5">
         <div class="container">
         <div class="row text-left">
         	
-            <h1 class="white">
-                Successful engagement model with different teams within your company:
-            </h1>
                     
             <div class="col-md-3 mt-5">
             	
@@ -856,7 +781,7 @@
                         <li>GST Management (Input & Output)</li>
                         <li>GSTR 1</li>
                         <li>GSTR 3 B</li>
-                        <li>B2B/B2CS/B2CL/CDNR/CDNUR/EXP/AT/ATADJ/EXEMP/HSN Reports</li>
+                        <li>B2B/B2CS/B2CL/CDNR/CDNUR/EXP/<br/>AT/ATADJ/EXEMP/HSN Reports</li>
                         <li>VAT Accounting</li>
                         <li>TDS
                 </ul>
@@ -891,108 +816,9 @@
         </section>
         
 
+<!-- ..........X.........X......X.......... -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- .......................SECTION_8_STARTS.................. -->
 
     <section class="mt-5 mb-5">
         <div class="container">
@@ -1071,10 +897,11 @@
 
 
 
+<!-- ...X............X.............X -->
 
 
 
-
+<!--.............. SECTION_9.................... -->
 
     <section class=" qcrm pt-5 pb-5" style="background-color: #e5e5e5;">
         <div class="container">
@@ -1187,27 +1014,10 @@
         </section>
 
 
+<!-- ..............X...........X...........X........... -->
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- .................SECTION_10................ -->
 
 
 
@@ -1344,51 +1154,12 @@
        
             
       
+<!-- .................X...................X..............X -->
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- FOOTER_SECTION -->
 
 
 

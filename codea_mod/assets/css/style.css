@@ -1623,5 +1623,5 @@ input.gsc-input, input.gsc-input::placeholder { font-size:20px !important;}
 
 .hrms_banner {background: url(../images/hrms2.jpg) no-repeat bottom center; background-size: cover; width:100%; padding:10% 0;}
 
-
+.row a:hover{color:#f1585d;}   
 
