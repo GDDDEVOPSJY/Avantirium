@@ -5,9 +5,9 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>Codea More Services</title>
+        <title>Codea More Solutions</title>
 
-<meta name="description" content="More services offered by Codea Technologies">
+<meta name="description" content="More solutions offered by Codea Technologies">
         <link rel="shortcut icon" href="assets/images/codea-icon.png" type="ima">
         
         <!-- CSS -->
@@ -71,7 +71,7 @@
   <div class="col-12 col-md-5 col-lg-5 m-4">
     <div class="card">
     <div class="card-img">
-      <img src="assets/images/ecommerce_bg.jpg" class="card-img-top" alt="...">
+      <img src="assets/images/document-sol.jpg" class="card-img-top" alt="...">
     </div>
       <div class="card-body">
       <h3 class="black">DOCUMENT MANAGEMENT SYSTEM</h3>
@@ -86,7 +86,7 @@
   <div class="col-12 col-md-5 col-lg-5 m-4">
     <div class="card">
     <div class="card-img">
-      <img src="assets/images/it_infrastructure_bg.jpg" class="card-img-top" alt="..." >
+      <img src="assets/images/oxive-sol.jpg" class="card-img-top" alt="..." >
     </div>
       <div class="card-body">
       <h3 class="black">CODEA OXIVE-READY MIX</h3>
@@ -101,7 +101,7 @@
   <div class="col-12 col-md-5 col-lg-5 m-4">
     <div class="card">
       <div class="card-img">
-        <img src="assets/images/sap_implementation_bg.jpg" class="card-img-top" alt="...">
+        <img src="assets/images/scm-sol.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
       <h3 class="black">QUIQ SCM</h3>
@@ -113,26 +113,12 @@
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-5 col-lg-5 m-4">
-    <div class="card">
-    <div class="card-img">
-      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
-    </div>
-      <div class="card-body">
-      <h3 class="black">QUIQ SCM WEB &amp; MOBILE APPS</h3>
-                <p class="card-p">
-                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
-                <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-scm-app">Read more <i class="fas fa-chevron-right"></i></a>
-                </p>
-      </div>
-    </div>
-  </div>
+  
 
   <div class="col-12 col-md-5 col-lg-5 m-4">
     <div class="card">
     <div class="card-img">
-      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
+      <img src="assets/images/pharma-sol.jpg" class="card-img-top" alt="...">
     </div>
       <div class="card-body">
       <h3 class="black">QUIQ PHARMA</h3>
@@ -148,12 +134,12 @@
   <div class="col-12 col-md-5 col-lg-5 m-4">
     <div class="card">
     <div class="card-img">
-      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
+      <img src="assets/images/office-sol.jpg" class="card-img-top" alt="...">
     </div>
       <div class="card-body">
       <h3 class="black">QUIQ OFFICE</h3>
                 <p class="card-p">
-                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
+               We offer an Office Automation system to Streamline back office operations and improve efficiency
                 <br><br>
                     <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-office">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
@@ -164,7 +150,7 @@
   <div class="col-12 col-md-5 col-lg-5 m-4">
     <div class="card">
     <div class="card-img">
-      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
+      <img src="assets/images/hrms-sol.jpg" class="card-img-top" alt="...">
     </div>
       <div class="card-body">
       <h3 class="black">QUIQ HRMS</h3>
@@ -176,6 +162,55 @@
       </div>
     </div>
   </div>
+
+  <div class="col-12 col-md-5 col-lg-5 m-4">
+    <div class="card">
+    <div class="card-img">
+      <img src="assets/images/oxive-sol.jpg" class="card-img-top" alt="..." >
+    </div>
+      <div class="card-body">
+      <h3 class="black">RETAIL SOLUTIONS</h3>
+                <p class="card-p">
+                ERP for retail helps retailers manage their businesses.    
+                <br><br>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/codea-oxive">Read more<i class="fas fa-chevron-right"></i></a>
+                </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-5 col-lg-5 m-4">
+    <div class="card">
+    <div class="card-img">
+      <img src="assets/images/oxive-sol.jpg" class="card-img-top" alt="..." >
+    </div>
+      <div class="card-body">
+      <h3 class="black">HOSPITALITY SOLUTIONS</h3>
+                <p class="card-p">
+                Hospitality Solutions comes with integrated reservations systems.
+                <br><br>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/codea-oxive">Read more<i class="fas fa-chevron-right"></i></a>
+                </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-5 col-lg-5 m-4">
+    <div class="card">
+    <div class="card-img">
+      <img src="assets/images/oxive-sol.jpg" class="card-img-top" alt="..." >
+    </div>
+      <div class="card-body">
+      <h3 class="black">FLEET MANAGEMENT</h3>
+                <p class="card-p">
+                Our Software helps companies to overcome the industrial challenge.
+                <br><br>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/codea-oxive">Read more<i class="fas fa-chevron-right"></i></a>
+                </p>
+      </div>
+    </div>
+  </div>
+
 </div>
 </div>
 
