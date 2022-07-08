@@ -78,7 +78,7 @@
                 <p class="card-p">
                 We offer a secure, easy to use document management system designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing.
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/e-commerce-development">Read more <i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/document-management-system">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -93,7 +93,7 @@
                 <p class="card-p">
                 This ERP application is designed to integrate all end-to-end functional departments of any Ready mix Factory operations.    
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/it-infrastructure">Read more<i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/codea-oxive">Read more<i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -108,7 +108,7 @@
                 <p class="card-p">
                 We have Digital solutions designed specifically to automate supply chain execution for direct materials
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/sap-implementation">Read more <i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-scm">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -123,7 +123,7 @@
                 <p class="card-p">
                 We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-scm-app">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -137,9 +137,9 @@
       <div class="card-body">
       <h3 class="black">QUIQ PHARMA</h3>
                 <p class="card-p">
-                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
+                The Pharmacy & Clinic management system can be implemented in a single pharmacy, a chain of pharmacies or clinics and small hospitals.
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-pharma">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -155,7 +155,7 @@
                 <p class="card-p">
                 We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-office">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -169,9 +169,9 @@
       <div class="card-body">
       <h3 class="black">QUIQ HRMS</h3>
                 <p class="card-p">
-                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
+                HR and Payroll management system with capability to managae mutiple modules like employee management, attendance management, leave management, etc.
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-hrms">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
