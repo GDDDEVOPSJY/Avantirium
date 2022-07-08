@@ -41,7 +41,6 @@
                         <h1> QUIQ - OFFICE</h1>
                         <h2>
                         Office Automation System
-
                 </h2>
 
                     </div>

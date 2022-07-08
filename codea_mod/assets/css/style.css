@@ -785,6 +785,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .hrms-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
 .hrms-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
 
+.solutions-banner {background: url(../images/hrms-banner-img.jpg) no-repeat bottom center; width:100%; padding:12% 0;}
+.solutions-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+
+
+
 
 
 

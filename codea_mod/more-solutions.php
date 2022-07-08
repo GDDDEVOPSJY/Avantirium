@@ -27,15 +27,15 @@
         <?php include('header.php'); ?>
         
         
-        <section class="sd-banners">
+        <section class="solutions-banner">
         <div class="container">
         <div class="row">	
         	
             <div class="col-md-6">
-            <div class="sd-head">
+            <div class="solutions-head">
             	
                
-                <h1>MORE SERVICES...</h1>
+                <h1>MORE-SOLUTIONS...</h1>
 
             </div>
             </div>
@@ -49,19 +49,23 @@
         	
             <div class="sd-services mt-5">
               
-                <h1 class="pb-3 mt-5">OUR SERCIVES</h1>
-                <p class="mb-5">
-                	Apart from the vast services, these are some of the other services that we offer.
-                </p>
+                <h1 class="pb-3 mt-5 codea-color2" style="font-size:40px;">OUR SOLUTIONS</h1>
+            
                 
             </div>
             
         </div>
         </section>
-        
-      
 
-<div class="container mt-5">
+
+
+
+
+
+
+
+
+        <div class="container mt-5">
 
 <div class="row row-cols-1 row-cols-md-4 g-4 justify-content-center">
   <div class="col-12 col-md-5 col-lg-5 m-4">
@@ -70,9 +74,9 @@
       <img src="assets/images/ecommerce_bg.jpg" class="card-img-top" alt="...">
     </div>
       <div class="card-body">
-      <h3 class="black">E-COMMERCE</h3>
+      <h3 class="black">DOCUMENT MANAGEMENT SYSTEM</h3>
                 <p class="card-p">
-                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
+                We offer a secure, easy to use document management system designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing.
                 <br><br>
                     <a class="menu-more-links" href="https://www.codeatechnologies.com/e-commerce-development">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
@@ -85,9 +89,9 @@
       <img src="assets/images/it_infrastructure_bg.jpg" class="card-img-top" alt="..." >
     </div>
       <div class="card-body">
-      <h3 class="black">IT INFRASTRUCTURE MANAGEMENT</h3>
+      <h3 class="black">CODEA OXIVE-READY MIX</h3>
                 <p class="card-p">
-                We offer Managed IT services designed to enhance and strengthen your technology strategy and extend your team’s capabilities .    
+                This ERP application is designed to integrate all end-to-end functional departments of any Ready mix Factory operations.    
                 <br><br>
                     <a class="menu-more-links" href="https://www.codeatechnologies.com/it-infrastructure">Read more<i class="fas fa-chevron-right"></i></a>
                 </p>
@@ -100,9 +104,9 @@
         <img src="assets/images/sap_implementation_bg.jpg" class="card-img-top" alt="...">
       </div>
       <div class="card-body">
-      <h3 class="black">SAP IMPLEMENTATION</h3>
+      <h3 class="black">QUIQ SCM</h3>
                 <p class="card-p">
-                We follow a proven SAP methodology and practices to help companies plan, manage and execute their SAP implementation flawlessly.
+                We have Digital solutions designed specifically to automate supply chain execution for direct materials
                 <br><br>
                     <a class="menu-more-links" href="https://www.codeatechnologies.com/sap-implementation">Read more <i class="fas fa-chevron-right"></i></a>
                 </p>
@@ -115,7 +119,55 @@
       <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
     </div>
       <div class="card-body">
-      <h3 class="black">ERP CUSTOMIZATION</h3>
+      <h3 class="black">QUIQ SCM WEB &amp; MOBILE APPS</h3>
+                <p class="card-p">
+                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
+                <br><br>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-5 col-lg-5 m-4">
+    <div class="card">
+    <div class="card-img">
+      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
+    </div>
+      <div class="card-body">
+      <h3 class="black">QUIQ PHARMA</h3>
+                <p class="card-p">
+                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
+                <br><br>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-5 col-lg-5 m-4">
+    <div class="card">
+    <div class="card-img">
+      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
+    </div>
+      <div class="card-body">
+      <h3 class="black">QUIQ OFFICE</h3>
+                <p class="card-p">
+                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
+                <br><br>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-md-5 col-lg-5 m-4">
+    <div class="card">
+    <div class="card-img">
+      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
+    </div>
+      <div class="card-body">
+      <h3 class="black">QUIQ HRMS</h3>
                 <p class="card-p">
                 We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
                 <br><br>
@@ -129,60 +181,7 @@
 
 
 
-<section class="etoe-sd">
-        <div class="container">
-        	
-            <h1>Quick Links</h1>
-            
-            <div class="etoe-sd-content">
-            	
-                
-                <hr>
-                
-                <div class="tab-content mt-5" id="myTabContent">
-                
-                    <div class="tab-pane fade show active" id="dd" role="tabpanel" aria-labelledby="home-tab">
-                    <div class="row">
-                        
-                        
-
-                        <div class="col-md-6">
-                            
-                           <ul>
-                           <li><a href="https://www.codeatechnologies.com/cloud-consulting">Cloud Consulting</a></li>
-                           <li><a href="https://www.codeatechnologies.com/devops">DevOps</a></li>
-                           <li><a href="https://www.codeatechnologies.com/artificial-intelligence">Artificial Intelligence</a></li>
-                           <li><a href="https://www.codeatechnologies.com/data-science-consulting">Data Science Consulting</a></li>
-                           <li><a href="https://www.codeatechnologies.com/robotic-process-automation">Robotic Process Automation</a></li>
-            	           <li><a href="https://www.codeatechnologies.com/software-development">Custom Software Development</a></li>
-                           </ul>
-                            
-                        </div>
-                        
-                        
-                        <div class="col-md-6 border-left">
-                            
-                            <ul>
-                            <li><a href="https://www.codeatechnologies.com/internet-of-things">Internet of Things</a></li>
-                            <li><a href="https://www.codeatechnologies.com/mobile-app-development">Mobile App Development</a></li>
-                            <li><a href="https://www.codeatechnologies.com/system-reengineering">System Reengineering</a></li>
-                            <li><a href="https://www.codeatechnologies.com/software-application-maintenance">Application Maintenance</a></li>   
-                            <li><a href="https://www.codeatechnologies.com/software-testing-services">Software Testing</a></li>
-                            <li><a href="https://www.codeatechnologies.com/staff-augmentation">Staff Augmentation</a></li>
-                            </ul>
-                            
-                        </div>
-                        
-                    </div>
-                    </div>
-</div>
-</div>
-</div>
-                    
-                    
-        </section>
-            
-        
+         
         <?php include('footer.php'); ?>
         
         <!-- JAVASCRIPT -->

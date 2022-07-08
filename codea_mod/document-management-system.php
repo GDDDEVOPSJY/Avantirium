@@ -52,7 +52,7 @@
                 Introduction
                 </h1>
                 <p class="black text-justify mb-1">    
-                Codea DMS is a secure, easy to use document manage ment system designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. Codea DMS adapts to any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. With a very user friendly interface available in multi languages, Codea DMS is the smart and flexible choice.
+                Codea DMS is a secure, easy to use document management system designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. Codea DMS adapts to any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users. With a very user friendly interface available in multi languages, Codea DMS is the smart and flexible choice.
                 </p>
                 
             </div>

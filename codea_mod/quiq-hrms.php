@@ -5,9 +5,9 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Codea Quarto-ERP</title>
+    <title>Codea Quiq HRMS</title>
 
-    <meta name="description" content="Codea Quarto ERP">
+    <meta name="description" content="HR anD Payroll Management System">
     <link rel="shortcut icon" href="assets/images/codea-icon.png" type="ima">
 
     <!-- CSS -->
@@ -43,7 +43,6 @@
             
         </div>
  </section>
-
 
  <section class="mt-5 mb-5">
         <div class="container">
@@ -132,9 +131,7 @@
                     <p>	
                     Various allowances given to employees and the applicable deductions will be calculated by the system based on the attendance for a particular period and the employee’s salary calculation method. 
                     </p>
-                
-                
-                    
+                                   
                 </div>
                 
             </div>
@@ -178,10 +175,6 @@
                         <li>Branch incentives
                         <li>Production incentives
                     </ul>
-
-                   
-                
-                
                     
                 </div>
                 
@@ -210,9 +203,6 @@
         </div>
         </section>
                 
-
-
-
 <?php include('footer.php'); ?>
 
     
