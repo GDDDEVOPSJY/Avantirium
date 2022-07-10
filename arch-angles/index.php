@@ -50,10 +50,53 @@
         </section>
 
         <section id="about">
-
+            <h1 class="main-head"> ABOUT US</h1>
+            <p>At Primo Consulting & Contracting, we are passionate of anything that takes to make an 
+        Architectural Building. Primo's flexibility to mobilize the right people to deliver unique 
+        construction solutions; an unwavering focus on delivering value to your business bottom line; 
+        and the capability to leverage innovation to meet emerging challenges and keep you at the fore 
+        are its core.</p>
+        <h4>Commitment stands with Quality</h4>
+        <p>As a contracting company, we provide the best quality of services 
+        that starts from design to material to execution.Primo's superior and 
+        experienced network of resources helps complete challenging projects 
+        well within timeframes and expectations.Most importantly, our clients 
+        are of highest priority. Obviously, all projects are meticulously 
+        planned and monitored enroute the journey that we ensure and derives 
+        pleasure and delight for the investor. This is Primo Consulting and 
+        Contracting.</p>
         </section>
 
         <section id="services">
+        <h1 class="main-head"> OUR SERVICES</h1>
+        <h2>Architectural Building & Civil Construction</h2>
+        <p>Primo CC believes that, Excellent structures are an important 
+        part of our quality of life. While, high quality structures mark a 
+        positive contribution to the culture of the building and also 
+        satisfies ourselves. Architectural Buildings are specialised works 
+        with detailing and large quantums of planning. Execution of work with 
+        specific materials are always a challenge and needs experience. We 
+        have a team of highly skilled professionals backed by equipments to 
+        execute the project in a tight timelines.</P>
+        <a href="#">Learn more</a>
+
+       
+        <h2>Pre-Engineered Buildings</h2>
+        <p>PEB is relatively a new concept in India however with the technological 
+        advancement, escalating labour cost and un-certainities, PEB has become 
+        quite a convenient and long term option in the building industry. These 
+        buildings are cost effective and helps an investor to with fast returns 
+        on investment in the least possible time.</P>
+        <a href="#">Learn more</a>
+
+
+        <h2>Glass Facade & Exterior Solutions</h2>
+        <p>PEB is relatively a new concept in India however with the technological 
+        advancement, escalating labour cost and un-certainities, PEB has become 
+        quite a convenient and long term option in the building industry. These 
+        buildings are cost effective and helps an investor to with fast returns 
+        on investment in the least possible time.</P>
+        <a href="#">Learn more</a>
 
         </section>
 
