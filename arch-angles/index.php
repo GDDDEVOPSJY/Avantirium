@@ -173,7 +173,7 @@
         </section>
 
         <section id="build-wu">
-            <div>
+            <div class="picture">
                <h1>Ready to work together?</h1>
                <p>Our interests, profiles and credentials with a very clear 
                 understanding for deliverables <br>to clients will surely make you 
