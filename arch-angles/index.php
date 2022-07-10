@@ -141,11 +141,26 @@
         on investment in the least possible time.</P>
         <a href="#">Learn more</a>
 
-
-
         </section>
 
         <section id="why-us">
+            <h1> WE THINK AND WORK FOR YOU </h1>
+            <h2> Design, Procure & Build</h2>
+            <p>Our Design Team is a young experienced and enthusiastic professional team of 
+                architects who have worked on large and medium sized projects. The work comprises 
+                of Commercial, Industrial, Residential and Hospitality projects. We work from the 
+                concept stage of visualising the client requirement and suitably detailing it. 
+                We categorise our architectural and designing scope for the complete structure to 
+                the most minute detail for your interiors. We are well versed with the Building 
+                rules as notified by the state governments.Procurement plays the most important 
+                aspect of designing a project, cost & budget and timely availability onsite. 
+                We source material from various countries depending on the project needs. 
+                Products from Indian states are vastly used and recommended in our projects. 
+                We directly work with the manufacturers to obtain best competitive rates. 
+                Usually our projects have custom built solutions and hence an eye-for-detailing 
+                and procurement is a must. We at Primo Consulting & Contracting are enthusiastic 
+                in creating specialised buildings and structures that are distinct in design in 
+                complex and specific architecture.
 
         </section>
 
@@ -156,6 +171,25 @@
         <section id="contact">
 
         </section>
+
+        <section id="build-wu">
+            <div>
+               <h1>Ready to work together?</h1>
+               <p>Our interests, profiles and credentials with a very clear 
+                understanding for deliverables <br>to clients will surely make you 
+                consider us. Let's discuss and find an opportunity. <br>
+                This is Primo Consulting & Contracting.</p>
+                <button>bulid with us</button>
+
+
+            </div>
+        
+        <div></div>
+
+        </section>
+
+
+
     </div>
     <!-- FOOTER -->
     <?php include("partials/footer.php"); ?>
