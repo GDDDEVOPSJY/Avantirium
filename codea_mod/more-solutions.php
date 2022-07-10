@@ -173,7 +173,7 @@
                 <p class="card-p">
                 ERP for retail helps retailers manage their businesses.    
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/codea-oxive">Read more<i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/retail-erp-software-solutions">Read more<i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -189,7 +189,7 @@
                 <p class="card-p">
                 Hospitality Solutions comes with integrated reservations systems.
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/codea-oxive">Read more<i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/hospitality-management-pos-softwares">Read more<i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>
@@ -205,7 +205,7 @@
                 <p class="card-p">
                 Our Software helps companies to overcome the industrial challenge.
                 <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/codea-oxive">Read more<i class="fas fa-chevron-right"></i></a>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more<i class="fas fa-chevron-right"></i></a>
                 </p>
       </div>
     </div>

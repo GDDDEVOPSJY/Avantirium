@@ -567,6 +567,58 @@
             </div>
             </section>
 
+
+            <section class="pt-5 pb-5">
+        <div class="container">
+        <div class="row justify-content-around">
+        	
+            
+            <div class="col-md-4">
+            <div class="case-studies" style="height:360px;">
+                
+                <img src="assets/images/case-studies/e-wallet-case.jpg" alt="" />
+                <div>
+                <a href="case-study-e-wallet.php">
+                    
+                    
+                    <div class="case-heading">
+                        E-wallet-Digital Wallet Platform
+                    </div>
+                    <br>
+                    <div class="case-desc">
+                    A white labelled ready to use platform with certified security and uptime guarantee with various functionalities. 
+                    </div>
+                </a>
+                </div>
+                
+            </div>
+            </div>
+            
+            <div class="col-md-4">
+            <div class="case-studies" style="height:360px;">
+                
+                <img src="assets/images/case-studies/smart-safe-case.jpg" alt="" />
+                <div>
+                <a href="case-study-smart-safe.php">
+            
+                    
+                    <div class="case-heading">
+                        Smart-Safe-Audit Management System
+                    </div>
+                    <br>
+                    <div class="case-desc">
+                    Smart Audit provides a new experience of auditing, completely taking away the hassles of the traditional audit management.
+                    </div>
+                </a>
+                </div>
+                
+            </div>
+            </div>
+            
+        </div>
+        </div>
+        </section>
+
         <?php include('footer.php'); ?>
         
         <!-- JAVASCRIPT -->

@@ -62,7 +62,7 @@
                 
                 <div class="col-md-6 text-center">
                 	
-                    <img src="assets/images/svg/hrms-1.svg" alt="air frieght management software Georgia, Phoenix" class="img-fluid perspective-round-img mt-5" />
+                    <img src="assets/images/svg/hrms-1.svg" alt="" class="img-fluid perspective-round-img mt-5" />
                     
                 </div>
                 
@@ -109,7 +109,7 @@
                 
                 <div class="col-md-6 text-center">
                 	
-                    <img src="assets/images/svg/hrms-3.svg" alt="logistics softwares in Georgia, Phoenix" class="img-fluid perspective-round-img mt-5" />
+                    <img src="assets/images/svg/hrms-3.svg" alt="" class="img-fluid perspective-round-img mt-5" />
                     
                 </div>
                 
@@ -121,7 +121,7 @@
             	
                 <div class="col-md-6 text-center">
                 	
-                    <img src="assets/images/svg/hrms-4.svg" alt="ware house management softwares in Georgia, Phoenix" class="img-fluid perspective-round-img" />
+                    <img src="assets/images/svg/hrms-4.svg" alt="" class="img-fluid perspective-round-img" />
                     
                 </div>
                 
@@ -149,7 +149,7 @@
                 
                 <div class="col-md-6 text-center">
                 	
-                    <img src="assets/images/svg/hrms-5.svg" alt="logistics softwares in Georgia, Phoenix" class="img-fluid perspective-round-img mt-5" />
+                    <img src="assets/images/svg/hrms-5.svg" alt="" class="img-fluid perspective-round-img mt-5" />
                     
                 </div>
                 
@@ -160,7 +160,7 @@
             	
                 <div class="col-md-6 text-center">
                 	
-                    <img src="assets/images/svg/hrms-6.svg" alt="ware house management softwares in Georgia, Phoenix" class="img-fluid perspective-round-img" />
+                    <img src="assets/images/svg/hrms-6.svg" alt="" class="img-fluid perspective-round-img" />
                     
                 </div>
                 
@@ -193,7 +193,7 @@
                 
                 <div class="col-md-6 text-center">
                 	
-                    <img src="assets/images/svg/hrms-7.svg" alt="logistics softwares in Georgia, Phoenix" class="img-fluid perspective-round-img mt-5" />
+                    <img src="assets/images/svg/hrms-7.svg" alt="" class="img-fluid perspective-round-img mt-5" />
                     
                 </div>
                 

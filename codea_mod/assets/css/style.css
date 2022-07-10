@@ -235,7 +235,7 @@ footer .third { background-color:#cfcfcf}
 .solutions_btn{
 	background-color: #f1585d;
 	color: white;
-	padding: 4px;
+	padding: 8px;
 	border: none;
 	
 
@@ -719,6 +719,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 
 
 
+
 .oxive-banner{background: url(../images/oxive-banner-img.jpg) no-repeat bottom center; width: 100%; padding: 10% 0;}
 .oxive-modules h2 { text-transform:uppercase; letter-spacing:1px; text-align:center; margin-bottom:15px;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffffff+0,d8d8d8+50,ffffff+100 */
@@ -782,6 +783,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 .solutions-banner {background: url(../images/more-solutions-banner-img.jpg) no-repeat bottom center; width:100%; padding:8% 0;}
 .solutions-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
 
+
+.smart-banner {background: url(../images/smart-safe-banner-img.jpg) no-repeat bottom center; width:100%; padding:10% 0;}
+.smart-head h2 { color:#FFF; font-size:30px; text-shadow:5px 5px 5px #000;} 
+.smart-head h1 { color:#FFF; font-size:55px;  text-shadow:5px 5px 5px #000;}
+.smart-about { padding:20px 0;}
+.smart-about h1 { margin-bottom:15px;}
+.smart-safe-adv h2:hover{color: #f1585d;}
+.smart-adv { background: #f1585d;}
+.smart-adv-content { color:#FFF;}
+.smart-adv-content h1 { margin-bottom:15px; color: white; font-weight:bold;}
+.smart-adv-content li { font-size: 20px;}
+.smart-ben { background: #038fe8;}
+.smart-ben-content { color:#FFF;}
+.smart-ben-content h1 { margin-bottom:15px; color: white; font-weight:bold;}
+.smart-ben-content li { font-size: 20px;}
 
 
 

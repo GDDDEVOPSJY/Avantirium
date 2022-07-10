@@ -406,7 +406,7 @@
                 <div class="row mt-4 mb-1 ml-2">
 
                     <div class="col-md-2 text-right">
-                        <img src="assets/images/svg/retail-icon.svg" alt="" style="outline:none; width:50%;">
+                        <img src="assets/images/quarto-icon.png" alt="" style="outline:none; width:60%;">
                     </div>
 
                     <div class="col-md-10 pl-0">
@@ -416,7 +416,7 @@
                             A complete ERP solution for Manufacturing, Distributing and Service companies.
                         </h2>
 
-                        <a class="menu-more-link" href="https://www.codeatechnologies.com/retail-erp-software-solutions">Read more <i class="fas fa-chevron-right"></i></a>
+                        <a class="menu-more-link" href="https://www.codeatechnologies.com/quarto-erp">Read more <i class="fas fa-chevron-right"></i></a>
 
                     </div>
 
@@ -425,7 +425,7 @@
                 <div class="row mt-3 mb-1 ml-0">
 
                     <div class="col-md-2 text-right">
-                        <img src="assets/images/svg/hospitality-icon.svg" alt="" style="outline:none; width:50%;">
+                        <img src="assets/images/treat-icon.png" alt="" style="outline:none; width:60%;">
                     </div>
 
                     <div class="col-md-10 pl-0">
@@ -435,7 +435,7 @@
                             An integrated cloud based plug and play to reduce the manual work in an OPD of hospitals/clinics.
                         </h2>
 
-                        <a class="menu-more-link" href="https://www.codeatechnologies.com/hospitality-management-pos-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                        <a class="menu-more-link" href="https://www.codeatechnologies.com/codea-treat">Read more <i class="fas fa-chevron-right"></i></a>
 
                     </div>
 
@@ -444,7 +444,7 @@
                 <div class="row mt-3 ml-0">
 
                     <div class="col-md-2 text-right">
-                        <img src="assets/images/svg/automotive-icon.svg" alt="" style="outline:none; width:50%;">
+                        <img src="assets/images/cofis-icon.png" alt="" style="outline:none; width:60%;">
                     </div>
 
                     <div class="col-md-10 pl-0">
@@ -454,7 +454,7 @@
                             A Codea fintech software suite with Core Banking, Insurance, eWallet <br>solutions and Audit management system.
                         </h2>
 
-                        <a class="menu-more-link" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
+                        <a class="menu-more-link" href="https://www.codeatechnologies.com/safe-cheq">Read more <i class="fas fa-chevron-right"></i></a>
 
                     </div>
 
@@ -464,7 +464,7 @@
                 <div class="row mt-2 mb-1 ml-0">
                     <div class="col-md-2"></div>
                     <div class="col-md-10 pl-0">
-                        <a href="https://www.youtube.com">
+                        <a href="https://www.codeatechnologies.com/more-solutions">
                             <button class="solutions_btn mb-3">More Solutions</button>
                         </a>
 
