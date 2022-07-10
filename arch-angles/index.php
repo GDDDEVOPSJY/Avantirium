@@ -48,7 +48,7 @@
                 </div>
             </div>
         </section>
-
+        
         <section id="about">
             <h1 class="main-head"> ABOUT US</h1>
             <p>At Primo Consulting & Contracting, we are passionate of anything that takes to make an 
@@ -97,6 +97,51 @@
         buildings are cost effective and helps an investor to with fast returns 
         on investment in the least possible time.</P>
         <a href="#">Learn more</a>
+
+        <h2>Interiors & Space Management</h2>
+        <p>PEB is relatively a new concept in India however with the technological 
+        advancement, escalating labour cost and un-certainities, PEB has become 
+        quite a convenient and long term option in the building industry. These 
+        buildings are cost effective and helps an investor to with fast returns 
+        on investment in the least possible time.</P>
+        <a href="#">Learn more</a>
+
+
+        <h2>Lighting Solutions</h2>
+        <p>PEB is relatively a new concept in India however with the technological 
+        advancement, escalating labour cost and un-certainities, PEB has become 
+        quite a convenient and long term option in the building industry. These 
+        buildings are cost effective and helps an investor to with fast returns 
+        on investment in the least possible time.</P>
+        <a href="#">Learn more</a>
+
+
+        <h2>Indoor Walls & Cladding Solution</h2>
+        <p>PEB is relatively a new concept in India however with the technological 
+        advancement, escalating labour cost and un-certainities, PEB has become 
+        quite a convenient and long term option in the building industry. These 
+        buildings are cost effective and helps an investor to with fast returns 
+        on investment in the least possible time.</P>
+        <a href="#">Learn more</a>
+
+        <h2>Flooring Solutions</h2>
+        <p>PEB is relatively a new concept in India however with the technological 
+        advancement, escalating labour cost and un-certainities, PEB has become 
+        quite a convenient and long term option in the building industry. These 
+        buildings are cost effective and helps an investor to with fast returns 
+        on investment in the least possible time.</P>
+        <a href="#">Learn more</a>
+
+
+        <h2>Architecture & Design Solutions</h2>
+        <p>PEB is relatively a new concept in India however with the technological 
+        advancement, escalating labour cost and un-certainities, PEB has become 
+        quite a convenient and long term option in the building industry. These 
+        buildings are cost effective and helps an investor to with fast returns 
+        on investment in the least possible time.</P>
+        <a href="#">Learn more</a>
+
+
 
         </section>
 
