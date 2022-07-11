@@ -116,6 +116,7 @@
   .footer-menu ul li a:hover {
     color: #000000;
   }
+
   @media (max-width:500px) {
     .footer-menu ul {
       display: flex;
@@ -123,11 +124,13 @@
       margin-bottom: 20px;
     }
   }
+
   li {
     display: inline-block;
     margin: 0 10px;
 
   }
+
   .p {
     align-items: center;
     justify-content: center;
@@ -136,24 +139,24 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 </style>
-
-<footer>
-  <div class="footer-content">
-    <ul>
-      <li>Careers</li>
-      <li>Contacts</li>
+<!-- <div class="container"> -->
+  <footer>
+    <div class="footer-content">
+      <ul>
+        <li>Careers</li>
+        <li>Contacts</li>
+      </ul>
+    </div>
+    <ul class="socials">
+      <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+      <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+      <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+      <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+      <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
     </ul>
-  </div>
-  <ul class="socials">
-    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-    <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-    <li><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
-  </ul>
-  <p class="p">2nd Floor, Cafeteria Block,<br> Athulya Infopark, Kusumagiri, Kakkanad, Kochi, Kerala 682030</p>
-  </div>
-  <div class="footer-bottom">
-    <p class="pp">copyright &copy;2021 <a href="#">foolishdeveloper</a> </p>
-  </div>
-</footer>
+    <p class="p">2nd Floor, Cafeteria Block,<br> Athulya Infopark, Kusumagiri, Kakkanad, Kochi, Kerala 682030</p>
+    <div class="footer-bottom">
+      <p class="pp">copyright &copy;2021 <a href="#">foolishdeveloper</a> </p>
+    </div>
+  </footer>
+<!-- </div> -->

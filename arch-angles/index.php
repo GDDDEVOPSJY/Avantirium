@@ -112,17 +112,17 @@
         </section> -->
 
         <section id="build-wu">
-            <div class="picture container">
+            <div class="picture container mb-5">
                 <h1>Ready to work together?</h1>
                 <p>Our interests, profiles and credentials with a very clear understanding for deliverables
                     <br>to clients will surely make you consider us. Let's discuss and find an opportunity.
                     <br>This is Primo Consulting & Contracting.
                 </p>
-                <button>Bulid with us</button>
+                <a class="btn btn-primary">Bulid with us</a>
             </div>
         </section>
         <!-- FOOTER -->
-        <!-- <?php include("./partials/footer.php"); ?> -->
+        <?php include("./partials/footer.php"); ?>
     </div>
     <!-- ESSENTIAL SCRIPTS -->
     <?php include("./partials/scripts.php"); ?>
