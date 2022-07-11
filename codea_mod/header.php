@@ -31,6 +31,7 @@
                 <li><a href="https://www.codeatechnologies.com/software-testing-services">Software Testing</a></li>
                 <li><a href="https://www.codeatechnologies.com/staff-augmentation">Staff Augmentation</a></li>
                 <li><a href="https://www.codeatechnologies.com/more-services">More Services</a></li>
+                <li><a href="https://www.codeatechnologies.com/quiq-retail">Quiq Retail</a></li>
             </ul>
         </li>
         <li class="active">
@@ -49,6 +50,7 @@
                 <li><a href="https://www.codeatechnologies.com/codea-oxive">Codea Oxive</a></li>
                 <li><a href="https://www.codeatechnologies.com/quiq-scm">Quiq Scm</a></li>
                 <li><a href="https://www.codeatechnologies.com/quiq-pharma">Quiq Pharma</a></li>
+                <li><a href="https://www.codeatechnologies.com/adobe-marketing-suite">Adobe Marketing Suite</a></li>
                 <li><a href="https://www.codeatechnologies.com/more-solutions">More Solutions</a></li>
                 
             </ul>
@@ -287,8 +289,8 @@
 
                     <div class="col-md-4 item pt-3 pb-3">
                         <a href="https://www.codeatechnologies.com/adobe-marketing-suite">
-                            <img src="assets/images/svg/it_infrastructure.svg" alt="IT Infrastructure" class="icon-img" />
-                            <h3 class="white" style="font-size:14px;">IT<br>Infrastructure</h3>
+                            <img src="assets/images/adobe-icon.png" style="width: 40px;"  alt="IT Infrastructure" class="icon-img" />
+                            <h3 class="white" style="font-size:14px;">Adobe<br>Marketing Suite</h3>
                         </a>
                     </div>
 
@@ -307,7 +309,7 @@
                     </div>
 
                     <div class="col-md-4 item pt-3 pb-3">
-                        <a href="https://www.codeatechnologies.com/sap-implementation">
+                        <a href="https://www.codeatechnologies.com/quarto-erp">
                             <img src="assets/images/erp_icon.png" style="width: 40px;" alt="ERP Consulting" class="icon-img" />
                             <h3 class="white" style="font-size:14px;">ERP<br>Consulting</h3>
                         </a>

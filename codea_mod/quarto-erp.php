@@ -722,7 +722,7 @@
             	
                 <div class="quarto-ser-content">
                 
-                    <img src="assets/images/data-science-img-02.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-1.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">BUDGET</h4>
                    <ul>
                         <li>Accounts Budget</li>
@@ -739,7 +739,7 @@
             	
                 <div class="quarto-ser-content">
                     
-                    <img src="assets/images/data-science-img-03.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-2.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">COSTING</h4>
                 <ul>
                         <li>Cost Category (Expense/Revenue)</li>
@@ -756,7 +756,7 @@
             	
                 <div class="quarto-ser-content">
                     
-                    <img src="assets/images/data-science-img-04.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-3.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">DUTIES &amp; TAXES</h4>
                   
                 <ul>
@@ -780,7 +780,7 @@
             	
                 <div class="quarto-ser-content">
                     
-                    <img src="assets/images/data-science-img-04.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-4.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">COMMUNICATION</h4>
                     <ul>
                         <li>Communication tool between users.</li>

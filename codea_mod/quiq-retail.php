@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>ERP-Supermarket</title>
+        <title>QUIQ Retail</title>
 
 <meta name="description" content="ERP For Supermarkets">
         <link rel="shortcut icon" href="assets/images/codea-icon.png" type="ima">
@@ -32,7 +32,8 @@
         	
             <div class="super-head">
 
-                <h1>ERP FOR SUPERMARKETS</h1>
+                <h1>QUIQ-RETAIL</h1>
+                <h2>ERP For Supermarkets</h2>
             
             </div>
             
@@ -45,7 +46,7 @@
   <thead>
     <tr>
 
-      <th scope="col">Module</th>
+      <th scope="col">Modules</th>
       <th scope="col">Options</th>
       <th scope="col">Sub Menu</th>
     </tr>
