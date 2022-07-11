@@ -2,14 +2,14 @@
 <html lang="en">
 
 <head>
-    <?php include("./partials/html-head.php"); ?>
+    <?php include("$_SERVER[DOCUMENT_ROOT]/av-g/arch-angles/partials/html-head.php"); ?>
 </head>
 
 <body>
     <div class="wrapper">
 
         <!-- NAV HEADER -->
-        <?php include("./partials/nav-header.php"); ?>
+        <?php include("$_SERVER[DOCUMENT_ROOT]/av-g/arch-angles/partials/nav-header.php"); ?>
 
         <section id="home">
 
@@ -122,9 +122,9 @@
             </div>
         </section>
         <!-- FOOTER -->
-        <?php include("./partials/footer.php"); ?>
+        <?php include("$_SERVER[DOCUMENT_ROOT]/av-g/arch-angles/partials/footer.php"); ?>
         <!-- ESSENTIAL SCRIPTS -->
-        <?php include("./partials/scripts.php"); ?>
+        <?php include("$_SERVER[DOCUMENT_ROOT]/av-g/arch-angles/partials/scripts.php"); ?>
     </div>
 </body>
 
