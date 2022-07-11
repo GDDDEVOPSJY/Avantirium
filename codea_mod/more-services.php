@@ -26,14 +26,12 @@
     	
         <?php include('header.php'); ?>
         
-        
         <section class="sd-banners">
         <div class="container">
         <div class="row">	
         	
             <div class="col-md-6">
-            <div class="sd-head">
-            	
+            <div class="sd-head"> 	
                
                 <h1>MORE SERVICES...</h1>
 
@@ -59,8 +57,6 @@
         </div>
         </section>
         
-      
-
 <div class="container mt-5">
 
 <div class="row row-cols-1 row-cols-md-4 g-4 justify-content-center">
@@ -109,25 +105,8 @@
       </div>
     </div>
   </div>
-  <div class="col-12 col-md-5 col-lg-5 m-4">
-    <div class="card">
-    <div class="card-img">
-      <img src="assets/images/enterprise_bg.jpg" class="card-img-top" alt="...">
-    </div>
-      <div class="card-body">
-      <h3 class="black">ERP CUSTOMIZATION</h3>
-                <p class="card-p">
-                We provide a robust, scalable and deployable e-commerce management solution that best suits your business processes and sales-cum-promotional requirements.
-                <br><br>
-                    <a class="menu-more-links" href="https://www.codeatechnologies.com/fleet-management-softwares">Read more <i class="fas fa-chevron-right"></i></a>
-                </p>
-      </div>
-    </div>
-  </div>
 </div>
 </div>
-
-
 
 <section class="etoe-sd">
         <div class="container">
@@ -144,8 +123,6 @@
                     <div class="tab-pane fade show active" id="dd" role="tabpanel" aria-labelledby="home-tab">
                     <div class="row">
                         
-                        
-
                         <div class="col-md-6">
                             
                            <ul>
@@ -178,10 +155,8 @@
 </div>
 </div>
 </div>
-                    
-                    
-        </section>
-            
+                                   
+        </section>    
         
         <?php include('footer.php'); ?>
         

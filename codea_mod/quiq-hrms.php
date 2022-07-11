@@ -37,8 +37,7 @@
             	
                 <h1>QUIQ HRMS</h1>
                 <h2>HR and Payroll Management System</h2>
-                
-                
+                   
             </div>
             
         </div>

@@ -67,9 +67,7 @@
 
     <section class="pt-5 pb-5" style="background:white;">
         <div class="container">
-        	
-            
-            
+        	  
             <div class="row mt-5">
             	
                 <div class="col-md-4 text-center mb-4">

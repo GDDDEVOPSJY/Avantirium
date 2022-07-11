@@ -123,20 +123,7 @@
         </div>
         </div>
         </section>
-
-        
-       
-        
-        
-        
-        
-
-   
-       
-        
-        
-
-        
+      
  <section class="mt-5 mb-5"style="background-color:#e5e5e5;">
         <div class="container">
         	
@@ -332,9 +319,6 @@
                         <li>This concise visual format allows users to easily relay results to managers and stakeholders</li>
                         <br>
                         <li>Identifying audit trends is helpful to auditors and companies alike. While auditing trends have always existed, audit management software brings them to life in a visual, organized format.</li>
-
-
-
                     </ul>
                 </div>
                 
@@ -351,7 +335,6 @@
     </div>
 </section>
         
-       
         <section class="smart-adv pt-5 pb-5">
         <div class="container">
         <div class="row">
@@ -488,16 +471,10 @@
             <div class="col-md-6">
                 <img src="assets/images/svg/smart-ben-img.svg" alt="" class="img-fluid" />
             </div>
-            
              
         </div>
         </div>
         </section>
-
-
-
-
-
 
     <?php include('footer.php'); ?>
 

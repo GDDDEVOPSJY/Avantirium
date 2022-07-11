@@ -30,10 +30,8 @@
         <div class="container">
         	
             <div class="sre-head">
-            	
                 <h2>Rethink and Redesign your legacy applications to</h2>
-                <h1>Meet your strategic business objectives </h1>
-                
+                <h1>Meet your strategic business objectives </h1>   
             </div>
             
         </div>
@@ -67,14 +65,12 @@
                     </h2>
                     
                     <ul style="padding-left:15px;">
-                    	
                         <li>Save huge investments costs on new IT systems</li>
                         <li>Improve the stability and efficiency of existing systems without impacting the stakeholders</li>
                         <li>Easily add enhancements to the system to meet evolving needs.</li>
                         <li>Increased efficiencies, improved capacity, and improved business intelligence.</li>
                         <li>Refocus your energies on strategic initiatives</li>
                         <li>Tune in your application to the latest and updated technologies </li>
-                        
                     </ul>
                     
                 </div>
