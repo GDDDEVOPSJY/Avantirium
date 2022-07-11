@@ -20,4 +20,7 @@ body{
   justify-content: top;
   align-items: top;
 }
+p {
+  text-align: justify !important;
+}
 /* End Main Rules */
