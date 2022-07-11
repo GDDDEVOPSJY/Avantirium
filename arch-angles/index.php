@@ -123,9 +123,9 @@
         </section>
         <!-- FOOTER -->
         <?php include("./partials/footer.php"); ?>
+        <!-- ESSENTIAL SCRIPTS -->
+        <?php include("./partials/scripts.php"); ?>
     </div>
-    <!-- ESSENTIAL SCRIPTS -->
-    <?php include("./partials/scripts.php"); ?>
 </body>
 
 </html>
