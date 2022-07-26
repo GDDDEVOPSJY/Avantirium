@@ -94,7 +94,6 @@
                 </div>
             </div>
 
-
         </div>
     </section>
 
@@ -184,7 +183,6 @@
                       
                     </ul>
                 </div>
-
 
                 <div class="col-4">
                 <a href="#mb-5"> <i><b>GOODS RECEIPT</b></i></a>
@@ -291,7 +289,6 @@
                         <li>Wastage Report</li>
                     </ul>
 
-
                 </div>
 
                 <div class="col-4">
@@ -332,8 +329,6 @@
                        
                     </ul>
                 </div>
-
-
                 
                 <div class="col-4">
                 <a href="#mb-5"> <i><b>BILLING</b></i></a>
@@ -346,7 +341,6 @@
                     </ul>
                 </div>
 
-
                 <div class="col-4">
                 <a href="#mb-5"><i><b>RECEIVABLE REPORTS</b></i></a>
                     <ul type=disc>
@@ -357,8 +351,6 @@
                         <li>Area/Salesman/Location wise Outstanding</li>
                     </ul>
                 </div>
-
-
 
                 <div class="col-4">
                 <a href="#mb-5"> <i><b>SALES REGISTER</b></i></a>
@@ -371,7 +363,6 @@
                         <li>Profitability Register – Item/Group/Brand </li>
                     </ul>
                 </div>
-
 
                 <div class="col-4">
                 <a href="#mb-5">  <i><b>SALES RETURN/CREDIT NOTE</b></i></a>
@@ -404,8 +395,7 @@
                 <div class="col-4">
                 <a href="#mb-5"> <i><b> GOODS DELIVERY NOTE</b></i></a>
                 </div>
-                    
-
+    
         </div>
     </section>
 <!-- .......................................X...........................X.................................X.............-->
@@ -447,9 +437,7 @@
                 </div>
                 
             </div>
-            
-           
-            
+                   
     </div>
 
     </div>
@@ -477,7 +465,6 @@
                     </div>
                     
                 </div>
-                
                 
                 <div class="row mt-5">
                 	
@@ -623,8 +610,7 @@
                             <div class="col-md-6">
                                 <p style="border-left:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);">Sales Return (Credit Note)</p>
                             </div> 
-                            
-                            
+                              
                         </div>
                     	
                         <h4 class="black mb-3">Reports</h4>
@@ -731,13 +717,12 @@
             <section class="quarto-ser pt-5 pb-5">
         <div class="container">
         <div class="row text-left">
-        	
-                    
+        	         
             <div class="col-md-3 mt-5">
             	
                 <div class="quarto-ser-content">
                 
-                    <img src="assets/images/data-science-img-02.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-1.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">BUDGET</h4>
                    <ul>
                         <li>Accounts Budget</li>
@@ -754,7 +739,7 @@
             	
                 <div class="quarto-ser-content">
                     
-                    <img src="assets/images/data-science-img-03.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-2.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">COSTING</h4>
                 <ul>
                         <li>Cost Category (Expense/Revenue)</li>
@@ -771,7 +756,7 @@
             	
                 <div class="quarto-ser-content">
                     
-                    <img src="assets/images/data-science-img-04.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-3.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">DUTIES &amp; TAXES</h4>
                   
                 <ul>
@@ -795,7 +780,7 @@
             	
                 <div class="quarto-ser-content">
                     
-                    <img src="assets/images/data-science-img-04.jpg" alt="" class="img-fluid mb-3" />
+                    <img src="assets/images/quarto-ser-4.jpg" alt="" class="img-fluid mb-3" />
                     <h4 class="white text-uppercase mb-3">COMMUNICATION</h4>
                     <ul>
                         <li>Communication tool between users.</li>
@@ -822,9 +807,7 @@
 
     <section class="mt-5 mb-5">
         <div class="container">
-      
-                
-            
+        
             <div class="cloud-experience mt-5 text-center">
             
                 <h1>Payroll</h1>
@@ -866,7 +849,6 @@
                             <li>Loan/Deduction/Allowances Report</li>
                             <li>OT Register</li>
                             <li>Report Builder to manage reports</li>
-
 
                         </ul>
                         
@@ -1107,8 +1089,6 @@
         <div class="container">
         <div class="row">
         
-        	
-        	
             <div class="col-md-8">
                 <h1>Branch Management</h1>
                 <p>Create customers/suppliers/accounts and inventory from any branches and get the branch wise and consolidated statements of Cash, Sales, Purchases, Finance, Inventory statements based on the users related to the concerned branches. Online branch management also simplifies the integration of various activities of different branches with utmost efficiency.</p>
@@ -1145,7 +1125,6 @@
                 <h2 class="mt-2">Quarto Sync</h2>
                 <p class="mt-1">Even though the Internet connection is available in most of the places, the consistency in connectivity is very challenging. The inconsistency and non-availability of the internet hinders business activities. To eliminate this miserable situation, Quarto ERP developed a system which helps its users to work in the ERP system even when the connectivity is lost from the local computers</p>
               
-
             </div>
             
         </div>
@@ -1156,12 +1135,7 @@
       
 <!-- .................X...................X..............X -->
 
-
-
-
 <!-- FOOTER_SECTION -->
-
-
 
         <?php include('footer.php'); ?>
 

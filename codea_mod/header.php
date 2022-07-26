@@ -31,15 +31,28 @@
                 <li><a href="https://www.codeatechnologies.com/software-testing-services">Software Testing</a></li>
                 <li><a href="https://www.codeatechnologies.com/staff-augmentation">Staff Augmentation</a></li>
                 <li><a href="https://www.codeatechnologies.com/more-services">More Services</a></li>
+                <li><a href="https://www.codeatechnologies.com/quiq-retail">Quiq Retail</a></li>
             </ul>
         </li>
         <li class="active">
             <a><i class="fas fa-industry"></i> Solutions</a>
             <ul>
                 <li><a href="https://www.codeatechnologies.com/freight-warehouse-management-software">Freight &amp; Logistics</a></li>
+                <li><a href="https://www.codeatechnologies.com/codea-pmis">Codea-Pmis</a></li>
                 <li><a href="https://www.codeatechnologies.com/retail-erp-software-solutions">Retail Solutions</a></li>
                 <li><a href="https://www.codeatechnologies.com/hospitality-management-pos-softwares">Hospitality Solutions</a></li>
-                <li><a href="https://www.codeatechnologies.com/fleet-management-softwares">Fleet Management</a></li>
+                <li><a href="https://www.codeatechnologies.com/quarto-erp">Codea-Quarto</a></li>
+                <li><a href="https://www.codeatechnologies.com/codea-treat">Codea Treat</a></li>
+                <li><a href="https://www.codeatechnologies.com/safe-cheq">Codea Cofis</a></li>
+                <li><a href="https://www.codeatechnologies.com/quiq-hrms">Quiq Hrms</a></li>
+                <li><a href="https://www.codeatechnologies.com/quiq-office">Quiq Office</a></li>
+                <li><a href="https://www.codeatechnologies.com/document management system">Document Management System</a></li>
+                <li><a href="https://www.codeatechnologies.com/codea-oxive">Codea Oxive</a></li>
+                <li><a href="https://www.codeatechnologies.com/quiq-scm">Quiq Scm</a></li>
+                <li><a href="https://www.codeatechnologies.com/quiq-pharma">Quiq Pharma</a></li>
+                <li><a href="https://www.codeatechnologies.com/adobe-marketing-suite">Adobe Marketing Suite</a></li>
+                <li><a href="https://www.codeatechnologies.com/more-solutions">More Solutions</a></li>
+                
             </ul>
         </li>
 
@@ -276,8 +289,8 @@
 
                     <div class="col-md-4 item pt-3 pb-3">
                         <a href="https://www.codeatechnologies.com/adobe-marketing-suite">
-                            <img src="assets/images/svg/it_infrastructure.svg" alt="IT Infrastructure" class="icon-img" />
-                            <h3 class="white" style="font-size:14px;">IT<br>Infrastructure</h3>
+                            <img src="assets/images/adobe-icon.png" style="width: 40px;"  alt="IT Infrastructure" class="icon-img" />
+                            <h3 class="white" style="font-size:14px;">Adobe<br>Marketing Suite</h3>
                         </a>
                     </div>
 
@@ -296,7 +309,7 @@
                     </div>
 
                     <div class="col-md-4 item pt-3 pb-3">
-                        <a href="https://www.codeatechnologies.com/sap-implementation">
+                        <a href="https://www.codeatechnologies.com/quarto-erp">
                             <img src="assets/images/erp_icon.png" style="width: 40px;" alt="ERP Consulting" class="icon-img" />
                             <h3 class="white" style="font-size:14px;">ERP<br>Consulting</h3>
                         </a>
@@ -310,7 +323,7 @@
                     </div>
 
                     <div class="col-md-4 item pt-3 pb-3">
-                        <a href="https://www.codeatechnologies.com/more-services.php">
+                        <a href="https://www.codeatechnologies.com/more-services">
                             <img src="assets/images/more_services.png" style="width: 40px;" alt="More Services" class="icon-img" />
 
                             <h3 class="white" style="font-size:14px;">More<br>Services</h3>
@@ -384,7 +397,7 @@
                         <p class="white normal mt-1 mb-3" style="font-size: 9pt;">
                             Ports across the globe that have manual and outdated systems and slow paper-based processes are at clear disadvantage in the modern, knowledge-driven world.
                         </p>
-                        <a class="menu-more-link" href="https://www.codeatechnologies.com/freight-warehouse-management-software">Read more <i class="fas fa-chevron-right"></i></a>
+                        <a class="menu-more-link" href="https://www.codeatechnologies.com/codea-pmis">Read more <i class="fas fa-chevron-right"></i></a>
                     </div>
                     <div class="col-md-3">
                         <img src="assets/images/codea-pmis-menu-img.jpg" alt="" />

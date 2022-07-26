@@ -128,7 +128,6 @@
         </div>
        </section>
 
-
        <section class="pt-5 pb-5" style="background-color:#e5e5e5;">
         <div class="container">
             
@@ -162,10 +161,7 @@
             
         </div>
         </section>
-     
-
-
-               
+                
        <section class="mt-5 mb-5">
         <div class="container">
         	
@@ -246,9 +242,7 @@
                     <h1 class="mt-3 mb-3">Distribution Management</h1>
                     <p>	
                     There are various levels of distribution for logistic systems as the products go through several steps before getting delivered at the destination. Its essential to record the whole process and maintain the proper workflow of your organization. These products, services and distribution operations can be supervised with the help of an application in order to avoid any mistake.
-                    </p>
-                
-                
+                    </p>          
                     
                 </div>
                 
@@ -268,13 +262,10 @@
                     
                    
                     <p class="mt-3">The intricacies of supply chain depends on the right technology to keep track of the products, delivery and to keep everything safe and traceable. Considering the expectations and standards of consumers manufacturers and distributors must deploy technology implementations throughout the supply chain to ensure they are providing transparency and accurately tracking product along the entirety of its journey, from source to the end user.</p>
-                    <p>There are two modules for this application: A web-based admin panel and an android app.</p>
-                    
+                    <p>There are two modules for this application: A web-based admin panel and an android app.</p>      
                     
                 </div>
-
               
-                
             </div>
             
         </div>
@@ -310,10 +301,7 @@
                         <li>Delivery plan creation by uploading items for delivery including quantity, invoice number and customer</li>
                         <li>MIS reports based on sale orders and representative performance</li>
                     </ul>
-                    
-                   
-
-                    
+                      
                 </div>
 
                 <div class="col-md-6 pt-2">
@@ -336,12 +324,9 @@
                 <h2 class="text-uppercase bold mt- text-center" style="color:#000">For sales representatives:</h2>
             
                 <div class="row mt-2 text-justify">
-                	
-              
-                    
+                	   
                     <div class="col-md-6 text-center">
-                    	
-                        
+                    	   
                         <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View tasks assigned to the sales representative</p>
                         <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View tour plan assigned to the sales representative</p>
                         <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View details of customers assigned to the sales representative</p>
@@ -366,8 +351,7 @@
                         <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View list of customers in each route</p>
                         <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">View list of items to be delivered</p>
                         <p style="background:white; border-left:solid 5px #f1585d; border-right:solid 5px #f1585d; line-height:20px; margin-bottom:10px; padding:10px;">Mark as delivered / not delivered (with reason)</p>
-
-                        
+ 
                     </div>
                     
                 </div>

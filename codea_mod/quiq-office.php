@@ -93,8 +93,7 @@
         <h2 class="mb-2">Some back-office areas that can leverage an office automation system include:</h2>
         	
             <div class="row">
-            	
-                
+            	 
                 <div class="col-md-4">
                 	
                     <div class="office-areas">

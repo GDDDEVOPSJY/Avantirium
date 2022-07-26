@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <title>Retail ERP Software Solutions & Companies in Phoenix, San diego</title>
 
-<meta name="description" content="Codea´s advanced retail software solution in Phoenix, San diego can be tailored to suit the requirements of retailers across all sectors, we provides best Retail ERP softwares in all over California">
+<meta name="description" content="Codeaï¿½s advanced retail software solution in Phoenix, San diego can be tailored to suit the requirements of retailers across all sectors, we provides best Retail ERP softwares in all over California">
         <link rel="shortcut icon" href="assets/images/codea-icon.png" type="image/x-icon">
         
         <!-- CSS -->
@@ -44,13 +44,18 @@
         <div class="container">
         	
             <div class="text-center">
-            <h1>Retail consulting</h1>
+            
             </div>
         	
             <div class="row mt-5 text-justify">
             	
+               
+                
                 <div class="col-md-6">
+                    <h1 class="mb-3">Retail consulting</h1>
                 	
+                    <img src="assets/images/retail-img-01.jpg" alt="Retail ERP Software Solutions in Phoenix, San diego" class="img-fluid img-border" /> 
+                    
                     <p>
                     	With the unrelenting bets on trends and timing, the retail world has never been for the faint of heart. With the advent of the new era of digital disruption, improvised business models and increasing consumer expectations, running a profitable retail enterprise has become even more challenging. The companies must focus on providing an experience that delights customers and allures them to buy from you. For this, retails must understand what makes them stand out. At Codea, we understand how data and analytics can drive value around your brand and business. We create bespoke solutions that can help you utilize all the data on the various customers and empower you to learn what matters most to your customers. This way you can identify the important aspects of business and turn your focus to them, boosting performance and profits. 
                     </p>
@@ -60,11 +65,22 @@
                     </p>
                     
                 </div>
+
                 
                 <div class="col-md-6">
-                	
-                    <img src="assets/images/retail-img-01.jpg" alt="Retail ERP Software Solutions in Phoenix, San diego" class="img-fluid img-border" /> 
-                	
+                	<h1 class="mb-3">Quiq-Retail</h1>
+                    <img src="assets/images/quiq-retail-img-01.jpg" alt="Retail ERP Software Solutions in Phoenix, San diego" class="img-fluid img-border" /> 
+                    <h1 class="mt-4 mb-3 text-left">
+                    Multi store, Retail Chain and Franchise POS Platform
+                    </h1>
+                    <p>
+                    We help retailers of all sizes to run business efficiently with Cloud POS,  Loyalty, Integrated Payments, Inventory, WMS, Stocktake and integrations
+                    </p>
+                    <p>
+                    Quiq Retail is a  point of sale (POS) system that makes running your retail  business a breeze ; whether you manage a Supermarket , brick and mortar retail shop, eCommerce store, or service business. Use our all in one tailored POS system to manage every aspect of your growing venture
+                    </p>
+                    <br>
+                    <a class="menu-more-links" href="https://www.codeatechnologies.com/quiq-retail">Read more <i class="fas fa-chevron-right"></i></a>
                 </div>
                 
                 <div class="col-md-12">

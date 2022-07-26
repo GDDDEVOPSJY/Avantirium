@@ -47,23 +47,12 @@
         <section class="mt-5 mb-5">
         <div class="container text-center">
         	
-            <div class="sd-services mt-5">
-              
+            <div class="sd-services mt-5">  
                 <h1 class="pb-3 mt-5 codea-color2" style="font-size:40px;">OUR SOLUTIONS</h1>
-            
-                
             </div>
             
         </div>
         </section>
-
-
-
-
-
-
-
-
 
         <div class="container mt-5">
 
@@ -213,10 +202,7 @@
 
 </div>
 </div>
-
-
-
-         
+      
         <?php include('footer.php'); ?>
         
         <!-- JAVASCRIPT -->

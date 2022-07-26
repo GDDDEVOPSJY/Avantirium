@@ -40,7 +40,6 @@
         </div>
         </section>
 
-
         <section class="safe-top">
         <div class="container">
             
@@ -68,8 +67,6 @@
             
         </div>
        </section>
-
-
 
 <hr>
 
@@ -206,13 +203,10 @@
                 	<img src="assets/images/safe-cheq-architecture.png" alt="Safe-Cheq solution Architecture" style="height: auto; width: 100%;"/>
                    
                 </div>
-                
-                
-                
+                              
             </div>
             
         </div>
-
 
 </section>
 
@@ -283,8 +277,7 @@
                                 <p style="border-left:solid 4px #f1585d; border-right:solid 4px #f1585d; padding:5px; background:rgba(0,0,0,0.1);color: white;">Forming criteria for minimum balances, interest rates, number of withdrawals allowed and so on.</p>
                             </div>
                             
-                        </div>
-                        
+                        </div>                    
 </div>
 </section>
        
@@ -566,7 +559,6 @@
                 
             </div>
             </section>
-
 
             <section class="pt-5 pb-5">
         <div class="container">
