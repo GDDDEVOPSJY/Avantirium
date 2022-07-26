@@ -7,12 +7,10 @@
 
 <body>
     <div class="wrapper">
-
         <!-- NAV HEADER -->
         <?php include("$_SERVER[DOCUMENT_ROOT]/av-g/arch-angles/partials/nav-header.php"); ?>
 
         <section id="home">
-
             <div class="">
                 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -22,13 +20,13 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img class="d-block w-100" src="images/logo.png" alt="First slide">
+                            <img class="d-block w-100" src="images/logo1.png" alt="First slide">
                         </div>
                         <div class="carousel-item">
                             <img class="d-block w-100" src="images/logo1.png" alt="Second slide">
                         </div>
                         <div class="carousel-item">
-                            <img class="d-block w-100" src="images/logo.png" alt="Third slide">
+                            <img class="d-block w-100" src="images/logo1.png" alt="Third slide">
                         </div>
                     </div> <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                         <div class="carousel-icons">
